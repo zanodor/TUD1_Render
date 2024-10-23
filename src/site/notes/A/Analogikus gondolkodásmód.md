@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analogikus gondolkodásmód/","title":"Analogikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2024-10-22T22:10"}
+{"dg-publish":true,"permalink":"/A/Analogikus gondolkodásmód/","title":"Analogikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2024-10-23T20:25"}
 ---
 
 
@@ -31,7 +31,7 @@
 
 Már volt arról valahol szó, hogy a beduinok vagy kik voltak(?) a sejk lábában elefánt agyarát látták. Indiános filmben vaslónak hívtak valamilyen gépet, afrikaiak pedig a vonatsínt hívták vaskígyónak.  
 
-[[B/Bárány Péter\|Bárány Péter]]ről, Carl Jung előfutáráról szólva írja a témával kapcsolatban Gyárfás Ágnes:  
+Bárány Péterről, Carl Jung előfutáráról szólva írja a témával kapcsolatban Gyárfás Ágnes:  
 > "Bárány Péter az asszociációs lélektan első kidolgozói közé tartozik. Ennek lényege, hogy az ember egymáshoz csatolt képekben gondolkozik. A csatlakozás általában helyes, de lehet hibás vagy hiányos. Ebből adódnak a gondolkodási problémák, sőt, a lelki betegségek is. A csatlakozó képek lehetnek világosok, vagy homályosak. A homályos képek elmerülnek, mert a friss világos képek elnyomják őket. Bárány Péter ezzel a leírásával nemcsak korát előzte meg, hanem Sigmund Freud mély lélektanának is elébe ment több mint 100 esztendővel." (Dr. Gyárfás Ágnes 2020, december 3.)  
 
 [[L/Logikai gondolattársítás, gondolatfűzés\|Logikai gondolattársítás, gondolatfűzés]] címnél is szerepelt:  
