@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2024-10-23T20:07"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2024-10-23T20:11"}
 ---
 
 
@@ -72,12 +72,12 @@ Ezzel ő azt mondja, hogy a [[K/Kovács\|kovács]] szavunk szláv eredetű...
 
 Összefoglalás:  
 > A balog ige bronzkori, bal lábára bicegőt jelent. A fémművesek lábidegeinek sorvadását a bronz arzéntartalma okozta.  
-> A kovács szó a bronzkorban a magyar nyelvben tabu volt \[na persze\], helyette balog rejtő szót használták \[nem ismeri Péterfai János Orionos adatát\]. A Balog családnévnév a kovácsok ragadványneve. A Kalevala részben kora bronzkori monda. A cigányoknak adott Balog családnév rézművest jelent.  
+> A kovács szó a bronzkorban a magyar nyelvben tabu volt \[na persze\], helyette balog rejtő szót használták \[nem ismeri Péterfai János Orionos adatát\]. A Balog családnév a kovácsok ragadványneve. A Kalevala részben kora bronzkori monda. A cigányoknak adott Balog családnév rézművest jelent.  
 
-Ha még Balog úr a [[B/Blacksmith\|blacksmith]] angol szót is felhozta volna, akkor lett volna teljes a kép, de a [[B/Ballag\|ballag]] igét is említhette volna: a lassú járás a sántasággal jár. [[S/Sánta\|Sánta]] címnél is írtuk közben:  
+Ha még Balog úr a [[B/Blacksmith\|blacksmith]] angol szót is felhozta volna, akkor lett volna teljes a kép, de a `ballag` igét is említhette volna: a lassú járás a sántasággal jár. [[S/Sánta\|Sánta]] címnél is írtuk közben:  
 Azt közben ne felejtsük el, hogy az egylábúság és a láb (ruhával való) takarása szóba került Gyárfás Ágnes Ősi Gyökeres cikkeiben. [[F/Félév\|Félév]] címnél áll némi adata erre nézve. Dobos Csanád [[D/Dzsed\|dzsed]] és [[Z/Zep Tepi\|Zep Tepi]] címnél álló adata is érinti Ozirisz lábát, befeketítését. [[L/LÁB\|Láb]] cím alján mindkét szerző ilyen adatait taglaljuk.  
 Na most, a [[L/LÁB\|láb]] szavunk fordítva [[B/Bál\|Bál]], mely Nimród-Orion neve is. Fentebb közben szerepelt is egy jó megoldás a sánta kovács, Orion kilétére nézve. De persze a cikkíró nem vette/vehette elő az ősvallásra utaló fogalmakat.  
-Na most, Orion az, aki Szíriusszal éppen felezi az évet. Onnantól kezdve a napok rövidülnek. A sántaságot az is okozhatja, hogy az egyik láb rövidebb mint a másik. Sőt, Orion lábának helye az [[E/Égi egyenlítő\|égi egyenlítő]]höz képest is vizsgálandó. Azt se feledjük, hogy Balog = [[B/Ballag\|ballag]], és a sánta ember csak ballagni tud. Sőt, botot is hordhat, mint [[P/Papszukkal\|Papszukkal]]-Orion. Mely átvezet a pásztor-istenséghez és a vlachok hegyi pásztorok is voltak..  
+Na most, Orion az, aki Szíriusszal éppen felezi az évet. Onnantól kezdve a napok rövidülnek. A sántaságot az is okozhatja, hogy az egyik láb rövidebb mint a másik. Sőt, Orion lábának helye az [[E/Égi egyenlítő\|égi egyenlítő]]höz képest is vizsgálandó. Azt se feledjük, hogy Balog = ballag, és a sánta ember csak ballagni tud. Sőt, botot is hordhat, mint [[P/Papszukkal\|Papszukkal]]-Orion. Mely átvezet a pásztor-istenséghez és a vlachok hegyi pásztorok is voltak..  
 
 Térjünk vissza a [[B/Blacksmith\|blacksmith]] szóra. A fentiek értelmében akkor mondhatnánk azt is, hogy pleonazmus: a balog is kovács és a [[S/Smith\|smith]] is kovács. A [[B/Black\|black]] fekete értelmének és eredetének feledésével és még a blacksmith komplett értelmének nem értésével (az alábbi passzus alapján csak értik) alakult ki végül az ellenpár [[W/Whitesmith\|whitesmith]] kifejezés. Így magyarázzák a különbséget ([[V/Vas\|VAS]] címnél is szerepelt és lám, [[W/White\|white]] és vas szavak ugyanúgy fehéret is jelentenek!):  
 Asszámi kovácsokról szóló leírásban olvasható:  
@@ -126,7 +126,7 @@ Ami pedig a szóalakot illeti, megint csak a [[P/Palóc\|palóc]] változata a B
   
 Hasonló vagy azonos nevek nem ugyanolyan (mentalitású) népeket jelölnek: a [[P/Pártus\|pártus]]t és a [[P/Perzsa\|perzsá]]t is egynek veszik, de nem ugyanazok. A bibliai zsidókat a szemiták behelyettesítették azokkal a jász-filiszteusokkal, akik az igazi zsidók lehettek. Aztán ott vannak a különféle, gyűjtőfogalmakat jelölő hun, avar és szkíta nevek, stb. Ami pedig nagy csapás is lehet román nacionalisták számára, kimondani, hogy ugyanúgy lettek az oláhok valakik a székelyek által, ahogy a cigányok a szikanok és palócok által (mely palóc az ő nevükben is megjelenik, ahogy a [[R/Roma\|roma]] név is vélhetően a romun változata, tehát azt is felvehették, mármint a cigányok).  
 
-Valóban, a vlach, balog (és walesi) olyan neveknek tűnnek, mint a [[P/Palóc\|palóc]] ([[P/Pelaszg\|pelaszg]]). [[B/Ballag\|Ballag]] mellett még a `balga` és a vlach kapcsán is említett [[V/Valag\|valag]] nevek is ilyenek. Pallag családnév is ilyen alakú. [[P/Pallag\|Pallag]] címnél a vlach-oláh témát megint elővettük.  
+Valóban, a vlach, balog (és walesi) olyan neveknek tűnnek, mint a [[P/Palóc\|palóc]] ([[P/Pelaszg\|pelaszg]]). Ballag mellett még a `balga` és a vlach kapcsán is említett [[V/Valag\|valag]] nevek is ilyenek. Pallag családnév is ilyen alakú. [[P/Pallag\|Pallag]] címnél a vlach-oláh témát megint elővettük.  
 Hasonló alakú még a [[F/Flash\|flash]] címnél is előjövő francia `flèche` = nyíl; villám, mely ugye az égisten/viharisten kelléke és Orion attribútuma is.  
 
 Amiről még eddig nem esett szó, az a [[B/Baluch\|Baluch]]/Baluchi/Baloch/Beludzs név, mely a Balog és vallach/vlach névvel azonos. Amennyiben Balog Bal-Ug lenne, Bál Fiára/Fiaira lenne érthető (Bál-Nimród fia a Nap, annak fia az ember/nép). Viszont kétségtelen, hogy a kovács foglalkozás is tapad a cigányokhoz[^5].  
@@ -175,4 +175,4 @@ Egy másik tipikus cigány (de eredetileg égi magyar) családnév *Balog* szint
 Az is lehetséges, hogy a vlach nép eredetileg balog (jegyezzük meg a *beludzs* népet is) eredetű volt (de valószínűbb, hogy kumán juh- vagy kecskepásztorok voltak). Én személy szerint nem hiszem, hogy a román és a roma (cigány) népek között van kapcsolat, bár nem zárnám ki teljesen.  
 
 [^6]: Lábjegyzet:  
-A [[K/Khors\|Khors]] címnél látott Velykyi Khors (Nagy Khors) kifejezésben látott szláv szó Balog v-előhangos váltoatának tűnik. A szerb-horvát `veliki` = nagy szintén.
+A [[K/Khors\|Khors]] címnél látott Velykyi Khors (Nagy Khors) kifejezésben látott szláv szó Balog v-előhangos váltoatának tűnik. A szerb-horvát `veliki` = nagy szintén.  
