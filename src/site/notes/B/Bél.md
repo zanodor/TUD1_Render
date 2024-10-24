@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"]}
+{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2024-10-24T16:20"}
 ---
 
 
@@ -56,6 +56,7 @@ Igen valószínű ezek után, hogy a [[V/Velő\|velő]] neve is lényegében Bé
 
 A húsvéti feltámadás vasárnapjának szláv `Wielkanoc` nevében talált lengyel `wielka` = nagy melléknév is talán Bél nevéből ered, ugyanolyan alapon, ahogy [[B/Béla\|Béla]] a fehér jelentést adja.  
 
+A walesi nyelvben is `bol` = bél, has.  
 A koreai nyelvben is `bél` a bél.  
 
 
