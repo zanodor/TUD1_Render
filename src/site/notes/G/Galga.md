@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galga/","title":"Galga","created":"2023-10-23T03:07","updated":"2024-10-25T18:57"}
+{"dg-publish":true,"permalink":"/G/Galga/","title":"Galga","created":"2023-10-23T03:07","updated":"2024-10-25T19:01"}
 ---
 
 
 # Galga
 
-Több magyar település (pl. Galgagyörk, Galgahévíz) nevében megvan ezen előtag, mely a különösen [[G/Galgamácsa\|Galgamácsa]] nevével azonosulni látszó [[G/Galgamás\|Galgamás]] ([[G/Gilgames\|Gilgames]]) nevében is megvan.  
+Több magyar település (pl. Galgagyörk, Galgahévíz) nevében megvan ezen előtag, mely a különösen Galgamácsa nevével azonosulni látszó [[G/Galgamás\|Galgamás]] ([[G/Gilgames\|Gilgames]]) nevében is megvan.  
 
 #### Gyárfás Ágnes A kék emlékkő...
 
