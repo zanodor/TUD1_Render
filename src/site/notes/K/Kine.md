@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kine/","title":"Kine","tags":["Englishtexttranslated"],"created":"2024-02-03T05:35","updated":"2024-10-25T22:22"}
+{"dg-publish":true,"permalink":"/K/Kine/","title":"Kine","tags":["Englishtexttranslated"],"created":"2024-02-03T05:35","updated":"2024-10-25T22:23"}
 ---
 
 
 # Kine
 
 Elavult angolságban tehenek gyűjtőneve, többesben. Újabb kún/hun alakú szó. Itt is a [[K/KIN\|KIN]] = Nap szent értelmét kell keresni. Szent minden, ami a Nappal, Tejúttal, tejjel, tehénnel kapcsolatos.  
+Vagy inkább [[G/GU\|GU]] -en germán többes számban.  
+
 A kelta-írben `cine` = nép, törzs, mely azt veti fel, hogy itt [[K/KIN#Kin 2)\|kin]] = rokon értelmét lehet inkább keresni.  
 Erről volt szó [[C/Cow\|cow]] és [[D/Dugh\|dugh]] ([[D/DUG\|DUG]]) kapcsán is, [[K/Kutya\|kutyá]]k kapcsán is.  
 
