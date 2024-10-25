@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Calculate/","title":"Calculate","created":"2023-11-06T04:20","updated":"2024-10-25T16:04"}
+{"dg-publish":true,"permalink":"/C/Calculate/","title":"Calculate","created":"2023-11-06T04:20","updated":"2024-10-25T16:10"}
 ---
 
 
