@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galgal/","title":"Galgal","created":"2023-11-12T12:58","updated":"2024-10-25T18:57"}
+{"dg-publish":true,"permalink":"/G/Galgal/","title":"Galgal","created":"2023-11-12T12:58","updated":"2024-10-25T19:01"}
 ---
 
 
