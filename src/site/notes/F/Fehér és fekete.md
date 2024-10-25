@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2024-10-25T01:44"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2024-10-25T15:05"}
 ---
 
 
@@ -101,13 +101,13 @@ Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 
 </div></div>
 
 
-Tóth Gyula Maghreb blogos anyagában van egy Fekete magyarok, fehér magyarok című fejezet is. #todo
+Tóth Gyula Maghreb blogos anyagában van egy Fekete magyarok, fehér magyarok című fejezet is. 
 
-[[F/Fischer Károly Antal\|Fischer Károly Antal]] A hunok és magyarok fekete, ill. fehér elnevezésének megfejtése címmel létezik írása, melyből alkalomadtán további adatok szűrhetők ki. #todo
+[[F/Fischer Károly Antal\|Fischer Károly Antal]] A hunok és magyarok fekete, ill. fehér elnevezésének megfejtése címmel létezik írása, melyből alkalomadtán további adatok szűrhetők ki. 
 
 Ha már [[S/Szűr\|szűr]], éppen erről is szó van tőle [[F/Fehér és fekete#Fischer Károly Antal szűrszín-elmélete az újabb kutatások tükrében\|Fischer Károly Antal szűrszín-elmélete az újabb kutatások tükrében]] cím/alcímnél.  
 
-**Harsányi Ildikó: Fekete magyarok, fehér magyarok** című könyvét egyelőre nem sikerült beszerezni. #todo
+**Harsányi Ildikó: Fekete magyarok, fehér magyarok** című könyvét egyelőre nem sikerült beszerezni. 
 
 #### Stefan Brink és Neil Price The Viking World...  
 
@@ -116,7 +116,7 @@ Ha már [[S/Szűr\|szűr]], éppen erről is szó van tőle [[F/Fehér és feket
 > —  
 > A nevezéktan másik, a gael és (valószínűleg származékosan) a walesi nyelvhasználatra jellemző aspektusa a vikingek két csoportjának felismerése, amelyeket az ógael `ﬁnd` (közép-gael `ﬁnn`, modern gael `ﬁonn`) és az ógael és ówalesi `dub` preﬁxed melléknevek jellemeznek: szó szerint ezek jelentése "világos" és "sötét", "fehér" és "fekete", és régóta találgatások folynak a vikingekkel kapcsolatos használatukról, amikor a gael gen(n)ti (walesi `gint`, `gynt`) és a Gaill. A faji vagy etnikai értelmezéseket a modern tudományosság már régóta előnyben részesíti, ami a kortárs kultúra jellegzetes reﬂexe (Downham 2004b). A XVII. századi gael írók ezt a szembenállást az "előbbi"/"utóbbi"-ra értették, és néhány újabb tudós elfogadta ezt a használatot (Smyth 1974-7; Dumville 2004): lehetővé teszi, hogy különbséget tegyünk a szigetvilágban (különösen a IX. században) működő, politikailag és genealógiailag deﬁnált viking csoportok között, amelyek különösen Dublinhoz kapcsolódtak (Downham 2007).  
 
-Bakos Attila A Duna evangéliuma című könyvének 265. oldalon kitér valamennyire a kusok kapcsán a fekete magyarokra is. Kérdés, hogy valódi fekete magyarok voltak, vagy magyarul beszélő civilizáltak, mint a Max Igan és [[F/Flink Attila\|Flink Attila]] féle ausztrál "magyarok" (ahol fehér bőrű bennszülöttek is éltek a feketékkel).  
+Bakos Attila A Duna evangéliuma című könyvének 265. oldalán kitér a kusok kapcsán a fekete magyarokra is. Kérdés, hogy valódi fekete magyarok voltak, vagy magyarul beszélő civilizáltak, mint a Max Igan és [[F/Flink Attila\|Flink Attila]] féle ausztrál "magyarok" (ahol fehér bőrű bennszülöttek is éltek a feketékkel).  
 
 Talán a [[M/Mór\|mór]]oknak a fekete magyarokhoz is közük van, írja Péterfai János.  
 
