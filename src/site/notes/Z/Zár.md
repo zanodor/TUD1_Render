@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2024-10-26T00:52"}
+{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2024-10-27T01:30"}
 ---
 
 
@@ -14,7 +14,7 @@ Zár, szorít szavakkal is kapcsolatos...
 
 #### Magyar Adorján...
 
-...Fáy Elek [[A/Angry\|angry]] címnél szereplő passzusa nyomán keletkező írása, mely [[S/Serpent\|serpent]] címnél is szerepelt (márpedig a kört formáló kígyó valóban zár, zárja a kört):  
+...Fáy Elek [[A/Anger\|anger]] címnél szereplő passzusa nyomán keletkező írása, mely [[S/Serpent\|serpent]] címnél is szerepelt (márpedig a kört formáló kígyó valóban zár, zárja a kört):  
 > Őseinknél a kígyó a gonoszság, kajánság, tőrbecsalás, álnokság jelképének volt fölfogva. Tudjuk pedig azt is, hogy a nagyobb fajta kígyók a patkányt, nyulat, sőt az óriáskígyók a nagyobb állatot is fogva, hosszú testükkel valóságos kacskaringókba (spirálokba) csavarodnak áldozatukra és ezt így többszörösen körül zárva, halálra szorítják, megfojtják sőt csontjait is, különösen mellkasát, összetörik, és csak ezután nyelik az állatot el. És íme: a magyar zár és szorít, valamint a latin-olasz `serra` = zár és szorít igék pontosan megfelelnek a latin-olasz `serpens`-`serpente`, `serpe` = kígyó szónak.  
 
 A szolim-szarmata fejezetében pedig:  
