@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anya/","title":"Anya","tags":["containsaigenerateddiagram"],"created":"2024-11-08T00:20","updated":"2024-11-08T00:20"}
+{"dg-publish":true,"permalink":"/A/Anya/","title":"Anya","tags":["containsaigenerateddiagram"],"created":"2024-11-08T00:20","updated":"2024-11-08T15:21"}
 ---
 
 
@@ -42,11 +42,11 @@ card "magyar <color:#e7545c>magyar</color>" as magyar
 card "magyar <color:#e7545c>ég</color>" as ég
 card "magyar <color:#e7545c>gé</color>" as gé
 
-ég --> gé : megfordítása
-AN --> anya : éganya
-MA --> magyar : Földanya
-MA --> anya
-AN --> MA : megfordítása
+ég -- gé : megfordítása
+AN -- anya : éganya
+MA -- magyar : Földanya
+MA -- anya
+AN -- MA : megfordítása
 
 @enduml
 ```{ #cm6wnv}
