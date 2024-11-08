@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sógor/","title":"Sógor","tags":["containsaigenerateddiagram"],"created":"2024-11-08T15:26","updated":"2024-11-08T15:26"}
+{"dg-publish":true,"permalink":"/S/Sógor/","title":"Sógor","tags":["containsaigenerateddiagram"],"created":"2024-11-08T15:26","updated":"2024-11-08T15:31"}
 ---
 
 
@@ -15,7 +15,7 @@ Sógor lehet napsógor, mint Ipolyi Arnold Magyar mythologia című könyvének 
 
 Vesd össze a [[K/Koma\|koma]] és [[K/KUN\|KUN]] címnél szereplő spanyol `cuñado`/`cuñada` = sógor(nő) szavakkal; ott is Napnevek állnak.  
 
-[[S/Sacchar-\|Sacchar-]] és [[S/Sugar\|sugar]] címnél hasonló sémi és közel-keleti szavakról volt szó: az akkád `zikaru` = férfi, héber `zakhár` = hím, férfi, az arab `zakar` (zekernek ejtik) = hím; hímtag értelműnek megadott. A perzsa és urdu `shohar` = férj ugyanezen sémi szóforma kell legyen.  
+[[S/Sacchar-\|Sacchar-]] és [[S/Sugar\|sugar]] címnél hasonló sémi és közel-keleti szavakról volt szó: az akkád `zikaru` = férfi, héber `zakhár` = hím, férfi, az arab `zakar` (zekernek ejtik) = hím; hímtag értelműnek (vö. arab `ḏakar` = hímtag) megadott. A perzsa és urdu `shohar` = férj ugyanezen sémi szóforma kell legyen.  
 
 ```plantuml-svg
 @startuml
@@ -49,7 +49,7 @@ sogor -- szel : jelentés
 sogor -- cunadacunada : napnevek
 sogor -- zikaru : férfi
 zikaru -- zakhar : férfi
-zakhar -- zakar : hím
+zakhar -- zakar : hím(tag)
 zakar -- shohar : férj
 
 @enduml
