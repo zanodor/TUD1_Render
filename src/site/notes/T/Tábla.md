@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tábla/","title":"Tábla","tags":["Englishtexttranslated"],"created":"2024-11-20T04:19","updated":"2024-11-20T04:19"}
+{"dg-publish":true,"permalink":"/T/Tábla/","title":"Tábla","tags":["Englishtexttranslated"],"created":"2024-11-20T04:19","updated":"2024-11-20T20:18"}
 ---
 
 
@@ -30,5 +30,5 @@ Hogy a tábla, [[T/Tábor\|tábor]] szavaink a tűzzel kapcsolatosak, lásd [[T/
 #### Magyar Adorján...
 
 ...finn `taulu` = tábla szava B > V (U) változással jöhetett létre, de Magyar A. adatát lefejtve éppen [[T/TÁL\|tál]] szavunk lenne a kiinduló:  
-> ...régibb nyelvünkben létezett `iga` = gyűrű, karika szavak összetételéből, azaz tehát két azonos értelmű magyar szóból képzett összetételből keletkezett, mely iga szavunk az állatok befogására való iga nevén kívül, még a tal-iga szavunkban is megvan, mert kimutatható, hogy a taliga szó eredeti értelme tulajdonképpen kerék volt.  
+> ...régibb nyelvünkben létezett `iga` = gyűrű, karika szavak összetételéből, azaz tehát két azonos értelmű magyar szóból képzett összetételből keletkezett, mely [[I/Iga\|iga]] szavunk az állatok befogására való iga nevén kívül, még a tal-iga szavunkban is megvan, mert kimutatható, hogy a [[T/Taliga\|taliga]] szó eredeti értelme tulajdonképpen kerék volt.  
 > Ha pedig most a lapot jelentő magyar tel szótő és a finn `taulu` = tábla szó révén rájöttünk, hogy taliga szavunk tal része tábla, vagy lap-félét jelent, akkor világosan látjuk, hogy taliga szavunk azon ősrégi küllőtlen kerekek neve volt, amelyek kerek fakorongokból készültek és tálcához voltak hasonlíthatók, illetve a régi erdélyi fatálakhoz, fatányérokhoz hasonlítottak, ha azoknál nagyobbak voltak is.  
