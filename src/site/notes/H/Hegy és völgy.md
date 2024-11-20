@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2024-11-19T11:24"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2024-11-20T20:28"}
 ---
 
 
@@ -37,7 +37,7 @@ rec1 -r-> w1 : A hegy a mennyig ér
 rec3 -r-> w3 : A hegy az égig ér (Ég hehezetesen és lágyítva: Hegy)
 rec2 -r-> w2 : Föld és Hold nőiség (GÉ = ÉG megfordítása)
 @enduml
-``` { #u7jgmo}
+```{ #2hbvxn}
 
 
 Az azóta több címnél szereplő passzus is kerüljön ide:  
