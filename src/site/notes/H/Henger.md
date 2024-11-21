@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Henger/","title":"Henger","tags":["Englishtexttranslated"],"created":"2024-11-19T11:20","updated":"2024-11-19T11:20"}
+{"dg-publish":true,"permalink":"/H/Henger/","title":"Henger","tags":["Englishtexttranslated"],"created":"2024-11-19T11:20","updated":"2024-11-21T18:37"}
 ---
 
 
@@ -12,7 +12,7 @@ Nyilván a hengeres testeken és testekben való elforgás azaz mindenképpen a 
 A hengermalom (miután a [[M/Malom\|malom]] is forgó [[V/Világmodell\|világmodell]]) képzetét is ide kell venni.  
 
 Ami e név elemzését illeti, hehezet nélkül az inger, inga és inog szavakkal lehet kapcsolatot keresni, továbbá a H < K (vissza)változással az elhajlást, görbedést, konyulást kifejező K-N, K-M vázú szavakkal. Ilyen például a [[K/Kunkor\|kunkor]].  
-(Egy röpke pillanat erejéig a germán [[H/Hang\|hang]] szóval is hasonlíttatott, de [[H/Henge\|henge]] szóval is lehet fogalmi rokonságot találni, sőt, bizonyos értelemben az azóta bőven taglalt [[H/Hunger\|hunger]] (lásd még [[H/Hunker\|hunker]]) szóval is.)  
+  
 
 Tulajdonképpen a [[H/Hegy\|hegy]] és az inga/inog szavak keverékének tűnik, és a mellékelt kép alapján kell gondolni valami metafizikai képre. Lefektetve a [[H/Hegy és völgy\|hegy és völgy]] váltakozásait kapjuk: a felső és alsó amplitúdó a henger kör alapjának sugarával egyenlő.  
 
