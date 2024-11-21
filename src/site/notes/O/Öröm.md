@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","created":"2023-10-20T07:00","updated":"2024-11-21T16:31"}
+{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","created":"2023-10-20T07:00","updated":"2024-11-21T18:30"}
 ---
 
 
