@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-21T16:30"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-21T18:13"}
 ---
 
 
