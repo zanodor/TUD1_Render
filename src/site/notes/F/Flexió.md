@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-11-20T20:20"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-11-21T18:16"}
 ---
 
 
