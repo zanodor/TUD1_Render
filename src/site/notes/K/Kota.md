@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2024-11-23T05:19"}
+{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2024-11-23T05:20"}
 ---
 
 
@@ -98,4 +98,3 @@ kut -- kut2 : Magyar Adorján adata
 
 @enduml
 ```
-^ogfwrw
