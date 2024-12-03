@@ -1,1 +1,1 @@
-`= óriás szót a svéd `
+`= óriás szó azonosságát a finn `
