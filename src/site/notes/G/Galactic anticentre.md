@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-10-25T18:56"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-12-08T11:52"}
 ---
 
 
@@ -13,7 +13,7 @@ A Wikipédia adata szerint a Tejútközponttal szemben az [[A/Auriga\|Auriga]] v
 > A galaktikus koordinátarendszer szempontjából a galaktikus középpont (a Nyilasban) 0°-os hosszúságnak felel meg, míg az anticentrum pontosan 180°-on helyezkedik el. Az egyenlítői koordinátarendszerben az anticentrum nagyjából az RA 05h 46m, dec +28° 56' ponton található.  
 > ![assets/Galacticanticentre_image1.png|invert_dark](/img/user/G/assets/Galacticanticentre_image1.png)  
 - Még meg is rajzolja nekünk a segédvonalat, hogy könnyen megtalálhassuk.  
-A fentebb említett [[S/Szekeres csillagkép\|Szekeres csillagkép]] jelentőségéről már Szántai Lajos is szólt, lásd ott. A Szekeres fényes alfája, [[C/Capella\|Capella]] pedig, ahogy [[N/Ninurta\|Ninurta]] címnél is szerepelt, a [[T/Tejútoszlopok\|Tejútoszlopok]] egyike.  
+A fentebb említett [[S/Szekeres csillagkép\|Szekeres csillagkép]] jelentőségéről már Szántai Lajos is szólt, lásd ott. A Szekeres fényes alfája, [[C/Capella\|Capella]] pedig, ahogy [[N/Ninurta\|Ninurta]] címnél is szerepelt, a [[T/Tejútoszlopok\|Tejútoszlopok]] egyike.
 
 Itt csak az a kérdés, mennyire pontosan számoltak (mármint azzal, hogy a Tejútközpontot belőjék).  
 Nos, [ezen](https://en.wikipedia.org/wiki/Galactic_coordinate_system) oldalon álló adatok szerint jól járnak el. (Radio source Sagittarius A*, which is the best physical marker of the true galactic center, is located at 17h 45m 40.0409s, −29° 00′ 28.118″ (J2000).)  
@@ -42,7 +42,7 @@ De először még, hogy térben el tudjuk képzelni, álljon egy John M. Jenkins
 
 [[N/Nap#Csillagképek iránya\|Csillagképek iránya]] címnél is szerepelt:  
 Az értelmezésből az látszik kiderülni, hogy az Ikrekben van az északi kapu, a Nyilasban pedig a déli. Ergo ha jól értelmezem, jelenleg – a Vaskorban – a Tejútfa nem fejjel lefelé áll, hanem rendesen (a fa gyökere van délen) és csak 13000 év múlva áll a feje tetejére az Aranykorba érve ([[Z/Zep Tepi\|Zep Tepi]] címnél volt már erről vagy hasonlóról szó korábban; lásd a Dobos Csanád féle magyarázatra adott reakcióm).  
-John M. Jenkins tehát helyesen a GC nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).  
+John M. Jenkins tehát helyesen a Tejútközpontnak nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).  
 
 Érdekes még ([[S/Szűz csillagkép\|Szűz csillagkép]] címnél, ahol a Szíriuszt és a Szüzet próbáltuk közös nevezőre hozni, szintén szerepelt):  
 > Virgo, Sirius (the Galactic Anticenter indicator), and the Galactic Center are geometrically related in the sky, and Isis has found a home in each location.  
