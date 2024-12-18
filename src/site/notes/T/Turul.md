@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2024-12-18T11:38"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2024-12-18T19:00"}
 ---
 
 
@@ -388,8 +388,9 @@ Ezt a témát lejjebb taglaljuk még, [[T/Turul#Turul határjelző madár\|Turul
 A zöldhalompusztai aranyszarvas kapcsán mondja Kubínyi Tamás Turul és Szarvas V. rész című ÁKA előadásában[^8], hogy benne is megtaláljuk a Turult, az agancsai között/alatt.  
 
 Ahogy [ezen](http://emf-kryon.blogspot.com/2013/05/a-teremto-ur-szeretettel-teremtette-meg.html) oldalon is áll:  
-A magot hozó madár és szarvas násza az ún. állatküzdelem összetett jele a szkítáktól napjainkig folyamatosan fönnmaradt.  
-![image|500](/img/user/T/assets/Turul_image31.jpeg)  
+> A magot hozó madár és szarvas násza az ún. állatküzdelem összetett jele a szkítáktól napjainkig folyamatosan fönnmaradt.  
+
+![assets/Turul_image31.jpeg](/img/user/T/assets/Turul_image31.jpeg)  
 Még két szkíta ábrázolást tegyünk ide.  
 
 ![assets/Turul_image32.png](/img/user/T/assets/Turul_image32.png)  
@@ -450,19 +451,23 @@ Ez a hármas összefüggés-rendszer viszont kiegészül egy negyedikkel, a [[S/
 Már csak annak az összefüggésnek a feltárása marad, hogy a négy név kapcsolható-e az [[A/Apocalypse\|apocalypse]] és [[S/Sphinx\|Sphinx]] címnél is taglalt [[V/Világ négy oszlopa\|Világ négy oszlopá]]hoz. Nyilván így nem. Mindenesetre két napfordulót kipipálhatunk: a szarvas a téli napfordulóra, a szamár a nyári napfordulóra utal. A madarakat illetően ugyanígy a [[T/Turul\|Turul]] a téli, a [[H/Holló\|holló]] ([[U/Ullu\|Ullu]]) a nyári napfordulóra utal.  
 
 ![assets/Turul_image35.png|invert_dark](/img/user/T/assets/Turul_image35.png)  
-[[D/Dame\|Dame]], [[D/Damkina\|Damkina]] és [[N/Ninhursag\|Ninhursag]] címnél is volt szó arról, hogy a Falvay Károly és Marija Gimbutas által említett sumér szarvasistennő vajon milyen néven futhatott. A mellékelt kép igen érdekes, így ide is teszem. Az, hogy két szarvas van, szerintem csak annyit jelent (mint [[A/Artemisz\|Artemisz]] címnél az egyik képen), mint [[J/Janus\|Janus]] két arca: a téli napforduló által osztott félévekről lehet szó. Tehát ugyanarról van szó, amiről imént szóltunk: a Szarvas a komplett Napútra/Tejútra (nem teljesen ugyanaz; lásd Paksi Zoltán videóját) utal Csudaszarvasként, de a középen levő megszülető Napmadár téli napfordulós téridőbeli helye által bontott a két félév. - Badiny Jós Ferenc Turul, Karácsony napmadara című Ősi Gyökér 2004/4. sz. megjelent cikkében ugyan a képet nem hozza, de utal rá. A fentebb két helyen is megkezdett adatainak folytatását adom (kicsit későn sajnos, mert ugye Fórika és mások adataival hamarabb találkoztam):  
-Természetesen ezeknek a karizmatikus fogalmaknak nemcsak "értelmi jelentésük" volt a hitvilági életben, hanem látható szimbólumaik is megmaradtak. Így a TURUL fogalom oroszlánfejű sassal van jelképezve, mely azért áll a két szarvas között, mert az "agancsos állat" a [[B/Bak csillagkép\|Bak csillagkép]]ének emlékeztetője. Azért van kettő, mert egyiktől megy el a gyenge erőből és a másikhoz tér vissza legyengülve.  
+[[D/Dame\|Dame]], [[D/Damkina\|Damkina]] és [[N/Ninhursag\|Ninhursag]] címnél is volt szó arról, hogy a Falvay Károly és Marija Gimbutas által említett sumér szarvasistennő vajon milyen néven futhatott. A mellékelt kép igen érdekes, így ide is teszem. Az, hogy két szarvas van, szerintem csak annyit jelent (mint [[A/Artemisz\|Artemisz]] címnél az egyik képen), mint [[J/Janus\|Janus]] két arca: a téli napforduló által osztott félévekről lehet szó. Tehát ugyanarról van szó, amiről imént szóltunk: a Szarvas a komplett Napútra/Tejútra (nem teljesen ugyanaz; lásd Paksi Zoltán videóját) utal Csudaszarvasként, de a középen levő megszülető Napmadár téli napfordulós téridőbeli helye által bontott a két félév. 
 
-De a mítoszban a NAPKIRÁLYFI jelképe mégis a szarvas lesz, hiszen ő viszi szarvai közt a Napot. A Csodaszarvasunk képére ismerünk, kinek neve ősi sumir nyelvünk szerint DAR-MAH és ha szarvai közt megjelenik a téli solsticio idején a nap – az emberek tudják, hogy vége van a sötétség idejének, és mindennap hosszabbodnak a napok. Új ciklus, ÚJ-ÉV kezdődik. (A sumir hitvilág "napévének" újesztendei ünnepe volt a téli napforduló a GURUSÚNY – KARÁCSONY.) A "két" szarvas, az oroszlánfejű hatalmas madár két oldalán, azt is megmagyarázza, hogy van "kisebbik" és "nagyobbik" is. Éppenúgy, mint Apa és Fia. A Nagy-Szarvas – DAR-MAH és a legyengült kicsi, amelynek az Új ciklus, lejártával "elgyengült az ereje" s egyben az elgyengült Napot is értelmezi a "SA-BA (CSABA), ... ahol SA ... "fény, napfény" (L 86) és Bakos Attila – (PA) "pásztor" L 295). Éppen úgy, mint a földön is a Nagykirály és a legkisebb fia – Csaba. \[A folytatást nem tenném ide, pedig egy aranylemez képét is közli, de nem tudom, hogy jót tettek-e be a cikkbe a szöveg mellé. Nem egyértelmű itt valami és Badiny értelmezései Labat alapján is igen kétségesek.\]  
+#### Badiny Jós Ferenc Turul Karácsony napmadara...  
 
-Bakos Attila A Duna Evangéliuma c. könyvének 281. oldalán is hozza a képet, az alábbi képaláírással (a két irányba induló szarvas fiúk kérdését inkább hagyjuk, de a Magur-oroszlán és a Magyar-madár alak ötvözése az ő figyelmét nem kerülte el):  
-Épületdísz Ur városának közelében feltárt Ninhurság (Nő-urság), a termékenység és a szülés istennőjének templomából. A dombormű a magyar rege a csodaszarvasról ősgeszta kozmikus téridő-minőségével. Magar (Madár és Makar azaz oroszlán) Nap-atya generáló középponıjából két irányba induló szarvas fiúk, Kr e. 2500-ből.  
+...című Ősi Gyökér 2004/4. sz. megjelent cikkében ugyan a képet nem hozza de utal rá. A fentebb két helyen is megkezdett adatainak folytatását adom (kicsit későn sajnos mert ugye Fórika és mások adataival hamarabb találkoztam):  
+> Természetesen ezeknek a karizmatikus fogalmaknak nemcsak "értelmi jelentésük" volt a hitvilági életben, hanem látható szimbólumaik is megmaradtak. Így a TURUL fogalom oroszlánfejű sassal van jelképezve, mely azért áll a két szarvas között, mert az "agancsos állat" a [[B/Bak csillagkép\|Bak csillagkép]]ének emlékeztetője. Azért van kettő, mert egyiktől megy el a gyenge erőből és a másikhoz tér vissza legyengülve.  
+> 
+> De a mítoszban a NAPKIRÁLYFI jelképe mégis a szarvas lesz, hiszen ő viszi szarvai közt a Napot. A Csodaszarvasunk képére ismerünk, kinek neve ősi sumir nyelvünk szerint DAR-MAH és ha szarvai közt megjelenik a téli solsticio idején a nap – az emberek tudják, hogy vége van a sötétség idejének, és mindennap hosszabbodnak a napok. Új ciklus, ÚJ-ÉV kezdődik. (A sumir hitvilág "napévének" újesztendei ünnepe volt a téli napforduló a GURUSÚNY – KARÁCSONY.) A "két" szarvas, az oroszlánfejű hatalmas madár két oldalán, azt is megmagyarázza, hogy van "kisebbik" és "nagyobbik" is. Éppenúgy, mint Apa és Fia. A Nagy-Szarvas – DAR-MAH és a legyengült kicsi, amelynek az Új ciklus, lejártával "elgyengült az ereje" s egyben az elgyengült Napot is értelmezi a "SA-BA (CSABA), ... ahol SA ... "fény, napfény" (L 86) és Bakos Attila – (PA) "pásztor" L 295). Éppen úgy, mint a földön is a Nagykirály és a legkisebb fia – Csaba. \[A folytatást nem tenném ide, pedig egy aranylemez képét is közli, de nem tudom, hogy jót tettek-e be a cikkbe a szöveg mellé. Nem egyértelmű itt valami és Badiny értelmezései Labat alapján is igen kétségesek.\]  
 
-#### Bakos Attila A Duna Evangéliuma...
+#### Bakos Attila A Duna Evangéliuma...  
 
-...című könyvének 171. oldalán adja maya szarvas és madaras infóját (persze nem a fenti kontextusról volt ott szó, de érdekes mégis):  
+...című könyvének 281. oldalán is hozza a képet, az alábbi képaláírással (a két irányba induló szarvas fiúk kérdését inkább hagyjuk de a Magur-oroszlán és a Magyar-madár alak ötvözése az ő figyelmét nem kerülte el):  
+> Épületdísz Ur városának közelében feltárt Ninhurság (Nő-urság), a termékenység és a szülés istennőjének templomából. A dombormű a magyar rege a csodaszarvasról ősgeszta kozmikus téridő-minőségével. Magar (Madár és Makar azaz oroszlán) Nap-atya generáló középpontjából két irányba induló szarvas fiúk, Kr e. 2500-ből.  
+
+Bakos könyvének 171. oldalán adja maja szarvas és madaras infóját (persze nem a fenti kontextusról volt ott szó, de érdekes mégis):  
 > Landa püspök tudatja velünk, hogy mikor 1517 elején Francisco Hernandez de Cordova, az első spanyol, aki a mayák országát lábával érintette, partra szállt egy Mugeres vagy Magaras (Magyarős) nevezetű kis szigeten, a lakosok, az országuk neve iránti kérdezősködésre így feleltek: U-luumil ceh (a szarvas földje) és U-luumil cutz (a madár földje).  
-- [[M/Madár\|Madár]] címnél is szerepelt.  
+- [[M/Madár\|Madár]] címnél is szerepelt.
 
 ![assets/Turul_image36.jpeg](/img/user/T/assets/Turul_image36.jpeg)  
 Ha már Karácsony, ilyenkor történik a Kutyacsillaggal való együttállás is. A Gyárfás Ágnes Vízi Péter – Vízi Pál: Nemzeti hősmonda mesében elbeszélve című az Ősi Gyökér 2011/4. sz. megjelent cikkében csatolt i.e. 5-6. századi thrák-szkíta övcsaton (lelet neve: Bronze matrix, Garchinovo, north-eastern Bulgaria) is megtaláljuk a Turult, a \[karácsony idejére utaló\] hátratekintő szarvast és ezenkívül egy kutyát is. A Turul az égi fogantatás madara. A szarvas maga az \[éji\] ég, ágas-bogas szarvai a Tejutat mintázzák. A kutya az ég kiemelt csillagképe a Canis Mayor, a Nagy Kutya csillagkép, kinek vezércsillaga a Szíriusz az Istenanya megszemélyesítője, az égi Boldogasszony, Szűz Mária sorshordozó csillaga.  
