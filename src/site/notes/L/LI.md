@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-12-16T13:48"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-12-18T05:14"}
 ---
 
 
@@ -25,7 +25,7 @@ LI az alábbiak szerint viszont nem lehet fa (Péterfai János írja):
 
 # Li 2)
 
-A `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `kifli`, `stangli`, `puszedli`, `tarkedli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `bóvli`, `verkli`, `spicli`, `virtigli`, `betli` és hasonló szavak germán eredetűek.   
+A `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `kifli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `bóvli`, `verkli`, `spicli`, `virtigli`, `betli` és hasonló szavak germán eredetűek.   
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
 Ugyanígy a grúz `jaĝli` = kutya lehet Tűz Király értelmű, miután a roma `jag` = tűz jelentésű. Vagy inkább li = lich képző.  
