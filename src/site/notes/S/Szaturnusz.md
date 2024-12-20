@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2024-12-18T11:01"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2024-12-20T11:44"}
 ---
 
 
@@ -79,7 +79,7 @@ Robert Graves The White Goddess című könyvében ezt már leírta a Szaturnusz
 > —  
 > Ninib, az asszír Szaturnusz a Dél istene volt, ezért a déli Napé, és a tél közepéé is, amikor a Nap eléri legdélibb pontját, és egy napra megáll.
 
-[[Z/Zamistán\|Zamistán]], [[T/Tél\|tél]] és [[G/Gemination\|gemination]] címnél tovább is megyünk: az indo-iráni [[Y/Yama\|Yama]] (Szaturnusz) adja ki nemcsak az ind, de a kelta és latin telet jelentő szavakat is!  
+[[Z/Zamistán\|Zamistán]], [[T/Tél\|tél]] és [[G/Gemini\|gemini]] címnél tovább is megyünk: az indo-iráni [[Y/Yama\|Yama]] (Szaturnusz) adja ki nemcsak az ind, de a kelta és latin telet jelentő szavakat is!  
 
 #### Jankovics Marcell folytatja:  
 
@@ -342,7 +342,7 @@ Ez a Prométheusz-történet satlo'lq-ul. De ennél sokkal több is. A Szarvas n
 Szaturnusz eredetileg agráristen volt, aki a csillaghit szerint épp aratáskor, a Rák és az Oroszlán havában "hal meg" a Nap áldozataként, vagy ahogy az asztrológiai zsargon mondja: "kerül rangvesztésbe, száműzetésbe". Nem véletlen, hogy az aratás havát Kronosz egy másik megtestesülésének, Phaethónnak a bukása is jelképezi, amiben a Napnak, Héliosznak szintén szerepe van (a Nap szerepe nyilvánvaló, ő érleli meg "áldozatra" a gabonát).  
 
 [^10]: Lábjegyzet:  
-Szaturnusz egyik szanszkrit neve: Kála, melynek jelentései "idő" és "halál" és "kékesfekete." Lásd még etimológiai levezetését [[K/Kali Yuga\|Kali Yuga]].  
+Szaturnusz egyik szanszkrit neve: **Kála**, melynek jelentései "idő" és "halál" és "kékesfekete." Lásd még etimológiai levezetését [[K/Kali Yuga\|Kali Yuga]].  
 Ide kapcsolódik Diodórosz illetve Varga Zsigmond közlése: a babiloni zikurtornyok a plánéták színeire voltak festve. A napnak arany volt a színe, a holdé ezüst, a Vénuszé tarka, a Merkúré vörös, a Jupiteré fehér, a Marsé zöld, a Saturnuszé pedig fekete. Néha a színek felcserélődnek, de a Szaturnusz mindig fekete marad.  
 
 [^11]: Lábjegyzet:  
@@ -361,4 +361,4 @@ José Lull és Juan Antonio Belmonte által összeállított The Constellations 
 
 [^15]: Lábjegyzet:  
 Frank Dénes Dániel írja:  
-A zsidó csillagfejtésben a Szaturnusz meghiúsítja az ember terveit, de a védence ellen irányuló rosszat elhárítja. A Szaturnuszt a zsidók is negatív szerepben láttatják, miként a babilóni és a görög mitológia. Az ókorban a szamarat Szaturnusz állatának tekintették, és ezért fogta rá Tacitus a zsidókra, mint szombatot ünneplőkre, hogy szamárfejet imádnak. A szamárimádás hiedelmének másik alapjául az szolgálhatott, írja Kecskeméti Ármin, hogy a Szaturnusz görög neve, Kronosz, egybehangzott az onosz görög szóval, ami szamarat jelent. A görögök pedig Izráel Istenét a Szaturnusszal azonosították.  
+A zsidó csillagfejtésben a Szaturnusz meghiúsítja az ember terveit, de a védence ellen irányuló rosszat elhárítja. A Szaturnuszt a zsidók is negatív szerepben láttatják, miként a babilóni és a görög mitológia. Az ókorban a szamarat Szaturnusz állatának tekintették, és ezért fogta rá Tacitus a zsidókra, mint szombatot ünneplőkre, hogy szamárfejet imádnak. A szamárimádás hiedelmének másik alapjául az szolgálhatott, írja Kecskeméti Ármin, hogy a Szaturnusz görög neve, Kronosz, egybehangzott az `onosz` görög szóval, ami szamarat jelent. A görögök pedig Izráel Istenét a Szaturnusszal azonosították.  
