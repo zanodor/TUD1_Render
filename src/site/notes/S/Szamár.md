@@ -1,7 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2024-10-26T00:26"}
+title: Szamár
+foreign_title: false
+aliases:
+  - szamár
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+  - containstransclusions
+share: true
+dg-publish: true
+dg_created: 2023-10-15T10:43
+dg_updated: 2024-12-20T11:42
+dg_upload: done
+date_created: 2023-06-29
+date_modified: 2024-12-20T11:42
+gh_repo_url:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/S/Szam%C3%A1r.md
 ---
-
 
 # Szamár
 
@@ -214,7 +233,7 @@ De arról is lehet beszélni, hogy [[B/Bál\|Bál]] nemcsak a Nap, hanem Orion n
 Itt még egy dolgot kellene vizsgálni. Azt, hogy a [[P/Precesszió\|precesszió]] milyen hatást fejt ki. Ugyanis a Nyilassal szemközti az Ikrek, aztán ott a fentebb taglalt Rák, de az Oroszlán a valódi fénymaximum helye (volt).  
 Még az is megfordult a fejemben, hogy az [[I/Ikrek csillagkép\|Ikrek csillagkép]] utalt eredetileg a [[A/Ahet\|ahet]] kapcsán is említett két szamárra, csak a precesszió miatt elcsúsztak a dolgok (nyilván téves ezen következtetés).  
 Viszont figyeljük meg még az alábbit is:  
-Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemination\|gemination]] és más címszavaknál írottak szerint az Ikrekre utal.  
+Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemini\|gemini]] és más címszavaknál írottak szerint az Ikrekre utal.  
 
 ## Lábjegyzetek
 
