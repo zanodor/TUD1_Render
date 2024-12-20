@@ -1,26 +1,7 @@
 ---
-title: Szamár
-foreign_title: false
-aliases:
-  - szamár
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-  - containstransclusions
-share: true
-dg-publish: true
-dg_created: 2023-10-15T10:43
-dg_updated: 2024-12-20T11:42
-dg_upload: done
-date_created: 2023-06-29
-date_modified: 2024-12-20T11:42
-gh_repo_url:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/S/Szam%C3%A1r.md
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2024-12-20T11:46"}
 ---
+
 
 # Szamár
 
@@ -58,7 +39,11 @@ Ha a fentieket nem vennénk figyelembe (mert nem lennének ilyen összefüggése
 
 [[K/Khamor\|Khamor]] címnél is szerepeltek az alábbiak:  
 A héber `hamorim` = íjász, nyilazó értelemmel megadott szó szó szerint valójában (bolondokat, ellenálló szkítákat) szamarakat jelent, márpedig [[S/Széth\|Széth]] \[egyik\] állata a szamár, másrészt a szamár mindig a szabadságszerető magyarokról/hunokról neveztetett el (azóta csillagképekről: Rák = [[S/Szamár csillagkép\|Szamár csillagkép]]ről is volt szó).  
-A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]-nak megfelelő (héberben) lázadó jelentést Harold I. Saperstein Witness from the Pulpit című könyvének 190. oldaláról igen (ahol többek közt íjász értelem mégis előbukkan):  
+A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]-nak megfelelő (héberben) lázadó jelentést...
+
+#### Harold I. Saperstein Witness from the Pulpit...  
+
+...című könyvének 190. oldaláról igen (ahol többek közt íjász értelem mégis előbukkan):  
 > Another group of commentators explains the sin of Moses in terms of the anger and impatience demonstrated toward the people. `Hamorim` – "rebels," he called them (Num. 20:10), and by his irritable condemnation he indicated his lack of faith. For he repudiated them, though God himself had not done so. Rashi, in this context, cites the midrashic passage in which, when Moses was searching for the rock, he angrily rejected the use of the one selected by the people. It was then that he called them hamorim and the Midrash gives several derivations for the word. One comes from a Greek root, meaning fools. Another is connected with the word meaning teachers, as though he were saying, "You who presume to teach your teachers." A third links it with the word meaning archers implying "you who shoot upon your leaders with your arrows." They conclude that temper and contempt were unworthy of his position as a leader.  
 > —  
 > A kommentátorok egy másik csoportja Mózes bűnét a néppel szemben tanúsított haraggal és türelmetlenséggel magyarázza. Hámorim - "lázadóknak" nevezte őket (4Mózes 20:10), és ingerült elítélésével jelezte hitetlenségét. Ugyanis elvetette őket, noha maga Isten nem tette ezt. Rási ebben az összefüggésben idézi azt a midrási szakaszt, amelyben Mózes, amikor sziklát keresett, dühösen utasította vissza a nép által kiválasztott szikla használatát. Ekkor hámorimnak nevezte őket, és a Midrás többféle levezetést is ad a szóra. Az egyik egy görög gyökből származik, ami bolondokat jelent. Egy másik a tanítókat jelentő szóval függ össze, mintha azt mondaná: "Ti, akik tanítóitokat tanítani meritek". Egy harmadik az íjászokat jelentő szóval kapcsolja össze, ami arra utal, hogy "ti, akik a vezetőitekre lövöldöztök a nyilaitokkal". Ebből arra következtetnek, hogy az indulat és a megvetés méltatlan volt vezetői pozíciójához.  
