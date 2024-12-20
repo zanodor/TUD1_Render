@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hím/","title":"Hím","created":"2024-05-01T14:44","updated":"2024-12-20T11:38"}
+{"dg-publish":true,"permalink":"/H/Hím/","title":"Hím","created":"2024-05-01T14:44","updated":"2024-12-20T11:45"}
 ---
 
 
@@ -27,7 +27,7 @@ A [[F/Fehér és fekete\|fehér és fekete]] és [[H/Hunor és Magor\|Hunor és 
 ...című könyvében szereplő passzus is idevehető:  
 > A számos szarvasregében emlegetett "fehér szarvas" ősmagyar mitológiánkban csak a szóban lévő ős-szarvasunk nőstényére vonatkozott, mivel szerintem, míg a hím fekete volt, addig nősténye fehér vagy világos-szürke színű kellett hogy legyen.  
 - Ez némiképp ellentmond annak viszont, amit idáig gondoltunk, bár a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél írottak szerint is Hunorhoz, a Magornál "hímebb" aspektushoz a sötét passzol (és akkor itt még szólni kell arról is, hogy a **hím** szó eredete mi lehet). <br/>
-A fehér és fekete szarvas kettőse kapcsán itt még jegyezzük meg, hogy kétszarvasos ábrázolásokat például [[J/Janus\|Janus]] címnél szerepeltettünk (persze ott a szarvasok színében nem volt eltérés).  
+A fehér és fekete szarvas kettőse kapcsán itt még jegyezzük meg, hogy két szarvasos ábrázolásokat például [[J/Janus\|Janus]] címnél szerepeltettünk (persze ott a szarvasok színében nem volt eltérés).  
 
 Ahogy [[G/Gemini\|Gemini]] címnél is írtuk, **a Gemini név Gem- előrésze Gém/Hím is lehet**.  
 [[O/Orion#Szíriusz-Orion állatalakjai\|Szíriusz-Orion állatalakjai]] cím/alcímnél is írtuk, hogy a kutyát, lovat, tapírt is jelentő [[K/Kuda\|kuda]] név lényegében a **hím** és innen a (nagy) hímtag(gal rendelkező állatok) gyűjtőneve illetve jelzője lehet.  
