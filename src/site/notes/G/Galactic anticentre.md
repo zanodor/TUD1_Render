@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-12-12T00:43"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-01-02T13:51"}
 ---
 
 
@@ -97,7 +97,7 @@ John Major Jenkins Galactic Alignment című könyvének 33. oldalán írja, hog
 
 > By way of the ballcourt's solstitial alignment with the Milky Way, which is nevertheless a north-south alignment, the north-south axis of Chichen is conflated with polar north and Galactic Center south. While the Pole Star hovers some 20° above the northern horizon, the nuclear bulge of the Galactic Center can be seen to pass through the southern meridian at twice that height-thus again the north-south dialogue between polar and galactic centers. Although on one level an opposition between the Galactic Center and the northern polar region can be viewed (as just described), a primary axial opposition between the Galactic Center and the Pleiades also exists.  
 > —  
-> A gömbpálya és a Tejútrendszer napfordulós együttállása révén, amely mindazonáltal észak-déli együttállás, a Chichen észak-déli tengelye összeolvad a poláris északkal és a Tejútközpont déli részével. Míg a Sarkcsillag mintegy 20°-kal az északi horizont felett lebeg, addig a Tejútközpont nukleáris dudora láthatóan kétszer ekkora magasságban halad át a déli meridiánon – így ismét észak-déli párbeszéd alakul ki a sarki és a galaktikus középpont között. Bár egy szinten a Tejútközpont és az északi sarkvidék közötti szembenállás látható (az imént leírtak szerint), a Tejútközpont és a Plejádok között is létezik egy elsődleges tengelyirányú szembenállás.  
+> A gömbpálya és a Tejútrendszer napfordulós együttállása révén, amely mindazonáltal észak-déli együttállás, a Chichen észak-déli tengelye összeolvad a poláris északkal és a Tejútközpont déli részével. Míg a Sarkcsillag mintegy 20°-kal az északi horizont felett lebeg, addig a Tejútközpont galaxismag dudora láthatóan kétszer ekkora magasságban halad át a déli meridiánon – így ismét észak-déli párbeszéd alakul ki a sarki és a galaktikus középpont között. Bár egy szinten a Tejútközpont és az északi sarkvidék közötti szembenállás látható (az imént leírtak szerint), a Tejútközpont és a Plejádok között is létezik egy elsődleges tengelyirányú szembenállás.  
 
 Azaz a Tejútközpontból különböző képzeletbeli egyenesek húzhatók, de gyakorlatilag a Tejút forgása miatt más és más világtengely (Tejút = világfa = világtengely) értelmezéseket kapunk. Ahogy Jankovics Marcell is írja, nem teljesen idevagóan ([[T/Tejút\|Tejút]] címnél is szerepelt):  
 A Tejút 24 óra alatt látszólag körbefordul az égen, ezért a türelmes megfigyelő néhány óra múlva úgy látja, mintha eldőlt volna eredeti helyzetéhez képest.  
