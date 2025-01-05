@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-01-02T13:52"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-01-05T21:22"}
 ---
 
 
@@ -619,7 +619,8 @@ A Földre vonatkoztatott precesszió által előidézett kúp- ill. tölcsérsze
 Time Equivalence of the Tropical Year and the Sidereal Year  
 
 [^7]: Lábjegyzet:  
-Valahol kiszámoltam, hogy a Szíriusz 8.6 fényéves távolságával mintegy 25000 Naptávolságra van tőlünk.  
+A Szíriusz 8.6 fényéves távolságával mintegy 543000 Naptávolságra van tőlünk.
+
 
 [^8]: Lábjegyzet:  
 Azért elvileg, mert a csillagászati szoftverek, melyek ezen diagramok elkészítésében segítséget nyújtottak, úgy számolnak, hogy a sziderikus és tropikális év között különbséget tesznek. Éppen ezért gyakorlatilag megbízhatatlanok. Gyakorlatilag nem tudjuk, hogy 3-5000 évvel ezelőtt mi hol, hogyan állt, csak a régiek tudták. Az, hogy mely szent építményeik hová, milyen irányba lettek tájolva a jelenlegi világhónap előtti évezredekben, belemagyarázás is lehet.  
