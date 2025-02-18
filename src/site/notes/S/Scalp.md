@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Scalp/","title":"Scalp","tags":["Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/S/Scalp/","title":"Scalp","tags":["Englishtexttranslated"],"created":"2025-01-30T16:31","updated":"2025-01-30T16:31"}
 ---
 
 
@@ -18,7 +18,7 @@ Kal-Pa felbontásban Nagy Fa/Fő értelmű. [[K/Kalpa\|Kalpa]] az ind szent irat
 
 #### Szergej Tokarev írja:  
 
-> Scalping was once related to religious beliefs: a warrior would try to take the scalp of a dead enemy in order to possess his soul, forcing the enemy to serve his own soul in the afterlife, or deprive his enemy's soul of peace, forcing it to wander over the land.   
+> Scalping was once related to religious beliefs: a warrior would try to take the scalp of a dead enemy in order to possess his soul, forcing the enemy to serve his own soul in the afterlife, or deprive his enemy's soul of peace, forcing it to wander over the land.
 > —  
 > A skalpolás egykor vallási hiedelmekkel volt összefüggésben: a harcos megpróbálta megszerezni egy halott ellenség skalpját, hogy birtokába vegye a lelkét, arra kényszerítve az ellenséget, hogy a túlvilágon a saját lelkét szolgálja, vagy megfosztva az ellenség lelkét a békétől, arra kényszerítve, hogy a földön bolyongjon.  
 
