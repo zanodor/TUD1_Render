@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Scalp/","title":"Scalp","tags":["Englishtexttranslated"],"created":"2025-01-30T16:31","updated":"2025-01-30T16:31"}
+{"dg-publish":true,"permalink":"/S/Scalp/","title":"Scalp","tags":["Englishtexttranslated"],"created":"2025-01-30T16:31","updated":"2025-02-18T01:07"}
 ---
 
 
