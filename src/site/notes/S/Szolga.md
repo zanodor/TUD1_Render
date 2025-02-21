@@ -1,7 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2024-10-24T00:03"}
+title: Szolga
+foreign_title: false
+aliases:
+  - szolga
+  - szolgá
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg_created: 2024-10-24T00:03
+dg_updated: 2025-02-21T17:11
+dg_upload: done
+date_created: 2023-04-07
+date_modified: 2025-02-21T17:11
+gh_repo_url:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szolga.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szolga.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szolga.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szolga.md
+  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/S/Szolga.md
+danglinglink_commentedout: true
 ---
-
 
 # Szolga
 
@@ -65,7 +85,7 @@ A mai ember már nem az Istent és az általa (vagy fia, a Nap által, vagy a f�
 Nem akarom túlragozni a dolgot (Jankovics Marcell is írt a televízió káros hatásairól), de a lényeg a hamis világkép fenntartása és legfőképpen az időnkkel való rendelkezés. Azzal, hogy megmondják, mit lehet tenni az időnkkel és pénzünkkel, hol keressük meg és költsük el, teljesen kiszolgáltatjuk magunkat. A szolgaiság ebben mutatkozik meg. De az, hogy ez egy bezárt világ, egy börtön, arra senki sem gondol, ahogy a rabszolgaság fogalmára sem, hisz arról mindenki tudja, hogy már eltörölték (az, hogy Bangladeshben hány kiskorú mennyiért varr a Nike-nak rabszolgaként, ebben senki sem gondolkodik, hisz túl távoli és azokat az embereket koszosnak, büdösnek és butának gondolja).  
 Ilyen csapdába kerül az emberiség és muszáj végiggondolni a dolgokat. És hogyan lenne jobb másképp, mint a Szol-Ga eredeti fogalmából kiindulva.  
 Nagyon fontos az embereknek arról is tudni, hogy kik voltak azok a népek és csoportok, akik nem a munkából (és az élet és Isten tiszteletéből) akartak megélni. Ott vannak például a Tacitus által leírt germánok, akiket Magyar Adorján is említ: ne dolgozz, ha erőszakkal el tudod venni mástól élelmét, sőt, asszonyát (aki használhatsz, több dologra is, hiszen erőnek erejével uralkodhatsz rajta). A görög, szemita és a latin nép, nem beszélve a későbbi hajtásokról (világuralomra törő zsidóság és az ilyen szemléletű gyarmatosítók) szintén ilyen erkölcsi (nulla) szinten képzelte el az életet.  
-A másik semmittevő, de erőszakot már nem (na de várjuk addig, amíg a két csoport össze nem állt, akkor már erőszakkal térítettek, de leginkább raboltak) gyakorló két "kaszt" (vagy szekta) a a spirituális értelemben hasznavehetetlen, szakrális uralmat gyakorló papság/egyház és az uzsorás, melyek már a görög korban egymásra találtak (de Jézus is kiverte a kufárokat a templomból). Ezek ketten együtt ([[J/Judeo-kereszténység\|judeo-keresztény]] egyház, élén a maffiózó Vatikánnal és a pápával) ma is uralkodnak felettünk. Fontos dolog számukra annak látszatának fenntartása, hogy templomok kis befolyással bíró lelkészei hirdessék a Biblia tanait, melyben legitimizálták a vezető szerepüket: úgy a zsidókét, mint a kezdettől fogva kezükre játszó egyházét.  
+A másik semmittevő, de erőszakot már nem (na de várjuk addig, amíg a két csoport össze nem állt, akkor már erőszakkal térítettek, de leginkább raboltak) gyakorló két "kaszt" (vagy szekta) a spirituális értelemben hasznavehetetlen, szakrális uralmat gyakorló papság/egyház és az uzsorás, melyek már a görög korban egymásra találtak (de Jézus is kiverte a kufárokat a templomból). Ezek ketten együtt ([[J/Judeo-kereszténység\|judeo-keresztény]] egyház, élén a maffiózó Vatikánnal és a pápával) ma is uralkodnak felettünk. Fontos dolog számukra annak látszatának fenntartása, hogy templomok kis befolyással bíró lelkészei hirdessék a Biblia tanait, melyben legitimizálták a vezető szerepüket: úgy a zsidókét, mint a kezdettől fogva kezükre játszó egyházét.  
 Oldalakat lehetne még írni a témáról.  
 A lényeg, hogy nem mindegy kinek szolgálunk = dolgozunk, az ördögnek/sátánnak vagy Istennek (lásd erről frissen [[K/Kapitalizmus\|kapitalizmus]] címnél írottakat is). Kinek a malmára hajtjuk a vizet. Hiszen a [[M/Munka\|munka]] [[M/MUN\|MUN]] eleme is hordozza a malom jelentést. A [[S/Sárkány\|sárkány]] fogalmát körüljárva is erről volt szó: a haszonelvű és a vágyakat kielégíteni akaró felfogással eladjuk a lelkünket az ördögnek, és lám, a [[J/Judeo-kereszténység\|judeo-kereszténység]] már arról is tett, hogy lélek nem is volt (mit akarunk mi még lelket). Ha erről lehetne egy hosszabb, komolyabban megírt esszét írnom, az jó lenne.  
 
