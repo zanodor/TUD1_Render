@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-10-26T00:43"}
+title: Újév
+foreign_title: false
+aliases:
+  - újév
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg_created: 2023-11-13T05:49
+dg_updated: 2025-02-21T17:11
+dg_upload: done
+date_created: 2023-04-07
+date_modified: 2025-02-21T17:11
+gh_repo_url:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/U/%C3%9Aj%C3%A9v.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/U/%C3%9Aj%C3%A9v.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/U/%C3%9Aj%C3%A9v.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/U/%C3%9Aj%C3%A9v.md
+  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/U/%C3%9Aj%C3%A9v.md
 ---
-
 
 # Újév
 
@@ -106,7 +124,7 @@ Azzal, hogy a Szíriusz neve egyezik a tél évszakuk nevével, arra utalhat, ho
 
 A fentiekkel szépen párosul, hogy [[P/Pan-Hu\|Pan-Hu]] és legutóbb [[S/Szíriusz Kínában\|Szíriusz Kínában]] címnél szereplő adatok szerint, a Pan-Hu-ista népek nemcsak a rizst, ételüket köszönik a [[K/Kutya\|kutyá]]nak, hanem az év kezdetét is a neki szentelt újévi rítusokkal is Pan-Hu születésnapjához kötik. (A mai kínai újév a mongolhoz (mindkettőnél holdújév van) és indiaihoz hasonlóan, nem esik egybe a nyugaton ünnepelttel, de régen máshogy lehetett, illetve maga a szokás jó irányba, Szíriusszal való kapcsolhatóság felé terel és ez a lényeg.)  
 
-Kapcsolódás lehet az ind [[S/Sarama\|Sarama]] = Szíriusz és a a perzsa-angol szótárban tél jelentésre elsőként adatolt `sarma` (Szár-Ma, Fényes Föld) szavak azonossága is: ezen elnevezések mögött is nyilván az a csillagászati kapcsolódás lehet meg, hogy egyrészt a Kis Évben a téllel kezdődik a fény növekedése, másrészt újévkor van Szíriusz-Nap-Föld együttállás. (Arról is lehet beszélni, hogy a [[S/Származás\|származás]] szavunk eredete is itt keresendő.)  
+Kapcsolódás lehet az ind [[S/Sarama\|Sarama]] = Szíriusz és a perzsa-angol szótárban tél jelentésre elsőként adatolt `sarma` (Szár-Ma, Fényes Föld) szavak azonossága is: ezen elnevezések mögött is nyilván az a csillagászati kapcsolódás lehet meg, hogy egyrészt a Kis Évben a téllel kezdődik a fény növekedése, másrészt újévkor van Szíriusz-Nap-Föld együttállás. (Arról is lehet beszélni, hogy a [[S/Származás\|származás]] szavunk eredete is itt keresendő.)  
 
 [[M/Mithra\|Mithra]] értelme alapján [[M/Missera\|missera]] a növekvő (új-uló) fénytartományt jelenti, de egyelőre tisztázatlan, miért csak kétfelé, miért nem négyfelé osztásról van szó (Mithra is inkább a reggeli Napként egy negyed körcikkelyt kellen megszemélyesítsen, bár [[V/Varuna\|Varuna]]-val való párosítása alapján is a felezés marad).  
 Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, mikor azt nehezményeztük, hogy a keleti zodiákusban a Kutya miért a Kosnak, miért nem a Baknak felel meg, illetve felveti mindez azt a kérdést is, hogy Iránban a (zoroasztriánus időktől) mai napig miért a márc. 20/21.-ére eső [[N/Nowruz\|Nowruz]] az újév napja, mikor nyugaton újév január elsejére esik, azaz [[T/Tél\|tél]] időre esik.  
@@ -217,8 +235,8 @@ Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontj
 > De Karácsony, azaz a téli napforduló volt a régi rómaiaknál is a "dies natalis Dei invicti Soli", vagyis "a győzhetetlen Napisten születése napja", amelyet a kereszténység a népek emlékezetéből eltörölni meg sem kísérelhetett s ezért Jézus születése napját téve e napra, átvette illetve magának hódította s amelyet aztán naptárújításával Gergely pápának sikerült kissé eltolnia, vagyis a december 24-.ről 25.-re virradó éjszakára áttennie, hogy a régi Napisten születéséveli azonos voltát elhomályosíthassa és a népekkel feledtesse, vagyis hogy feledtesse azt, miszerint a valóságban a téli napfordulókor mégis csak a Napisten születése napja, de nem a kereszténység Jézusáé van.  
 > Ugyanez okból helyezte át az év végét és az újesztendőt is a téli napforduló éjszakájáról, vagyis a mai december 21-22-ről december 31-január 1.-re.  
 > De úgy a mi ősvallásunkban mint a többi európai népekében – akik hiszen kereszténységelőtti műveltségük alapjait ősnépeinktől örökölték – bár a téli napforduló éjszakáján éjfélkor a Napisten születését ünnepelték, de éjfél előtt, vagyis az óesztendő végén az öreg, fehérhajú, fehér szakállú Napistent bírcsúztatták, aki egyúttal a megszemélyesített Óesztendő is volt.  
-> Az evvel kapcsolatban lévő karácsonyelőtti és évvégi szokásokat, játékokat eltörölni szintén lehetetlen lévén, a keresztény egyház úgy segített a dolgon, hogy az öreget Szent Miklós myrai püspökkel azonosítva, napját Karácsony előttre tette ugyan, de nehogy a téli napfordulóvali összefüggése és az Öreg Napistenneli azonos volta észrevehető legyen, még néhány nappal korábbra, vagyis december 6.-ra helyezte, amely nap így a mai kereszténység "Mikulás napjá"-vá lett, amelyen a fehérhajú, fehérszakállú öreg ugyan még szerepel, aki téli napfordulati szerepeltetéséről a kereszténnyé lett népeket az egyház nem bírta leszoktatni, de az öreg Napistenneli azonos voltát feledtetnie mégis teljesen sikerült már. Mivel azonban a népek az új, keresztény, naptár szerinti évvégét sem tudták elképzelni egy fehérhajú és fehérszakállú öreg Óesztendő nélkül, ezért utóbb az egyház kénytelen volt ide is egy ilyen öreget tenni és ez a mai Szent [[S/Szilveszter\|Szilveszter]], akit a népszokások az év végén szintén szerepeltetnek.  { #y1o6w9}
-
+> Az evvel kapcsolatban lévő karácsonyelőtti és évvégi szokásokat, játékokat eltörölni szintén lehetetlen lévén, a keresztény egyház úgy segített a dolgon, hogy az öreget Szent Miklós myrai püspökkel azonosítva, napját Karácsony előttre tette ugyan, de nehogy a téli napfordulóvali összefüggése és az Öreg Napistenneli azonos volta észrevehető legyen, még néhány nappal korábbra, vagyis december 6.-ra helyezte, amely nap így a mai kereszténység "Mikulás napjá"-vá lett, amelyen a fehérhajú, fehérszakállú öreg ugyan még szerepel, aki téli napfordulati szerepeltetéséről a kereszténnyé lett népeket az egyház nem bírta leszoktatni, de az öreg Napistenneli azonos voltát feledtetnie mégis teljesen sikerült már. Mivel azonban a népek az új, keresztény, naptár szerinti évvégét sem tudták elképzelni egy fehérhajú és fehérszakállú öreg Óesztendő nélkül, ezért utóbb az egyház kénytelen volt ide is egy ilyen öreget tenni és ez a mai Szent [[S/Szilveszter\|Szilveszter]], akit a népszokások az év végén szintén szerepeltetnek.  
+^y1o6w9
 
 Másutt írja Magyar Adorján:  
 > Sebestyén Gyula "A regösök" című könyvében bemutatja a mongolok `cam` nevű táncában \[[[Come\|come]] címhez is betéve\] előforduló szarvasálarcos alakot, amellyel együtt még egy bikaálarcos is ábrázolva, amely pedig a mi egykori "Bözön Biká"-nkkal azonos. Megemlíti Sebestyén, hogy ilyenek a tibetiek újévi ünnepségein szintén szerepelnek. Azon körülmény, hogy a szarvasálarcos ember táncol is, azt sejtteti, hogy itt már nem őseredeti szertartással van dolgunk, mert tudván hogy ez valamikor magát a főistent jelképezte, a táncolást ennek méltóságán alulinak érezzük, bár ellenvethető, hogy a tánc ősidőkben époly szent valaminek tarthatott mint ma a vallásos éneklés. A Sebestyén által bemutatott szarvasjelmez ruháját már igen szép, művészi [[P/Palást\|palást]] képezi, amely állatbőrre már egyáltalán nem emlékeztet, de teljes, az ember arcát és fejét is befödő szarvasfeje is van, agancsokkal. Azt már tudjuk, hogy az egykori újév egyúttal Karácsony is volt, vagyis a Napisten évvégi halála és újévi újjászületése napja, illetve éjszakája, egyaránt.  
