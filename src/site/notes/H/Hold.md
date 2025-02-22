@@ -1,27 +1,5 @@
 ---
-title: Hold
-foreign_title: false
-aliases:
-  - hold
-status: dg_uploaded
-tags:
-  - titleandheadingonedontmatch
-  - multipleentries
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg_created: 2023-10-14T05:35
-dg_updated: 2025-02-21T17:10
-dg_upload: done
-date_created: 2022-12-14
-date_modified: 2025-02-21T17:10
-gh_repo_url:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/H/Hold.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/H/Hold.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/H/Hold.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/H/Hold.md
-  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/H/Hold.md
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
 ---
 
 # Hold 1)

@@ -1,26 +1,5 @@
 ---
-title: Tarka
-foreign_title: false
-aliases:
-  - tarka
-  - tarká
-status: dg_uploaded
-tags: 
-share: true
-dg-publish: true
-dg_created: 2023-11-14T03:20
-dg_updated: 2025-02-21T17:11
-dg_upload: done
-collection:
-  - Tejút – folyam, fa, állat
-date_created: 2023-05-03
-date_modified: 2025-02-21T17:11
-gh_repo_url:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/T/Tarka.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/T/Tarka.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/T/Tarka.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/T/Tarka.md
-  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/T/Tarka.md
+{"dg-publish":true,"permalink":"/T/Tarka","title":"Tarka","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
 ---
 
 # Tarka
