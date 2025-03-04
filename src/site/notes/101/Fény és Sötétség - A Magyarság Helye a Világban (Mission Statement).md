@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2025-03-01T04:41"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2025-03-02T02:34"}
 ---
 
 
@@ -397,7 +397,9 @@ Lásd még [[L/Latin nyelv\|latin nyelv]].
 
 #### Az óangol szavakról
 
-Az óangolnak címkézett szavakat tarthatjuk egyszerűen germánnak. Azaz az óangolnak címkézett szó nem feltétlenül elődje az angolnak, hanem párhuzamosan mellette létezhetett. Az olyan szópárok, mint az angol [[P/Play\|play]] és eredetéül felhozott óangol `plegian` nem feltétlenül állnak nyelv-evolúciós kapcsolatban. Hasonló esetet láttunk [[H/Hay\|hay]] = széna szónál is. Egy nyelvi ökoszisztémából kerülnek ki, de a kronológiai sorrend nem bizonyítható. Természetesen minél több az adat, annál jobb, de a tapasztalat azt mutatja, hogy magyar szóra való visszavezetésnél nem mindig a régebbi alakú, értelmű szó szolgáltathatja a megoldást.  
+Az óangolnak címkézett szavakat tarthatjuk egyszerűen germánnak. Ugyanakkor az óangolnak címkézett szó nem feltétlenül elődje az angolnak, hanem párhuzamosan mellette létezhetett. Az olyan szópárok, mint az angol [[P/Play\|play]] és az eredetéül felhozott óangol `plegian` nem feltétlenül állnak nyelv-evolúciós kapcsolatban, de a nyelvészetnek kapóra jön, hogy korábbi alaknak mutasson be olyan szót, mely már maga is csak egy önkényesen lejegyzett forma.  
+Hasonló esetet láttunk [[H/Hay\|hay]] = széna szónál is. Egy nyelvi ökoszisztémából kerülnek ki, de a kronológiai sorrend nem bizonyítható. Természetesen minél több az adat, annál jobb, de a tapasztalat azt mutatja, hogy magyar szóra való visszavezetésnél nem mindig a régebbi alakú, értelmű szó szolgáltathatja a megoldást.  
+Plegian esetében az [[G/G#Óangol szavak g hangja\|óangol szavak g hangja]] cím/alcímnél írottakat is lásd.  
 
 #### Szavak forrásai az utódnyelvekben  
 
