@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2025-02-24T22:11:10Z"}
+{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2025-03-05T02:23"}
 ---
 
 
@@ -21,7 +21,8 @@ A szót Péterfai János nem taglalja asztrális [[E/Életkör\|életkör]] alap
 Arról van szó, hogy a nyári napforduló téridőbeli pontján van a Nap nemzőereje maximumán és onnantól lépünk be a [[S/Sötét oldal\|sötét félév]]be is.  
   
 Azt Péterfai János egyébként jól akarja érzékeltetni, hogy a [[S/Sátán\|Sátán]]hoz hasonlóan itt is van egy kiinduló nem-gonosz, hanem kezdet (nemzés vagy az előtti: ősállapot) értelem.  
-Viszont etruszk és görög szavak mellett meg lehet említeni magyar szavakat is: [[G/Geny\|geny]] és [[K/Könny\|könny]]. Mindkettő utalhat örökítő anyagra (még ha a könny metaforaként is; bár eredeti jelentése nem biztos, hogy szemnedv!), és ahogy másutt is taglaltuk, ahogy Magor nevének előrésze, [[M/MAG\|mag]] jelent örökítő anyagot ([[I/Irmag\|irmag]] névben pedig utódot), úgy [[H/Hunor\|Hunor]] nevének előrésze is adja a geny, könny, gonosz szavakat, már amennyiben a görög szót ugyanúgy közös nevezőre akarjuk hozni a magyar szóval, ahogy fentebb Péterfai János tette.  
+Viszont etruszk és görög szavak mellett meg lehet említeni magyar szavakat is: [[K/KAN\|kan]], [[G/Geny\|geny]] és [[K/Könny\|könny]]. Mindkettő utalhat örökítő anyagra (még ha a könny metaforaként is; bár eredeti jelentése nem biztos, hogy szemnedv!), és ahogy másutt is taglaltuk, ahogy Magor nevének előrésze, [[M/MAG\|mag]] jelent örökítő anyagot ([[I/Irmag\|irmag]] névben pedig utódot), úgy [[H/Hunor\|Hunor]] nevének előrésze is adja a geny, könny, gonosz szavakat, már amennyiben a görög szót ugyanúgy közös nevezőre akarjuk hozni a magyar szóval, ahogy fentebb Péterfai János tette.  
+Péterfai nem említi, hogy itt egy ördögi teremtést is lehetne keresni, de tudjuk, hogy az ördögnek nincs valós teremtése. Azt még azért jegyezzük meg, hogy az [[O/Ördög\|ördög]] [[K/Kontár\|kontár]] nevében a kon- megint ugyanaz a szóelem.  
 
 Azt pedig már a [[B/Bűn\|bűn]] (és [[H/HAN\|HAN]]) fogalmai kapcsán tisztáztuk, hogy a gonosz a sötét/sátáni félévre utal a kis éves időkörben, melyből az [[E/Erkölcs\|erkölcs]]i értelemben vett gonoszság ideája keletkezik.  
 [[E/EB\|EB]] címnél, külön alcímnél és [[K/Kutya\|kutya]] címnél is említettük az [[E/Evil\|evil]] címhez is betett, 'evil' – 'ebül' fogalmi párosítás igazolására is alkalmas, kutyás alakú török `kötücül` = gonosz szót. Ugyebár a gonosz félév a [[M/Más\|más]]odik, sötét félév, ahogy ott is megjegyeztük. ([[O/Ördög\|Ördög]] címnél, külön alcímnél azóta a szinte azonos hangalakú török `kutsal` = szent szót is betettük `kötücül` mellé.)  
