@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-03-01T04:41"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-03-09T14:28"}
 ---
 
 
@@ -56,6 +56,10 @@ Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora vála
 
 </div></div>
   
+
+## Örmény ġ hang
+
+[[E/Ég\|Ég]] szavunk megjelenni látszik az örmény `eġǰeru` = szarvas, `eġnik` = őz nevekben. Az örmény ġ lehet ugyanilyen csendes g/h, mint a török ğ.  
 
 ## Óangol szavak g hangja
 
