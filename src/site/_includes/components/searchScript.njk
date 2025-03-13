@@ -216,7 +216,8 @@
         resultsDiv.innerHTML = loadingSvg;
 
         let results = performOfflineSearch(searchTerm);
-        let resultsHTML = '';
+        let resultsHTML = '<div style="max-width:100%;">';
+        
         if (!results.length) {
             let resultParagraph = document.createElement("p");
             resultParagraph.innerText = `No results for "${searchTerm}"`;
@@ -224,18 +225,36 @@
             resultsDiv.appendChild(resultParagraph);
             return;
         }
-        resultsHTML += '<div style="max-width:100%;">';
-        
+
         results.forEach(r => {
+            // Get context around the search term
+            const contentPreview = getSearchContext(r.content, searchTerm);
+            
             resultsHTML += `<div class="searchresult">
                 <a class="search-link" href="${r.url}">${r.title}</a>
                 <div onclick="window.location='${r.url}'">
-                    ${r.content}
+                    ${contentPreview}
                 </div>
             </div>`;
         });
         resultsHTML += '</div>';
         resultsDiv.innerHTML = resultsHTML;
+    }
+
+    function getSearchContext(content, searchTerm) {
+        const plainText = content.replace(/<[^>]*>/g, '');
+        const termPos = plainText.toLowerCase().indexOf(searchTerm.toLowerCase());
+        
+        // Show text around the match with highlighting
+        let start = Math.max(0, termPos - 100);
+        let end = Math.min(plainText.length, start + 300);
+        let snippet = (start > 0 ? '...' : '') + 
+                     plainText.substring(start, end) + 
+                     (end < plainText.length ? '...' : '');
+
+        // Highlight the search term
+        const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        return snippet.replace(regex, '<strong>$1</strong>');
     }
 
     function performOfflineSearch(searchQuery) {
