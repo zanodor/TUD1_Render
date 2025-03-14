@@ -96,24 +96,34 @@
   }
 }
 
-/*** Fix sidebar visibility for modern screens ***/
-@media (min-width: 1200px) {  /* Changed from 1400px to 1200px */
+/*** Fix sidebar visibility and positioning ***/
+@media (min-width: 1200px) {
     .sidebar {
         position: fixed;
         top: 75px;
         right: 17px;
         transform: none;
         max-width: 350px;
+        margin-left: 20px;  /* Add space between content and sidebar */
+        padding-left: 20px; /* Add internal padding */
+    }
+
+    /* Adjust main content to prevent sidebar overlap */
+    .content {
+        max-width: calc(700px - 350px);  /* Original max-width minus sidebar width */
+        margin-right: 380px;  /* Give space for sidebar */
     }
 
     #link-graph {
-        border-radius: 10px 0 10px 10px;
+        border-radius: 10px;
+        width: 100%;  /* Make graph fill sidebar width */
     }
 
     .sidebar-container {
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
+        gap: 20px;  /* Add space between sidebar elements */
     }
 
     .toc {
@@ -121,9 +131,9 @@
     }
 }
 
-/* Ensure proper stacking and positioning */
+/* Ensure proper stacking */
 .sidebar {
-    z-index: 3;
+    z-index: 2;
     background-color: var(--background-secondary);
 }
 
