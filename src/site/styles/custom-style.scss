@@ -98,19 +98,22 @@
 
 /*** Fix right sidebar visibility and positioning ***/
 @media (min-width: 1200px) {
+    /* Left filetree is 250px wide */
+    /* Right sidebar is 350px wide */
+    /* We want content centered in remaining space */
+    .content {
+        max-width: 700px;
+        margin-left: calc(250px + 40px); /* filetree width + some padding */
+        margin-right: calc(350px + 40px); /* sidebar width + some padding */
+        position: relative;
+    }
+
     .sidebar {  /* This is the right sidebar */
         position: fixed;
         top: 75px;
         right: 17px;
         transform: none;
         max-width: 350px;
-    }
-
-    /* Remove the content width adjustment */
-    .content {
-        max-width: 700px;  /* Restore original width */
-        margin-right: auto;  /* Reset margin */
-        margin-left: auto;  /* Center content */
     }
 
     #link-graph {
