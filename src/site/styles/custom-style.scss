@@ -146,6 +146,22 @@
     .toc {
         display: block !important;
     }
+
+    #link-graph {
+        border-radius: 10px;
+        overflow: hidden !important;  /* Contain the graph nodes */
+        position: relative;  /* Create stacking context */
+    }
+
+    /* Graph container needs explicit height */
+    .graph {
+        height: 320px;
+        min-height: 320px;
+        overflow: hidden;  /* Double ensure containment */
+        background-color: var(--background-primary);
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
 }
 
 /* Ensure proper stacking */
