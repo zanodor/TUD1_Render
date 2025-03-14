@@ -96,34 +96,32 @@
   }
 }
 
-/*** Fix sidebar visibility and positioning ***/
+/*** Fix right sidebar visibility and positioning ***/
 @media (min-width: 1200px) {
-    .sidebar {
+    .sidebar {  /* This is the right sidebar */
         position: fixed;
         top: 75px;
         right: 17px;
         transform: none;
         max-width: 350px;
-        margin-left: 20px;  /* Add space between content and sidebar */
-        padding-left: 20px; /* Add internal padding */
     }
 
-    /* Adjust main content to prevent sidebar overlap */
+    /* Remove the content width adjustment */
     .content {
-        max-width: calc(700px - 350px);  /* Original max-width minus sidebar width */
-        margin-right: 380px;  /* Give space for sidebar */
+        max-width: 700px;  /* Restore original width */
+        margin-right: auto;  /* Reset margin */
+        margin-left: auto;  /* Center content */
     }
 
     #link-graph {
         border-radius: 10px;
-        width: 100%;  /* Make graph fill sidebar width */
     }
 
     .sidebar-container {
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
-        gap: 20px;  /* Add space between sidebar elements */
+        gap: 20px;
     }
 
     .toc {
