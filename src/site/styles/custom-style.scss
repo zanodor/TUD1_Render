@@ -95,3 +95,39 @@
     color: var(--text-accent);
   }
 }
+
+/*** Fix sidebar visibility for modern screens ***/
+@media (min-width: 1200px) {  /* Changed from 1400px to 1200px */
+    .sidebar {
+        position: fixed;
+        top: 75px;
+        right: 17px;
+        transform: none;
+        max-width: 350px;
+    }
+
+    #link-graph {
+        border-radius: 10px 0 10px 10px;
+    }
+
+    .sidebar-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .toc {
+        display: block !important;
+    }
+}
+
+/* Ensure proper stacking and positioning */
+.sidebar {
+    z-index: 3;
+    background-color: var(--background-secondary);
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+}
