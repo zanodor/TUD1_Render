@@ -99,12 +99,11 @@
 /*** Fix right sidebar visibility and positioning ***/
 @media (min-width: 1200px) {
     /* Left filetree is 250px wide */
-    /* Right sidebar is 350px wide */
-    /* We want content centered in remaining space */
+    /* Right sidebar is now 370px wide (increased from 350px) */
     .content {
         max-width: 700px;
         margin-left: calc(250px + 40px); /* filetree width + some padding */
-        margin-right: calc(350px + 40px); /* sidebar width + some padding */
+        margin-right: calc(370px + 40px); /* Adjusted for new sidebar width */
         position: relative;
     }
 
@@ -113,11 +112,21 @@
         top: 75px;
         right: 17px;
         transform: none;
-        max-width: 350px;
+        max-width: 370px; /* Increased from 350px */
+        padding-left: 20px; /* Add padding to keep content away from left edge */
     }
 
-    #link-graph {
+    .toc, #link-graph {
         border-radius: 10px;
+        margin-left: 5px; /* Pull content slightly away from left edge */
+        width: calc(100% - 5px); /* Ensure content stays within sidebar */
+    }
+
+    .toc, .backlinks {
+        width: calc(100% - 10px);  /* Pull back from edges */
+        margin-right: 10px;  /* Space from right edge */
+        padding: 15px;  /* Internal padding */
+        box-sizing: border-box;  /* Include padding in width */
     }
 
     .sidebar-container {
@@ -125,6 +134,8 @@
         flex-direction: column;
         justify-content: flex-start;
         gap: 20px;
+        padding-right: 0;  /* Remove right padding */
+        width: 100%;
     }
 
     .toc {
