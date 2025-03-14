@@ -113,7 +113,7 @@
         right: 17px;
         transform: none;
         max-width: 370px; /* Increased from 350px */
-        padding-left: 20px; /* Add padding to keep content away from left edge */
+        padding: 0 20px;  /* Add equal padding on both sides */
     }
 
     .toc, #link-graph {
@@ -123,10 +123,12 @@
     }
 
     .toc, .backlinks {
-        width: calc(100% - 10px);  /* Pull back from edges */
-        margin-right: 10px;  /* Space from right edge */
+        width: 100%;  /* Use full width */
+        margin: 0;  /* Remove margins */
         padding: 15px;  /* Internal padding */
         box-sizing: border-box;  /* Include padding in width */
+        background-color: var(--background-primary);
+        border-radius: 10px;
     }
 
     .sidebar-container {
@@ -136,6 +138,7 @@
         gap: 20px;
         padding-right: 0;  /* Remove right padding */
         width: 100%;
+        padding: 0;  /* Remove container padding */
     }
 
     .toc {
