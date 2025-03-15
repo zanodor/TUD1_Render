@@ -259,31 +259,22 @@
         let data = window.docs;
 
         let searchResults = window.index.search(searchQuery, [
-            {field: "title", limit: 20, boost: 2},  // Added boost for title matches
-            {field: "content", limit: 100}
+            {field: "title", limit: 20},  // Increased from 10
+            {field: "content", limit: 100}  // Increased from 50
         ]);
 
         const getByField = (field) => {
-            const results = searchResults.filter((x) => x.field === field);
-            if (results.length === 0 || !results[0].result) return [];
-            
-            // Handle both array and object results
-            if (Array.isArray(results[0].result)) {
-                return results[0].result;
-            }
-            return Object.keys(results[0].result).map(k => parseInt(k));
+            const results = searchResults.filter((x) => x.field === field)
+            if (results.length === 0) return []
+            return [...results[0].result]
         }
 
-        const titleMatches = new Set(getByField("title"));
-        const contentMatches = new Set(getByField("content"));
-        const allIds = new Set([...titleMatches, ...contentMatches]);
+        const allIds = new Set([
+            ...getByField("title"),
+            ...getByField("content")
+        ])
 
-        // Prioritize title matches
-        return [...allIds].map(id => data[id]).sort((a, b) => {
-            if (titleMatches.has(id) && !contentMatches.has(id)) return -1;
-            if (!titleMatches.has(id) && contentMatches.has(id)) return 1;
-            return 0;
-        });
+        return [...allIds].map((id) => data[id]);
     }
 
     function performSearch(searchTerm) {
