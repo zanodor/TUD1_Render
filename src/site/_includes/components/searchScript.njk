@@ -259,14 +259,21 @@
         let data = window.docs;
 
         let searchResults = window.index.search(searchQuery, [
-            {field: "title", limit: 20},  // Increased from 10
-            {field: "content", limit: 100}  // Increased from 50
+            {field: "title", limit: 20},
+            {field: "content", limit: 100, boost: 0.5}  // Added boost to reduce content matches weight
         ]);
 
         const getByField = (field) => {
             const results = searchResults.filter((x) => x.field === field)
             if (results.length === 0) return []
-            return [...results[0].result]
+            // Add a minimum score threshold for content matches
+            if (field === "content") {
+                return [...results[0].result].filter(id => {
+                    let match = results[0].score[id];
+                    return match > 0.1; // Only return content matches above threshold
+                });
+            }
+            return [...results[0].result];
         }
 
         const allIds = new Set([
