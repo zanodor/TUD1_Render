@@ -300,9 +300,6 @@
         const plainText = content.replace(/<[^>]*>/g, '');
         const termPos = plainText.toLowerCase().indexOf(searchTerm.toLowerCase());
         
-        // Add position data for jumping to location
-        const position = termPos;
-        
         // Show text around the match with highlighting
         let start = Math.max(0, termPos - 100);
         let end = Math.min(plainText.length, start + 300);
@@ -312,10 +309,7 @@
 
         // Highlight the search term
         const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-        return {
-            html: snippet.replace(regex, '<strong>$1</strong>'),
-            position: position
-        };
+        return snippet.replace(regex, '<strong>$1</strong>');
     }
 
     function performOfflineSearch(searchQuery) {
