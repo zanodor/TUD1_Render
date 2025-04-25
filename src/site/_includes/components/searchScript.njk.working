@@ -105,7 +105,6 @@
             // Setup keyboard shortcuts and URL parameter check
             setupKeyboardNavigation();
             checkForUrlSearchParam();
-            initHighlight(); // Add this line
         } catch (error) {
             console.error("Error initializing search:", error);
             document.querySelector('#search-results').innerHTML = 
@@ -226,12 +225,13 @@
         }
 
         results.forEach(r => {
-            const searchContext = getSearchContext(r.content, searchTerm);
+            // Get context around the search term
+            const contentPreview = getSearchContext(r.content, searchTerm);
             
             resultsHTML += `<div class="searchresult">
-                <a class="search-link" href="${r.url}?highlight=${encodeURIComponent(searchTerm)}&pos=${searchContext.position}">${r.title}</a>
-                <div onclick="window.location='${r.url}?highlight=${encodeURIComponent(searchTerm)}&pos=${searchContext.position}'">
-                    ${searchContext.html}
+                <a class="search-link" href="${r.url}">${r.title}</a>
+                <div onclick="window.location='${r.url}'">
+                    ${contentPreview}
                 </div>
             </div>`;
         });
@@ -243,9 +243,6 @@
         const plainText = content.replace(/<[^>]*>/g, '');
         const termPos = plainText.toLowerCase().indexOf(searchTerm.toLowerCase());
         
-        // Add position data for jumping to location
-        const position = termPos;
-        
         // Show text around the match with highlighting
         let start = Math.max(0, termPos - 100);
         let end = Math.min(plainText.length, start + 300);
@@ -255,10 +252,7 @@
 
         // Highlight the search term
         const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-        return {
-            html: snippet.replace(regex, '<strong>$1</strong>'),
-            position: position
-        };
+        return snippet.replace(regex, '<strong>$1</strong>');
     }
 
     function performOfflineSearch(searchQuery) {
@@ -436,59 +430,4 @@
             return str;
         return str.substring(0, size - 3) + '...';
     }
-
-    // Add highlight initialization (at the end of the file)
-function initHighlight() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const highlight = urlParams.get('highlight');
-    const position = urlParams.get('pos');
-    
-    if (highlight) {
-        const content = document.querySelector('.content');
-        if (!content) return;
-
-        // Add highlight style
-        const style = document.createElement('style');
-        style.textContent = `
-            .search-highlight {
-                background-color: var(--text-accent);
-                color: var(--background-primary);
-                transition: all 0.5s ease-out;
-            }
-            .search-highlight.fade-out {
-                background-color: transparent;
-                color: inherit;
-            }
-        `;
-        document.head.appendChild(style);
-
-        // Highlight matching text
-        const text = content.innerHTML;
-        const regex = new RegExp(`(${highlight.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-        content.innerHTML = text.replace(regex, '<span class="search-highlight">$1</span>');
-
-        // Scroll to position
-        if (position) {
-            const elements = document.getElementsByClassName('search-highlight');
-            if (elements.length > 0) {
-                elements[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-        }
-
-        // Remove highlight after 7 seconds or on user interaction
-        const highlights = document.getElementsByClassName('search-highlight');
-        const removeHighlight = () => {
-            Array.from(highlights).forEach(el => {
-                el.classList.add('fade-out');
-            });
-        };
-
-        // Remove on scroll or click
-        window.addEventListener('scroll', removeHighlight, { once: true });
-        document.addEventListener('click', removeHighlight, { once: true });
-
-        // Remove after 5 seconds
-        setTimeout(removeHighlight, 7000);
-    }
-}
 </script>
