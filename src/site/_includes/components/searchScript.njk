@@ -102,15 +102,74 @@
             window.docs = docs;
             window.index = index;
 
-            // Setup keyboard shortcuts and URL parameter check
             setupKeyboardNavigation();
             checkForUrlSearchParam();
-            initHighlight(); // Add this line
+            handleSearchHighlight(); // Add this line
         } catch (error) {
             console.error("Error initializing search:", error);
             document.querySelector('#search-results').innerHTML = 
                 `<p>Search index failed to load. Please try refreshing the page.</p>`;
         }
+    }
+
+    // Add this function
+    function handleSearchHighlight() {
+        const params = new URLSearchParams(window.location.search);
+        const term = params.get('term');
+        if (!term) return;
+
+        const content = document.querySelector('.content');
+        if (!content) return;
+
+        // Add temporary highlight style
+        const style = document.createElement('style');
+        style.textContent = `
+            .temp-highlight {
+                background-color: var(--text-accent);
+                color: var(--background-primary);
+            }
+            .temp-highlight.fade-out {
+                transition: all 1s ease-out;
+                background-color: transparent;
+                color: inherit;
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Apply highlights
+        const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+        const textNodes = [];
+        while (walker.nextNode()) textNodes.push(walker.currentNode);
+        
+        textNodes.forEach(node => {
+            if (node.textContent.match(regex)) {
+                const span = document.createElement('span');
+                span.className = 'temp-highlight';
+                span.innerHTML = node.textContent.replace(regex, '<span class="temp-highlight">$1</span>');
+                node.parentNode.replaceChild(span, node);
+            }
+        });
+
+        // Scroll to first match
+        const firstMatch = document.querySelector('.temp-highlight');
+        if (firstMatch) {
+            firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+
+        // Remove highlights after delay or on interaction
+        const removeHighlights = () => {
+            document.querySelectorAll('.temp-highlight').forEach(el => {
+                el.classList.add('fade-out');
+            });
+        };
+
+        window.addEventListener('scroll', removeHighlights, { once: true });
+        document.addEventListener('click', removeHighlights, { once: true });
+        setTimeout(removeHighlights, 5000);
+
+        // Clean URL
+        window.history.replaceState({}, '', window.location.pathname);
     }
 
     function setupKeyboardNavigation() {
@@ -226,12 +285,10 @@
         }
 
         results.forEach(r => {
-            const searchContext = getSearchContext(r.content, searchTerm);
-            
             resultsHTML += `<div class="searchresult">
-                <a class="search-link" href="${r.url}?highlight=${encodeURIComponent(searchTerm)}&pos=${searchContext.position}">${r.title}</a>
-                <div onclick="window.location='${r.url}?highlight=${encodeURIComponent(searchTerm)}&pos=${searchContext.position}'">
-                    ${searchContext.html}
+                <a class="search-link" href="${r.url}?term=${encodeURIComponent(searchTerm)}">${r.title}</a>
+                <div onclick="window.location='${r.url}?term=${encodeURIComponent(searchTerm)}'">
+                    ${getSearchContext(r.content, searchTerm)}
                 </div>
             </div>`;
         });
@@ -436,59 +493,4 @@
             return str;
         return str.substring(0, size - 3) + '...';
     }
-
-    // Add highlight initialization (at the end of the file)
-function initHighlight() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const highlight = urlParams.get('highlight');
-    const position = urlParams.get('pos');
-    
-    if (highlight) {
-        const content = document.querySelector('.content');
-        if (!content) return;
-
-        // Add highlight style
-        const style = document.createElement('style');
-        style.textContent = `
-            .search-highlight {
-                background-color: var(--text-accent);
-                color: var(--background-primary);
-                transition: all 0.5s ease-out;
-            }
-            .search-highlight.fade-out {
-                background-color: transparent;
-                color: inherit;
-            }
-        `;
-        document.head.appendChild(style);
-
-        // Highlight matching text
-        const text = content.innerHTML;
-        const regex = new RegExp(`(${highlight.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-        content.innerHTML = text.replace(regex, '<span class="search-highlight">$1</span>');
-
-        // Scroll to position
-        if (position) {
-            const elements = document.getElementsByClassName('search-highlight');
-            if (elements.length > 0) {
-                elements[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-        }
-
-        // Remove highlight after 7 seconds or on user interaction
-        const highlights = document.getElementsByClassName('search-highlight');
-        const removeHighlight = () => {
-            Array.from(highlights).forEach(el => {
-                el.classList.add('fade-out');
-            });
-        };
-
-        // Remove on scroll or click
-        window.addEventListener('scroll', removeHighlight, { once: true });
-        document.addEventListener('click', removeHighlight, { once: true });
-
-        // Remove after 5 seconds
-        setTimeout(removeHighlight, 7000);
-    }
-}
 </script>
