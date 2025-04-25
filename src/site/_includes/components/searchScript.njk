@@ -10,11 +10,17 @@
     let loadedChunks = 0;    // Number of chunks loaded so far
     
     // Toggle search UI functions remain the same
-    window.toggleSearch = function () {
-        if (document.getElementById('globalsearch').classList.contains('active')) {
-            document.getElementById('globalsearch').classList.remove('active');
+    window.toggleSearch = function (e) {
+        if (e && e.target.id === 'term') {
+            return; // Don't close when clicking the search input
+        }
+        const searchContainer = document.getElementById('globalsearch');
+        if (searchContainer.classList.contains('active')) {
+            if (e && e.target === searchContainer) { // Only close if clicking outside
+                searchContainer.classList.remove('active');
+            }
         } else {
-            document.getElementById('globalsearch').classList.add('active');
+            searchContainer.classList.add('active');
             document.getElementById('term').focus();
         }
     }
@@ -129,14 +135,13 @@
                 color: var(--background-primary);
             }
             .temp-highlight.fade-out {
-                transition: all 2s ease-out;  // Increased from 1s to 2s
-                background-color: transparent;
-                color: inherit;
+                background-color: transparent !important;
+                color: inherit !important;
+                transition: all 1s ease-out;
             }
         `;
         document.head.appendChild(style);
 
-        // Delay highlight to ensure page is fully rendered
         setTimeout(() => {
             // Apply highlights
             const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
@@ -144,41 +149,41 @@
             const textNodes = [];
             while (walker.nextNode()) textNodes.push(walker.currentNode);
             
+            const highlights = [];
             textNodes.forEach(node => {
                 if (node.textContent.match(regex)) {
                     const span = document.createElement('span');
                     span.className = 'temp-highlight';
                     span.innerHTML = node.textContent.replace(regex, '<span class="temp-highlight">$1</span>');
                     node.parentNode.replaceChild(span, node);
+                    highlights.push(span);
                 }
             });
 
-            // Scroll to first match with better positioning
-            const firstMatch = document.querySelector('.temp-highlight');
-            if (firstMatch) {
-                // Give browser time to process the highlights
+            // Scroll to first match
+            if (highlights.length > 0) {
                 setTimeout(() => {
-                    firstMatch.scrollIntoView({ 
+                    highlights[0].scrollIntoView({ 
                         behavior: 'smooth', 
                         block: 'center'
                     });
-                    
-                    // Adjust scroll position slightly up to show more context
                     window.scrollBy(0, -100);
                 }, 100);
             }
 
-            // Remove highlights after longer delay or on interaction
-            const removeHighlights = () => {
-                document.querySelectorAll('.temp-highlight').forEach(el => {
+            // Remove highlights after delay
+            setTimeout(() => {
+                highlights.forEach(el => {
                     el.classList.add('fade-out');
+                    setTimeout(() => {
+                        // Remove the span after transition
+                        if (el.parentNode) {
+                            el.outerHTML = el.innerHTML;
+                        }
+                    }, 1000);
                 });
-            };
-
-            window.addEventListener('scroll', removeHighlights, { once: true });
-            document.addEventListener('click', removeHighlights, { once: true });
-            setTimeout(removeHighlights, 10000);  // Increased from 5000 to 10000 (10 seconds)
-        }, 300);  // Added delay to ensure page is rendered
+            }, 10000);
+        }, 300);
 
         // Clean URL
         window.history.replaceState({}, '', window.location.pathname);
