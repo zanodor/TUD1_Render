@@ -137,11 +137,12 @@
             .temp-highlight.fade-out {
                 background-color: transparent !important;
                 color: inherit !important;
-                transition: all 0.5s ease-out;  // Faster fade-out
+                transition: all 0.5s ease-out;
             }
         `;
         document.head.appendChild(style);
 
+        // Wait for everything to be loaded
         setTimeout(() => {
             // Apply highlights
             const highlights = [];
@@ -160,34 +161,36 @@
                 }
             });
 
-            // Add interaction handlers first
-            const removeHighlights = () => {
-                highlights.forEach(el => {
-                    el.classList.add('fade-out');
-                    setTimeout(() => {
-                        if (el.parentNode) {
-                            el.outerHTML = el.innerHTML;
-                        }
-                    }, 500); // Match transition time
-                });
-            };
-
-            // Use capture phase to ensure we catch the events
-            window.addEventListener('scroll', removeHighlights, { once: true, capture: true });
-            document.addEventListener('click', removeHighlights, { once: true, capture: true });
-
-            // Auto-remove after 5 seconds
-            setTimeout(removeHighlights, 5000);  // Reduced from 10000 to 5000
-
-            // Scroll to first match
             if (highlights.length > 0) {
+                // Scroll to first match and start timer only after scroll is complete
+                highlights[0].scrollIntoView({ 
+                    behavior: 'smooth', 
+                    block: 'center'
+                });
+
+                // Start highlight timer after scrolling is complete
                 setTimeout(() => {
-                    highlights[0].scrollIntoView({ 
-                        behavior: 'smooth', 
-                        block: 'center'
-                    });
                     window.scrollBy(0, -100);
-                }, 100);
+                    
+                    // Now start the highlight duration timer
+                    const removeHighlights = () => {
+                        highlights.forEach(el => {
+                            el.classList.add('fade-out');
+                            setTimeout(() => {
+                                if (el.parentNode) {
+                                    el.outerHTML = el.innerHTML;
+                                }
+                            }, 500);
+                        });
+                    };
+
+                    // Use capture phase to ensure we catch the events
+                    window.addEventListener('scroll', removeHighlights, { once: true, capture: true });
+                    document.addEventListener('click', removeHighlights, { once: true, capture: true });
+
+                    // Auto-remove after 8 seconds (increased from 5)
+                    setTimeout(removeHighlights, 8000);
+                }, 500); // Wait for scroll to complete
             }
         }, 300);  // <-- Initial delay before highlighting
 
