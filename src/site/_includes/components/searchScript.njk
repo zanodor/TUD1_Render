@@ -124,83 +124,82 @@
         const term = params.get('term');
         if (!term) return;
 
-        // Wait for full page load and content stability
-        window.addEventListener('load', () => {
-            // Create observer to watch for content changes
-            const observer = new MutationObserver((mutations, obs) => {
-                const content = document.querySelector('.content');
-                if (!content) return;
+        // Increase initial delay and add a loading check
+        const startHighlight = () => {
+            const content = document.querySelector('.content');
+            if (!content || !content.offsetHeight) {
+                // Content not fully loaded yet, retry in 500ms
+                setTimeout(startHighlight, 500);
+                return;
+            }
 
-                // Disconnect once we find our content
-                obs.disconnect();
+            // Once content is loaded, add highlights
+            const highlights = [];
+            const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+            const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+            const textNodes = [];
+            
+            while (walker.nextNode()) textNodes.push(walker.currentNode);
+            
+            textNodes.forEach(node => {
+                if (node.textContent.match(regex)) {
+                    const span = document.createElement('span');
+                    span.className = 'temp-highlight';
+                    span.innerHTML = node.textContent.replace(regex, '<span class="temp-highlight">$1</span>');
+                    node.parentNode.replaceChild(span, node);
+                    highlights.push(span);
+                }
+            });
 
-                // Add highlight styles
-                const style = document.createElement('style');
-                style.textContent = `
-                    .temp-highlight {
-                        background-color: var(--text-accent);
-                        color: var(--background-primary);
-                    }
-                    .temp-highlight.fade-out {
-                        background-color: transparent !important;
-                        color: inherit !important;
-                        transition: all 0.5s ease-out;
-                    }
-                `;
-                document.head.appendChild(style);
+            if (highlights.length > 0) {
+                // Scroll to first match
+                highlights[0].scrollIntoView({ 
+                    behavior: 'smooth', 
+                    block: 'center'
+                });
 
-                // Wait additional time for any dynamic content
+                // Start timer only after scroll completes
                 setTimeout(() => {
-                    const highlights = [];
-                    const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-                    const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
-                    const textNodes = [];
+                    window.scrollBy(0, -100);
                     
-                    while (walker.nextNode()) textNodes.push(walker.currentNode);
-                    
-                    textNodes.forEach(node => {
-                        if (node.textContent.match(regex)) {
-                            const span = document.createElement('span');
-                            span.className = 'temp-highlight';
-                            span.innerHTML = node.textContent.replace(regex, '<span class="temp-highlight">$1</span>');
-                            node.parentNode.replaceChild(span, node);
-                            highlights.push(span);
-                        }
-                    });
-
-                    if (highlights.length > 0) {
-                        // Scroll to first match only when highlights are ready
-                        highlights[0].scrollIntoView({ 
-                            behavior: 'smooth', 
-                            block: 'center'
+                    const removeHighlights = () => {
+                        highlights.forEach(el => {
+                            el.classList.add('fade-out');
+                            setTimeout(() => {
+                                if (el.parentNode) {
+                                    el.outerHTML = el.innerHTML;
+                                }
+                            }, 500);
                         });
-                        window.scrollBy(0, -100);
+                    };
 
-                        // Start countdown only after scrolling
-                        const removeHighlights = () => {
-                            highlights.forEach(el => {
-                                el.classList.add('fade-out');
-                                setTimeout(() => {
-                                    if (el.parentNode) {
-                                        el.outerHTML = el.innerHTML;
-                                    }
-                                }, 500);
-                            });
-                        };
+                    // Add event listeners for early removal
+                    window.addEventListener('scroll', removeHighlights, { once: true });
+                    document.addEventListener('click', removeHighlights, { once: true });
 
-                        window.addEventListener('scroll', removeHighlights, { once: true, capture: true });
-                        document.addEventListener('click', removeHighlights, { once: true, capture: true });
-                        setTimeout(removeHighlights, 8000);
-                    }
-                }, 500);
-            });
+                    // Set longer timeout for automatic removal
+                    setTimeout(removeHighlights, 15000); // Increased to 15 seconds
+                }, 1000); // Wait 1s after scroll
+            }
+        };
 
-            // Start observing
-            observer.observe(document.body, {
-                childList: true,
-                subtree: true
-            });
-        });
+        // Add styles first
+        const style = document.createElement('style');
+        style.textContent = `
+            .temp-highlight {
+                background-color: var(--text-accent);
+                color: var(--background-primary);
+            }
+            .temp-highlight.fade-out {
+                background-color: transparent !important;
+                color: inherit !important;
+                transition: all 0.5s ease-out;
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Start the highlight process
+        setTimeout(startHighlight, 1000);
 
         // Clean URL
         window.history.replaceState({}, '', window.location.pathname);
