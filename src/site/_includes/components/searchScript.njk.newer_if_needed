@@ -133,11 +133,11 @@
             .temp-highlight {
                 background-color: var(--text-accent);
                 color: var(--background-primary);
+                transition: all 0.3s ease-out;
             }
             .temp-highlight.fade-out {
                 background-color: transparent !important;
                 color: inherit !important;
-                transition: all 0.5s ease-out;  // Faster fade-out
             }
         `;
         document.head.appendChild(style);
@@ -160,24 +160,30 @@
                 }
             });
 
-            // Add interaction handlers first
+            // Cleanup function that completely removes highlights
             const removeHighlights = () => {
+                const highlights = document.querySelectorAll('.temp-highlight');
                 highlights.forEach(el => {
-                    el.classList.add('fade-out');
-                    setTimeout(() => {
-                        if (el.parentNode) {
-                            el.outerHTML = el.innerHTML;
-                        }
-                    }, 500); // Match transition time
+                    if (el.parentNode) {
+                        el.outerHTML = el.innerHTML;
+                    }
                 });
             };
 
-            // Use capture phase to ensure we catch the events
-            window.addEventListener('scroll', removeHighlights, { once: true, capture: true });
-            document.addEventListener('click', removeHighlights, { once: true, capture: true });
+            // Fade function that triggers transition
+            const fadeHighlights = () => {
+                const highlights = document.querySelectorAll('.temp-highlight');
+                highlights.forEach(el => el.classList.add('fade-out'));
+                // Remove elements after transition
+                setTimeout(removeHighlights, 300);
+            };
 
-            // Auto-remove after 5 seconds
-            setTimeout(removeHighlights, 5000);  // Reduced from 10000 to 5000
+            // Add event listeners with immediate effect
+            window.addEventListener('scroll', fadeHighlights, { once: true });
+            document.addEventListener('click', fadeHighlights, { once: true });
+            
+            // Auto-remove after 3 seconds
+            setTimeout(fadeHighlights, 3000);
 
             // Scroll to first match
             if (highlights.length > 0) {
