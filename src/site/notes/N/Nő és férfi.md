@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2024-10-25T23:36"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2025-06-08T01:42"}
 ---
 
 
 # Nő és férfi
 
 Ismeretes, hogy a szerelem tüzes érzés, de elsődlegesen, ki kell mondani, a nők számára. A férfiak a szerelemmel azt vállalják, hogy átadják magukat a nőnek, az anyagnak. Számukra a szerelem [[B/Béklyó\|béklyó]]. De amint a nő megszerzi a vágyainak tárgyát, az anyaggá lealacsonyodott férfit, már nem lesz számára annyira érdekes, kivált, ha a tüzet nem tudják újra és újra felpiszkálni. A nő számára (de a férfi számára is) mindig is az elérhetetlen a vonzó. Ezért van az, hogy a nők családot inkább a lealacsonyodni képes (nőies, tágra nyíló szemű) férfiakkal alapítanak (saját kezdeményezésre, hiszen már átvették a férfiaktól e szerepet), de vágyat, szerelmet a férfinak megmaradni tudó, magát hosszan nőhöz lekötni nem képes olyan férfiak iránt érez, akik számára az elsődleges nem a nő és annak szeretete, hanem önmaga szeretete. Az igazi férfiak viszont nem a bunkó önimádó típusok, hanem azok, akik mindenki javára, a nemzet, cég, egyesület, közösség javára alkotnak és egy magasabb szeretetet hirdetnek, mint ami két ember között általában lehetséges. Az igazi szerelem tehát a (testiekben) viszonzatlan szerelem, egy transzcendentális érzés, mely túlmutat azon az anyagi síkon, melyekbe fektetett vágyaink kielégülésére szakosodtunk a Vaskorban.  
-Ezen fogalmak a tisztázása nélkül, és főleg a tisztán, éberen látás nélkül nem lehetséges a [[N/Nemek\|nemek]] szerepét újra helyére tenni.  
+Ezen fogalmak tisztázása nélkül, éber tisztán látás nélkül nem lehetséges a [[N/Nemek\|nemek]] szerepét helyére tenni.  
 
 #### Zborovszky Andrea A papucsszaggató királykisasszonyok...
 
@@ -31,7 +31,7 @@ Ezen fogalmak a tisztázása nélkül, és főleg a tisztán, éberen látás n�
 
 ...című könyvéből származó passzusa:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/l/labyrinth/#dgfln7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/Labyrinth/#dgfln7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -78,7 +78,7 @@ Falvay Károly folytatja (a 143. oldalon):
 
 ...című A. Crowley anyagát feldolgozó könyvében is szó van erről:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/anyakultusz-apakultusz/#8yzjci" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Anyakultusz – apakultusz/#8yzjci" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
