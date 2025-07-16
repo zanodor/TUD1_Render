@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-05-29T14:32"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-07-16T14:25"}
 ---
 
 
@@ -22,7 +22,22 @@ Azt Péterfai János külön nem említi itt, hogy a latin `centum` = száz és 
 Írja, hogy a satem és a kentum alakok szoros szemantikai összefüggésben álló szavakban egy nyelven belül egyidejűleg is megtalálhatók.  
 Arról másutt is volt szó hogy az alapszavakhoz képest alakváltozatokkal rokon értelmű szavakat alkotnak ki a magyaron kívül más nyelvek is.  
 Említi illetve példákkal bemutatja hogy a szemita, sőt, a szumer nyelv jellegzetessége is volt.  
-![assets/Szatemkentum_image1.png|invert_dark](/img/user/S/assets/Szatemkentum_image1.png)  
+
+> | Héber |                                  | Akkád   |                  | Szumér |                    |
+> | ----- | -------------------------------- | ------- | ---------------- | ------ | ------------------ |
+> | H-R-T | (bevág)                          | HARÂM-u | (levág)          | ḪAR    | (bekarcol, rajzol) |
+> |       |                                  |         |                  | GUR₂   | (szétvág)          |
+> | H-R-B | (kés)                            | KARÂT-u | (levés)          | ḪAR₁₀  | (arat)             |
+> |       |                                  | ḪARÂP-u | (arat)           | GIR₂   | (ragyog)           |
+> | H-R-M | (hasít)                          |         |                  |        |                    |
+> | Š-R-T | (csorba, horzsolás);             | ŠARÂM-u | (levág, megnyes) | SAR    | (ír)               |
+> |       | vö. ném *Scharte* (csorba)       | ŠURT-u  | (kés)            | ŠAR    | (levág)            |
+> | Š-R-F | (éles); vö. ném. *scharf* (éles) | SIRAP-u | (olló)           | ŠIR₂   | (levág)            |
+> |       |                                  |         |                  | ŠUR    | (ragyog)           |
+> | Š-R-M | (karcolás); vö. német *Schramme* |         |                  |        |                    |
+> 
+> Tehát a szemita nyelvekben, sőt a szumérban is megtaláljuk a kentum és a satem hangalakú változatokat – mégpedig ugyanazon nyelveken belül – szoros szemantikai összefüggésben álló szavak fonetikai megkülönböztetése vagy szinonimák képzésére. Még ennél is feltűnőbb azonban, hogy a bemutatott indogermán, szemita és szumér szavak kétségkívül egymás között is szoros jelentésbeli és hangalaki összefüggéseket mutatnak.  
+
 Azt viszont hangsúlyozza, hogy itt tendenciák vannak nem külön kentum és szatem nyelvek és tájnyelvi eltérések mutatkoznak jelentésátmenetekkel is melyekre táblázatos formában példákat közöl.  
 Végkövetkeztetése, hogy a különféle nyelvek a "satem-kentum" hangátmenetet jelentéstanilag alkalmazzák tehát ezek sem időbeli "hangfejlődés" jelei.  
 Majd könyve 185-188. oldalán táblázatos adatokkal mutatja be a magyar-sumer/IE/szemita párhuzamokat szavak kentumos és szatemes változataival. Ahogy írja:  
@@ -34,7 +49,7 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 
 ...című cikkében is ír:  
 > De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ "kerál" szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, Земной шар) szó jelöli a teljességet, a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.  
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, Земной шар) szó jelöli a teljességet, a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.  
 
 A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak, írtuk hasonlóan [[A/Algebra\|Algebra]] címnél is.  
 [[K/Khamor\|Khamor]] címnél is szó volt a [[S/Szamár\|szamár]] nevei kapcsán arról, hogy ami az arabban és héberben h-előhangos, az nálunk és az olaszban sz-előhangos. Hasonlóan a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szónak szatem változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat.  
