@@ -145,27 +145,11 @@
                     Graph.zoomToFit(5, 75);
                 }, delay || 200);
             }
-
-        // Add cleanup capability
-        Graph.cleanup = () => {
-            if (Graph) {
-                Graph.pauseAnimation();
-                Graph.graphData({ nodes: [], links: [] });
-                if (Graph._destructor) Graph._destructor();
-            }
-        };
-
-        // Pause on tab hidden
-        document.addEventListener('visibilitychange', () => {
-            if (document.hidden) Graph.pauseAnimation();
-        });
-
-    return Graph;
-}
+        return Graph;
+    }
 
     function renderLocalGraph(graphData, depth, fullScreen) {
-        if (window.graph) {
-            if (window.graph.cleanup) window.graph.cleanup();
+        if (window.graph){
             window.graph._destructor();
         }
         const data = filterLocalGraphData(graphData, depth);

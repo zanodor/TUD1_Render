@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analogikus gondolkodásmód/","title":"Analogikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-07-12T00:30"}
+{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-08-07T23:48"}
 ---
 
 
@@ -14,7 +14,7 @@
 > Az analitika, a ráció, rasszokra, részekre szakító kripto-igazsága, a matematikai szám és mennyiségi szemlélet alapja, míg az analógia az intuitív, érzelmi rokonító szemlélete a form a mérhetőségén túli szimbolikus képi világába kalauzol.  
 > 
 > A megszokott tudományos gondolkodásmód mindig lineáris és kauzális (ok-okozati) a formális látható valóság meghatározott szintjein mozog. Ezért nevezhetjük vízszintes gondolkodásmódnak.  
-> A másik gondolkodásmód az analógiák törvényén alapul. Az analogikus gondolkodásmód függőlegesen fűzi össze a hasonlót a hasonlóval. Az analógia nem ok – okozati összefüggést ír le, hanem mindig, amikor kérdésre ad választ.  
+> A másik gondolkodásmód az analógiák törvényén alapul. Az analógikus gondolkodásmód függőlegesen fűzi össze a hasonlót a hasonlóval. Az analógia nem ok – okozati összefüggést ír le, hanem mindig, amikor kérdésre ad választ.  
 > ![assets/Analogikusgondolkodásmód_image1.png|invert_dark](/img/user/A/assets/Analogikusgondolkod%C3%A1sm%C3%B3d_image1.png)  
 > A bal agyfélteke értelmen alapuló gondolkodás, ami racionális az vízszintes gondolkodásmód, férfias jellegű (tudományos). A jobb agyféltekés gondolkodás, amely intuitív, az függőleges gondolkodásmód, nőies princípium (művészi). A bal agyfélteke beszél a logikus nyelven (amit a jobb oldali teremtett) így nehéz leírnia a jobb oldali tartalmakat.  
 > Egy példával illusztrálom a két gondolkodásmód közötti különbséget: "Azért fogyott ki a víz a tartályból, mert a vízszintjelző nullára állt (vízszintes gondolkodásmód) vagy "Amíg a víz elfogyott a vízszintjelző nullára állt." (függőleges gondolkodásmód).  
@@ -29,7 +29,10 @@
 > \[...\]  
 > Nagy előnyünk, szent örökségünk az egyeztető, analógiás képi megfeleltetésre berendezkedő nyelvi kifejezésmódunk, azaz a szóképeink, melyek éppen az eddig emlegetett érző-látó féltekét ingerlik, aktiválják, és innen ered a magyar alkotó tehetség. Népi díszítőízlésünk formagazdagsága szintén az ősi nő-vallásunk hagyatéka.  
 
-Már volt arról valahol szó, hogy a beduinok vagy kik voltak(?) a sejk lábában elefánt agyarát látták. Indiános filmben vaslónak hívtak valamilyen gépet, afrikaiak pedig a vonatsínt hívták vaskígyónak.  
+Már volt arról valahol szó, hogy a beduinok a sejk lábában elefánt agyarát látták. Indiános filmben vaslónak hívtak valamilyen gépet, afrikaiak pedig a vonatsínt hívták vaskígyónak.  
+Ez klasszikus példája annak a kognitív folyamatnak, amikor egy kultúra a rendelkezésére álló fogalmi keretek segítségével próbál értelmezni ismeretlen jelenségeket. Az analógikus gondolkodás természetes emberi reakció: az ismeretlent a már ismerthez hasonlítjuk.
+Hasonló példák lehetnek:  
+Amikor első alkalommal látnak repülőgépet, "vas madárnak" nevezik, a vonatot "vas lónak" vagy "füstölő sárkánynak, az órát "kis dobnak, ami tikkel", stb.  
 
 Bárány Péterről, Carl Jung előfutáráról szólva írja a témával kapcsolatban Gyárfás Ágnes:  
 > "Bárány Péter az asszociációs lélektan első kidolgozói közé tartozik. Ennek lényege, hogy az ember egymáshoz csatolt képekben gondolkozik. A csatlakozás általában helyes, de lehet hibás vagy hiányos. Ebből adódnak a gondolkodási problémák, sőt, a lelki betegségek is. A csatlakozó képek lehetnek világosok, vagy homályosak. A homályos képek elmerülnek, mert a friss világos képek elnyomják őket. Bárány Péter ezzel a leírásával nemcsak korát előzte meg, hanem Sigmund Freud mély lélektanának is elébe ment több mint 100 esztendővel." (Dr. Gyárfás Ágnes 2020, december 3.)  
