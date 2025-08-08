@@ -145,12 +145,27 @@
                     Graph.zoomToFit(5, 75);
                 }, delay || 200);
             }
-        return Graph;
-    }
+
+        // Add cleanup capability
+        Graph.cleanup = () => {
+            if (Graph) {
+                Graph.pauseAnimation();
+                Graph.graphData({ nodes: [], links: [] });
+                if (Graph._destructor) Graph._destructor();
+            }
+        };
+
+        // Pause on tab hidden
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden) Graph.pauseAnimation();
+        });
+
+		return Graph;
+	}
 
     function renderLocalGraph(graphData, depth, fullScreen) {
-        // Only destroy previous graph if it exists
-        if (window.graph && window.graph._destructor) {
+        if (window.graph) {
+            if (window.graph.cleanup) window.graph.cleanup();
             window.graph._destructor();
         }
         const data = filterLocalGraphData(graphData, depth);
@@ -180,7 +195,7 @@
     }
 
     function closefullGraph(fullGraph) {
-        if (fullGraph && fullGraph._destructor) {
+        if (fullGraph) {
             fullGraph._destructor();
         }
         return null;
