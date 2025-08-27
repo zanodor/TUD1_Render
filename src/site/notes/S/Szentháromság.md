@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-19T01:07"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-27T03:03"}
 ---
 
 
@@ -67,15 +67,19 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
 > **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek hármasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
-> ![assets/Szentháromság_image1.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
+
+![assets/Szentháromság_image1.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)
+
+{ #250827}
+
 
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség. 
 A lány az anya fiatalkori önmaga és nem a fiú testvére. A fiú az anya fia: a Nap.  
   
 
-Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar őskutatási berkekben.  
+Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar kutatói berkekben.  
 
-Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
+Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|Son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
 ![assets/Szentháromság_image2.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
@@ -83,7 +87,7 @@ A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a 
 ![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
-- Jankovics Marcell írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
+- Jankovics Marcell írása ugyanerről [[H/Három istennő\|három istennő]] címnél is szerepelt:  
 > Rhea, Démétér és a Koré időbeli triásza a mezőgazdasági évszakok egymásutánját szimbolizálja. Az "öreg" Rhea a meddő téli földet, az érett Démétér a termőre fordult nyári-őszi földet, az ifjú Koré a magot befogadni kész tavaszi földet.  
 
 Falvay Károly könyve 216-217. oldalán a bolgár Marazov I.: Thrákia és a thrákok című könyvéből idézve írja:  
@@ -171,16 +175,15 @@ Lásd még [[N/Négy\|négy]], [[H/Három isten\|három isten]] és [[H/Három i
 
 #### Oláh Imre A magyar lélekhit keleti elemei...
 
-...című Ősi Gyökér 2004/3. számában megjelent cikkében (mely Oláh Imre Ősi jelképiség c. az Ősi Gyökér 2011/4. sz. megjelent cikkének első fejezete) írja (első fele több helyen szerepelt):  
+...című Ősi Gyökér 2004/3. számában megjelent cikkében (mely Oláh Imre Ősi jelképiség c. az Ősi Gyökér 2011/4. sz. megjelent cikkének első fejezete) írja:  
 > S hogy nyelvünk nem egy akármilyen szedett-vedett mozaiknyelv, arról maga a híres angol költő Sir John Bowring tanúskodik legszebben: "...Aki megfejti, az az isteni titkot fogja boncolni, annak is az első tételét: Kezdetben vala az Ige, és az Ige vala az istennél és az Isten vala az Ige." (The Poetry of the Magyars.)  
 > Ennek az "Ige" szónak, (nem nyelvtani fogalmak, hanem belső tartalom szerint) többféle értelme van. Egyfelől a Genezis szerint, például a hangra (a kínai Nagy Hang a Kung megszólalására \[[[Hang\|hang]], kong magyar szavainkkal azonos\]) indult meg a teremtés a Nagy mélység vizében.  
 > Egy másik jóval ősibb keletű – hindusztáni bölcsészeti rendszer értelmezése alapján: az [[I/Ige\|Ige]] a **Szentháromság** egyike. De vizsgálatunk kiindulópontjaként szolgáljon itt prof. Badiny Ferenc mérvadó észrevétele: A nagy szarv között látható gömb/csillag, (\*) jelentése Áz, amely azonos a hindu bölcselet Barahmá gondolatával. Mármost, ha az istenség eszméjét, a Teremtő-elv: Brahmá lényegének legkezdettebb értelméhez kapcsolódó ősfogalmat elemezzük, akkor a Szentháromság hittitok alapgondolatához jutunk. Ugyanis a Szatapatha Bráhmana ezt írja: "Brahmá, egy szarvas képében (hímnemű princípium), Vakhal a szarvasünővel (női princípium), egybekelvén teremté meg a Kozmoszt." A kommentár szerint: A Nőnemű-logosz, az "Ige", a "verbum"; maga az isteni hang. Tehát az isteni hang, amely rokon értelmű az Igével vagy szóval, a hindu bölcseletben az első indíték ereje, úgy is mondhatni: Brahmán női fele. Eszerint a hindu [[V/Vach\|Vach]] az "ős női" eszme, az Ige fogalma, és a "szférák zenéje" voltaképpen egy és ugyanaz.  
 > Patandzsali: Az Ő (Brahma) megnyilvánulása az ős-ige (az ős hang: Aum.) A mai emberiség számára a kung-gong helyébe ez az AUM lépett "a Nagy malom örök zúgásával". Tehát, ha azt vesszük, a világ alapja az éterrezgés, melynek eredője, ezoterikus értelemben véve: a kongó-bongó [[A/Ang\|HANG]].  
 > Baktay Ervin: Az AUM elmélyedő ismétlése a mindenség létesítő áramát remegteti végig bennünk. Az AUM az isteni eredetű létáramba kapcsolja be a szellemet, s ez meggyorsítja a kibontakozást, az egyesítettség elérését. Hasonló gondolatot fejez ki a Védák "éneklő tehene/szarvasa", és Boetius Musica mundanja, aki szimbólumként értelmezte a zenei kozmológiát. Ugyanúgy a zenei kozmológiához csatlakozott Kepler is, mikor a bolygópályákra vonatkozóan keresett zenei analógiát. (Harmonices mundi. Libri v.) Liszt Ferenc szerint: A zene a mennyország előcsarnoka." Érdekes, ma már a kutatás is a fentiek mellett szól. Ugyanis a BBC híradása most közölte, hogy a csillagászok lehallgatták a Kozmosz moraját, a kozmikus szimfóniát.  
-- [[H/Harmonics Theory\|Harmonics theory]] címhez is betéve.  
+- A [[C/Csudaszarvas\|Csodaszarvas]] ezért többféle értelmezésű; Bakos Attilánál Nap.
 
-A [[C/Csudaszarvas\|Csodaszarvas]] ezért többféle értelmezésű; Bakos Attilánál Nap.  
-> Egy másik bölcseleti magyarázat alapján az Atya-Anya jelképesen azonos a legelőlegesebb elemmel, azzal az ős éterrel, Asztrális Fénnyel, amely a teremtés pillanatában életre villanyozta a mindenséget betöltő ősanyagot. Ez az Őséther, vagy Asztrális fény az, amelynek eredője a négy főelem: a levegő, föld, tűz és a víz, s amelynek hangjában – [[P/Pythagorasz\|Pythagorasz]] szerint – az Isten beszél. Voltaképpen ezt a mélytudatban ívódott mágikus felfogást érzékelteti, varázsolja jelképekben elénk, egyfelől a perzsa Sáhnámeh hőseposz, másfelől a [[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]] csodaszarvasa, midőn zoomorfikus voltánál fogva, s a főelemek közegén keresztül, a Kozmosz képzetének látomásszerű vetületét kelti.  
+> Egy másik bölcseleti magyarázat alapján az Atya-Anya jelképesen azonos a legelőlegesebb elemmel, azzal az ős éterrel, Asztrális Fénnyel, amely a teremtés pillanatában életre villanyozta a mindenséget betöltő ősanyagot. Ez az Őséther, vagy Asztrális fény az, amelynek eredője a négy főelem: a levegő, föld, tűz és a víz, s amelynek hangjában – [[P/Pythagorasz\|Pythagorasz]] szerint – az Isten beszél. Voltaképpen ezt a mélytudatban ívódott mágikus felfogást érzékelteti, varázsolja jelképekben elénk, egyfelől a perzsa Sáhnámeh hőseposz, másfelől a [[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]] csodaszarvasa, midőn zoomorfikus[^8] voltánál fogva, s a főelemek közegén keresztül, a Kozmosz képzetének látomásszerű vetületét kelti.  
 > Az alapgondolatot prof. Badiny így summázza: "...az Iz-Ten... név valóban egy olyan együttest mutat, amely semmi esetre sem egy "magányos férfiistenként" képzelhető el, hanem magába hordja az Atya-Anya-Fiú öröklétháromságát.... a tökéletességet." A szimbóluma tehát \[csúcsával felfelé álló háromszög\]. Úgymond: három a magyar igazság. Ez az a Három Tűz: a láthatatlan Egyből kibontakozó, szintén rejtett háromság. Másképpen az a Szentháromság, melyen keresztül nyílvánul meg a látható, és egyebekben is érzékelhető világ: a Fiú, a Nap világa. Így fest tehát a "Szentháromság" eszméjének archaikus képe. A későbbi keletű **szentlélek gondolat, csak idővel, a Tertulliánusz egyházatya által kreált fogalmi rendszer** révén, s a női-princípium rovására, ékelődött bele.  
 > Kulcsár József Tanulmányokjában írja: A Napot mindig fiúnak mondták. Persze a szón "szülöttet" értenek, és csakugyan így helyes. A Fiút a szentháromságban a második helyen szokták emlegetni, de ez csak úgy helyes, ha előtte van az Atya-Anya (az Anya mint Szentlélek), és csak utána jön a gyermekük. Az így felfogott atyai-anyai egység azért válik az Atya-Anya kettősségévé, hogy a belőlük levő harmadik: a Fiúnak nevezett isteni bölcsesség és szeretet/ tudás, valami kifelé táruló formában megnyilatkozhasson.  
 
@@ -199,11 +202,11 @@ Bakos Attila A Duna Evangéliuma című könyvének 477. oldalán az "eredeti" S
 A 2008. augusztus 17.-i magyarság és kelet őstörténeti konferencia szöveges anyaga Fordulat – Hitvilág, mítoszok, legendák címmel elérhető letöltésre; 53. oldalán Dr. Gyárfás Ágnes Lugal Geme nagy Úrasszony, ki Mada című cikkében egy másik szentháromságról ír:  
 > A magyar Szentháromság, mint hitbéli fogalom benne élt az őskultúrákban Egyiptomban, Mezopotámia korai időszakának életében, amelyet mi Aranykornak, a mesék korának, Isten idejének nevezünk.  
 > A magyar Szentháromság vagy a Turáni népek Szentháromsága égi eredetű. Az Orion, a Szíriusz és az Ikrek csillagkép jelzi a Szentháromságot.  
-- Folytatást lásd [[S/Szíriusz – Gyárfás Ágnes Szíriuszról\|Szíriusz – Gyárfás Ágnes Szíriuszról]]. Azért az igen furcsa lenne, ha a mítoszalkotó ősmagyar ezekből kihagyta volna a központi csillagot, a Napot, bár mondhatnánk, hogy az Ikrek "viszi."  
+- Folytatást lásd [[S/Szíriusz – Gyárfás Ágnes Szíriuszról\|Szíriusz – Gyárfás Ágnes Szíriuszról]]. Azért az igen furcsa lenne, ha a mítoszalkotó ősmagyar ezekből kihagyta volna a központi csillagot, a Napot, bár mondhatnánk, hogy az Ikrek "viszi."
 
 De Gyárfás Ágnesnek egy másik hármassága is előjön [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél: szerinte (hasára ütő jelleggel) mindhárom lélekminőség. Ezekről lentebb lesz még szó.  
 
-Amikor [ezen](https://youtu.be/2Ed8jK8UlNM) Ne Legyen Áldozatos Felgyorsuló események és gyorsuló idő 2. rész című műsorban 6:13-nál Pap Gábor Madách Imre Az ember tragédiájának Első Színében alkalmazott megoldásáról szól, mármint hogy az Urat köszöntő Gábriel, Mihály és Ráfael arkangyal szájába adott fogalmakat (az Úr által teremtett feltételeket ill. a Teremtő teremtéseit), úgy mint tér/anyag, idő és ember ill. emberi jóság/boldogság így együtt szerepeljen, egymástól el nem választhatóan, akkor gondoltam arra, hogy a **Tér, Idő és az Ember is lehetne egy Szentháromság**, sőt, ezt látjuk a körbe írt keresztben is ([[T/Téridő\|téridő]] címnél is szerepelt): a Kör = Idő (két kiterjedése is van: kis és Nagy Év), a Kereszt = Tér, és az Isten/ember (Istenember; Isten emberben) van középen (a kis és Nagy Éves időkör ugyanúgy időkeresztben ábrázolható).  
+Amikor [ezen](https://youtu.be/2Ed8jK8UlNM) Ne Legyen Áldozatos Felgyorsuló események és gyorsuló idő 2. rész című műsorban 6:13-nál Pap Gábor Madách Imre Az ember tragédiájának Első Színében alkalmazott megoldásáról szól, mármint hogy az Urat köszöntő Gábriel, Mihály és Ráfael arkangyal szájába adott fogalmakat (az Úr által teremtett feltételeket ill. a Teremtő teremtéseit), úgy mint tér/anyag, idő és ember ill. emberi jóság/boldogság így együtt szerepeljen, egymástól el nem választhatóan, akkor gondoltam arra, hogy a **Tér, Idő és az Ember is lehetne egy Szentháromság**, sőt, ezt látjuk a körbe írt keresztben is ([[T/Téridő\|téridő]] címnél is szerepelt): a Kör = Idő (két kiterjedése is van: kis és Nagy Év), a Kereszt = Tér, és az Isten/ember (Istenember; Isten emberben) van középen (a kis és Nagy Éves időkör ugyanúgy időkeresztben ábrázolható).
 
 A legutóbb [[S/Szarv\|szarv]] címnél írottak után és [[N/Ninhursag\|Ninhursag]] címnél szerepeltetett kép betétele, vizsgálata után azt kell mondani, hogy a szarvas fogalma is érthető egy szentháromság, csillagkép szinten. Ugyanis a Skorpió, Nyilas és Bak csillagképek mind kapcsolatba hozattak a Szarvassal. Tehát a korábbi gondolatom, miszerint a [[P/Precesszió\|precesszió]] okozta volna a szarvas fogalmak társítását egy egyes állatövi jegyekhez (hisz a jegyek és csillagképek csúszásban vannak egymáshoz képest), mégis átértékelendő lehetne.  
 
@@ -416,11 +419,10 @@ Az [alábbi](https://www.youtube.com/watch?v=zF2LzLdDRII) Atilla akták 2. rész
 #### Végh Tibor A Szent Korona zománcképein ábrázolt szentek névünnepei naptári sorrendjének egyenes vonalú hálózata...
 
 ...című az Ősi Gyökér 2011/2. sz. megjelent cikkében írja:  
-> A magyar Szent Korona zománcképein ábrázolt isteni (égi) és emberi (földi) személyek láttán nyilvánvalónak tűnik a Szent Korona keresztény jellege. A keresztény hit szerint \[a \[fentebb említett\] unitáriusokat vagy például az eretnek pataréneket kivéve\] Isten 3-személyű. Így, ha a Szent Korona keresztény szellemiségű, akkor elvárható, hogyha 1-nél több isteni személy van megjelenítve rajta (az Atya és a Fiú, avagy a Teremtő és Krisztus), akkor ne csak kettőt, hanem mind a hármat megtaláljuk rajta vagy benne.  
+> A magyar Szent Korona zománcképein ábrázolt isteni (égi) és emberi (földi) személyek láttán nyilvánvalónak tűnik a Szent Korona keresztény jellege. A keresztény hit szerint \[a – fentebb említett – unitáriusokat vagy például az eretnek pataréneket kivéve\] Isten 3-személyű. Így, ha a Szent Korona keresztény szellemiségű, akkor elvárható, hogyha 1-nél több isteni személy van megjelenítve rajta (az Atya és a Fiú, avagy a Teremtő és Krisztus), akkor ne csak kettőt, hanem mind a hármat megtaláljuk rajta vagy benne.  
 > A keresztény hitre vonatkozó meggondoláson felül azt is figyelembe kell venni, hogy a Szent Korona beavató szerepű korona. A beavatáskor pedig a Szentlélek, áldásának közvetítését várjuk tőle, a Szentlélek kiáradását a leendő uralkodó személyére. Ezért nagyon furcsa lenne, ha a Szent Korona a Szentlélekre semmiféle utalást nem tartalmazna.  
 > A Szent Koronán legfelül, a pántok kereszteződésénél a Mindenható Atyaisten képe van, elől középen, az abroncs fölé magasodóan Krisztusé. De hol van a 3. isteni személy, a Szentháromság 3. tagjának, a Szentléleknek a megjelenése a Szent Koronán? Ugyanis olyan óriási rendezettséget, olyan szoros összefüggéseket, olyan feltűnő szabályszerűségeket birtokló alkotásnál, mint amilyen a Szent Korona, méltán tehető fel ez a kérdés. Az első 2 isteni személy, az Atya és a Fiú, emberi alakban is ábrázolható, a Szentlelket azonban nem lehet így ábrázolni. Érthető tehát, hogy olyan képet, mint a meglevők, hiába keresnénk.  
-- VT ezután arról szól, hogy a nyugati keresztény egyházművészetben a galamb szolgált a Szentlélek jelképezésére, nálunk, a régi magyarok és elődeik felfogásában pedig a sólyom. Amihez én teszem hozzá, hogy milyen érdekes, hogy a [[S/Sólyom\|sólyom]] és a [[G/Galamb\|galamb]] sz-előhangos szalambó változatának alakjai meg is egyeznek.
-
+- Végh ezután arról szól, hogy a nyugati keresztény egyházművészetben a galamb szolgált a Szentlélek jelképezésére, nálunk, a régi magyarok és elődeik felfogásában pedig a sólyom. Amihez én teszem hozzá, hogy milyen érdekes, hogy a [[S/Sólyom\|sólyom]] és a [[G/Galamb\|galamb]] sz-előhangos `szalambó` változatának alakjai meg is egyeznek.
 Arra lyukad majd ki, hogy a Szentlelket az egész beavató koronát behálózó sólyomalakú vonalrendszer fejez ki.  
 
 Aztán az Ősi Gyökér 2018/3-4. számában egy egész cikknek ezt a címet adja: A Szent Korona és a Szentlélek. Tulajdonképpen a fentiek ismétlése és kibővített változata.  
@@ -442,10 +444,12 @@ Valószínűleg a későbbi Kusánok, a szasszanida irániak, a Parthusok, és a
 The first Achaemenid king known publicly to have acknowledged "Anāhit(a)." (Az első Achaemenida király, akiről ismert, hogy nyilvánosan elismerte "Anāhit(a)"-t.)  
 
 [^3]: Lábjegyzet:  
-Az ősi Eurázsiában kialakult sajátosan kettős Nagy Istenanya mindenkor és mindenütt nemcsak az embereknek, de minden élőlénynek, a növényeknek és az állatoknak is istenasszonya, úrnője lett. Leánya a földi emberek számára szolgált közreműködőként, mediatrixként, mint azt görög, római párhuzamok is mutatják. \[Írja másutt Falvay Károly.\]  
+Falvay Károly írja:  
+Az ősi Eurázsiában kialakult sajátosan kettős Nagy Istenanya mindenkor és mindenütt nemcsak az embereknek, de minden élőlénynek, a növényeknek és az állatoknak is istenasszonya, úrnője lett. Leánya a földi emberek számára szolgált közreműködőként, mediatrixként, mint azt görög, római párhuzamok is mutatják.  
 
 [^4]: Lábjegyzet:  
-Az a fordulat, ami a kései bronzkorban, mintegy 4-5000 évvel ezel tt megbontotta a két emberi nem szerepköri egyensúlyát, mára mélypontját érte el. A figyelem a ciklikusan megszülető és meghaló "fénygyermek" (férfi) felé fordult, míg korábban az "örökkévalóságot" ténylegesen képviselő szülőanya volt a központ. \[[[Hyperborea-Atlantisz átállás\|[Hyperborea-Atlantisz átállás]] címnél is szerepelt.\]  
+Falvay Károly írja ([[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél is szerepelt):  
+Az a fordulat, ami a kései bronzkorban, mintegy 4-5000 évvel ezelőtt megbontotta a két emberi nem szerepköri egyensúlyát, mára mélypontját érte el. A figyelem a ciklikusan megszülető és meghaló "fénygyermek" (férfi) felé fordult, míg korábban az "örökkévalóságot" ténylegesen képviselő szülőanya volt a központ.  
 
 [^5]: Lábjegyzet:  
 Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke című Ősi Gyökér 2006/1. sz. megjelent cikkében Mattertia néven említi (kassai adatot láttam erről az interneten):  
