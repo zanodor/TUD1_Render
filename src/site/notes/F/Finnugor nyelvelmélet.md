@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2025-11-06T19:10"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2025-11-08T23:14"}
 ---
 
 
 # Finnugor elmélet
+
+A régi neve annak, amit manapság **uráli nyelvcsalád elmélet**nek neveznek.  
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
@@ -291,7 +293,7 @@ A könyve 994. oldalán megszólaltatott [[H/Harmatta János\|Harmatta]] a korá
 > Szószerint ezt írja: "Igaz ugyan, hogy a cirbolya fenyő (Pinus Sibirica) elterjedésének nyugati határa még csak el sem éri a káma-uráli neolitikus kultúra nyugati határát, azonban a fa neve csak a permi, az obi-ugor és a szamojéd nyelvekből, azaz a fa tényleges elterjedési területén mutatható ki és semmi bizonyíték nincs arra, hogy más finnugor nyelvekben meglett volna."  
 > Azaz e sorokkal nem valamiféle dilettáns akárki, hanem a szakképzett nyelvtudós Harmatta, kereken elutasítja Hajdú Péter (és Hajdú nyomán Fodor István) feltevését az uráliak Alsó-Ob menti nyugat-szibériai őshazájáról, amely Hajdúnak azon hipotézisén alapult, hogy a cirbolya fenyő neve és még néhány más tajga-fa neve egykor megtalálható lett volna az uráli alapnyelvben, de a nyugatabbi finnugorok az idők folyamán elfelejtették volna e faneveket, s ezért ma már nem találjuk meg náluk a tajgaerdő fáinak neveit.  
 > Nyomatékosan emlékeztetünk itt arra, hogy László Gyula már 1964-ben kereken elutasította Hajdú ezen hipotézisét, mégpedig azon egyszerű oknál fogva, mert azon a területen, amit Hajdú Péter kijelölt, semmi nyoma az általa mondott korban az emberi életnek. Ahol pedig nincs ember, ott őshaza sem lehetett – teszi hozzá végül (l. László, 1964.).  
-- Lásd a [[F/Finnugor elmélet#^f7lufy\|lentebb]]i passzus legalján.
+- Lásd a [[F/Finnugor nyelvelmélet#^f7lufy\|lentebb]]i passzus legalján.
 
 ## Az uráli-finnugor nyelvek rokonságának areális nyelvkiegyenlítődési elmélete
 
@@ -468,7 +470,7 @@ A következetlenség netovábbja, amikor szemantikailag egyértelműen rokon sza
 > 6\. Az indogermán nyelvtudomány és őstörténetkutatás számos mérvadó, nemzetközi tekintéllyel rendelkező reprezentánsának arra az újabb megállapítására, hogy az indogermán nyelvek minden valószínűség szerint csak a Kr. e. 3/2 évezred fordulójával kezdődően alakultak ki, ügyet sem vet, s továbbra is eleve indogermán, indoiráni és ősiráni alapnyelvi hatásokkal, jövevényszavakkal számol a maga "finnugor" alapnyelvében, a Kr. e. 4-3. évezredben.  
 > 7\. A nemzetközi nyelvtudományban egyedül azon ortodox, az egykori újgrammatikus iskola alapelveit ismét felújító irányzatot tekinti mérvadónak, amelyik a hangtörvények abszolutizálását már odáig vitte, hogy segítségükkel meg a japáni ajnuk nyelvét is "indogermanizálta"; s amelyet a modern őstörténetkutatás egyik legreprezentatívabb kézikönyve, a "Reallexikon der Assyriologie" teljesen történelmietlen, "ahisztorikus" irányzatnak jellemez.  
 > 8\. Mindezen módszertelenségek kimondatlan alapja az a fatális felismerés, hogy abban a pillanatban, amint a modern nemzetközi [[N/Nyelvészet mint tudomány\|nyelvtudomány]] azon két alapvető tételét elfogadnák, amelyek szerint a hipotetikus ősnyelvek rekonstruálása elvi-módszertani lehetetlenség, és hogy az indogermán nyelvek csak a Kr. e. 2. évezred folyamán kezdtek kialakulni, menthetetlenül összeomlana az uráli, illetve a finnugor nyelvcsalád szétágazásának feltételezett időrendje is, amelyet annak idején egyedül a 19. századi klasszikus indogermán nyelvcsaládfára támaszkodva, annak biztosra vett nyelvcsaládi kronológiájához szorosan igazodva dolgoztak ki, mégpedig oly módon, hogy a finnugor és az indogermán nyelvekben található szópárhuzamokat eleve vagy a még osztatlannak vélt indogermán alapnyelvből, vagy pedig az indoirániból, illetve az ősirániból átvett ősi kölcsönözéseknek tekintették. Miután azonban az újabb indogermán nyelvtörténeti vizsgálatok ráadásul azt is kimutatták, hogy az indogermán nyelvek kialakulásánál az ún. uráli vagy finnugor nyelyek igen jelentős szerepet játszottak, ezen ősi egyezések, párhuzamok esetében meglehetősen kétségessé vált még az is, hogy ki kölcsönzött kitől. Hangsúlyozzuk: még akkor is, ha elfogadnánk az ortodox finnugrisztika közös ősnyelvi elképzeléseit.  
-- Az utolsó félmondathoz járuló témát lásd [[F/Finnugor elmélet#Az ún. finnugor és indogermán nyelvcsaládok kialakulását elősegítő folyamatok letagadása\|az ún. finnugor és indogermán nyelvcsaládok kialakulását elősegítő folyamatok letagadása]] alcímnél.
+- Az utolsó félmondathoz járuló témát lásd [[F/Finnugor nyelvelmélet#Az ún. finnugor és indogermán nyelvcsaládok kialakulását elősegítő folyamatok letagadása\|az ún. finnugor és indogermán nyelvcsaládok kialakulását elősegítő folyamatok letagadása]] alcímnél.
 
 Ugyanez angolra fordítva (felírva [ezen](https://qr.ae/pyoM2h) Quora válaszba):  
 > Briefly summarizing the data \[in his book\] known so far, it can be clearly stated that the Hungarian Finno-Ugric studies are methodologically far behind the development of international linguistics.  
