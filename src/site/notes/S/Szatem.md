@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2026-01-29T21:34"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -57,7 +57,7 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 { #4v0nf7}
 
 
-A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak, írtuk hasonlóan [[A/Algebra\|Algebra]] címnél is.  
+A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak, írtuk hasonlóan [[A/Algebra\|algebra]] címnél is.  
 [[K/Khamor\|Khamor]] címnél is szó volt a [[S/Szamár\|szamár]] nevei kapcsán arról, hogy ami az arabban és héberben h-előhangos, az nálunk és az olaszban sz-előhangos. Hasonlóan a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szónak szatem változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat.  
 A svéd nyelvben a szóeleji (csak a szóeleji?) K helyett (nyilván nem mindegy, milyen magánhangzók állnak ott) S hangot ejtenek. Például Kallman név Selman, vagy a kangaroo s-sel ejtett szintén.  
 [[K/Követ\|Követ]] címnél szláv és török K-N illetve SZ-N vázú szavakat rokonítottunk egymással.  
@@ -71,7 +71,7 @@ A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fú
 
 ## Kentum-szatem szétválás helyett összevonás
 
-Ez az a [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|kentum kut és szatem süt alakok skut alakba való összevonása]] cím/alcímnél taglalt eset, amikor nem s vagy k lesz a szó elején, hanem egy összevont [[S/Sk-\|sk-]] előtétet találunk.  
+Ez az a [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|kentum kut és szatem süt alakok skut alakba való összevonása]] cím/alcímnél taglalt eset, amikor nem s vagy k lesz a szó elején, hanem egy, pl. a [[S/Sky\|sky]] szóban is megtalálható összevont [[S/Sk-\|sk-]] előtétet találunk.  
 [[S/Szláv\|Szláv]] címnél a `szklábosz` alak kapcsán szóltam már erről:  
 A nyelvészeti munkákban látottak alapján a szavak [[K/Kentum\|kentum]] és szatem változatai néha nem fejeződtek be a szétválásban. Tehát az eredeti Sk- megmarad, és úgy kell olvasni, mint S-t (nem Sh-t). Ennek a maradványát láthatjuk a német Sch-ban, amelyet Sh-nek olvasnak, nem Sz-nek vagy Szk-nak.  
 
