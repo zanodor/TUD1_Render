@@ -72,7 +72,9 @@
         }
         width = el.offsetWidth;
         height = el.offsetHeight;
-        
+        if (width === 0 || height === 0) {
+            return;
+        }
         try {
         const highlightNodes = new Set();
         let hoverNode = null;
@@ -153,24 +155,6 @@
                     Graph.zoomToFit(5, 75);
                 }, delay || 200);
             }
-            
-            // Add ResizeObserver to handle container resizing
-            const resizeObserver = new ResizeObserver(entries => {
-                for (let entry of entries) {
-                    const { width, height } = entry.contentRect;
-                    if (width > 0 && height > 0) {
-                        Graph.width(width);
-                        Graph.height(height);
-                    }
-                }
-            });
-            resizeObserver.observe(el);
-            
-            // Ensure observer is disconnected when graph is destroyed
-            Graph._destructor = () => {
-                resizeObserver.disconnect();
-            };
-
         return Graph;
         } catch (e) {
             console.warn('Graph rendering failed:', e);
