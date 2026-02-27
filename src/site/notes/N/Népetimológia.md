@@ -1,11 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts"],"created":"2025-07-16T14:23","updated":"2026-02-18T22:57"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-02-27T17:35"}
 ---
 
 
 # Népetimológia
 
-Sok előítélet kapcsolódik ahhoz a tevékenységhez, amit ezzel a kifejezéssel illetnek. A [[T/Tudomány\|tudományos világ]] és vak követői diadalittasan ütik rá a bélyeget azokra, akik népetimológia szagú levezetéseket gyártanak.  
+Sok előítélet kapcsolódik ahhoz a tevékenységhez, amit ezzel a kifejezéssel illetnek. A [[T/Tudomány\|tudományos világ]] és vak követői diadalittasan ütik rá a bélyeget azokra, akik népetimológia szagú levezetéseket gyártanak. És amit nekik lehet, azt neked nem:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Mongol/#2mj1t2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!check] &nbsp;
+> A "hivatalos" népetimológia még mindig jobb, mint a házilag gyártott. 
+
+</div></div>
+
 
 #### Jankovics Marcell Mély a múltnak kútja...  
 
@@ -67,6 +77,7 @@ Az ilyenfajta megfordított logika tömegével fordul elő, főleg a [[L/Latin n
 
 Bárczy Zoltán Töprengések a hazáról II. című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében [[A/Anonymus\|Anonymus]] és hitsorsosai ténykedése kapcsán maga is megjegyzi:  
 > Feltűnő, hogy amikor Atillát és népét a germán irodalom dicsőnek, hősnek hirdeti, a latin keresztény irodalom minden esetben rablónak és bandavezérnek tünteti fel. A magyarok Jáfettől való származtatása a XI-XIII. századi sekélyes ismeretű és ízléstelenül bibliázó és nyelvészeti ismeretek hiányában **etimologizáló barátok szokása volt. Anonymus Gesta Hungaroruma sem egyéb mint a tudálékoskodó nyugati krónikás barátok értéktelen ismételgetése**.  
+- Bárczy Anonymus-ellenes kijelentéseinek tompítására szolgáló véleményem másutt kifejeztem; itt csak arra akartam rámutatni, hogy valóban megmutatkozik egy dilettáns szint, ami még olyan feltételezésekben is látható volt, hogy a héber minden nyelv anyja lett volna, stb.
 
 Legutóbb [[S/Septem\|septem]] címnél a latin szó görög eredetét körüljáró Supka Géza irománya kapcsán jegyeztem meg, ismét [[N/Nyelvészet mint tudomány#Igékre visszavezetés eljárása\|az igékre való visszavezetés téves eljárása]] kapcsán, hogy mindig tudálékoskodást és utólagos magyarázatot és hagyománytorzítási lehetőségeket rejt, ami, valljuk meg, a [[J/Judeo-kereszténység#Judeo-keresztény teológia – az egyház baklövései és hatalomtechnikai játszmái\|judeo-keresztény teológia – az egyház baklövései és hatalomtechnikai játszmái]] cím/alcímnél taglalt uralmat élvező és feladni nem óhajtó papságnak ez nem is volt ellenére (azon címnél az itt leírtakat is némileg kibővítve adom). Persze előttük is voltak papságok a világon, akik a királyokat csak bábokat kezelték, tartották, de itt most nem ez a lényeg.  
 Hanem az, hogy amit népetimológiának szokás nevezni (azaz az egyszerű embert ezzel butává lehet minősíteni és le lehet járatni, a babonásnak beállított nézeteiért, sámánisztikus jellegű természetvallásból kinőtt pogány hagyományai eltörlésének szándékával is), az valójában az ősi nézetrendszereket, világképet (öröklött tudást) nem értő (hisz más nyelven beszéltek is már; a használt nyelvben ugyanaz a fogalom [[A/Ács\|ács]]ra, [[J/Jézus\|Jézus]] "foglalkozására" lehet [[N/Nagar\|naggar]] és [[C/Carpenter\|carpenter]] is, de ugyan, utóbbi alapján akkor Jézus a mai Forma 1-es autók prototípusát gyártotta volna?), valójában a Sötét Vaskorban, a [[M/Materializmus\|materializmus]] és Sátán, az irigység és ármány kora eszményeinek és erkölcsének megfelelően ténykedő vallási/világi vezetők részéről létrejött félreértelmezések. Nem népetimológia ez, hanem profanoetimológia, hiszen éppen a nép volt az, amely szájról szájra adta át szerető édesanyák tején is keresztül az ősi tudást és hagyományokat. Magyarországon is a nyelvet és népszokásokat megtartó nép volt az, aki a Szent Utat járta.  
