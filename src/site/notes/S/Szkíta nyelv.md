@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-03-05T01:29"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-03-19T17:57"}
 ---
 
 
@@ -9,14 +9,14 @@ Eleve olyan, hogy szkíta nyelv, nem létezett, mert olyan nép, ami magát szk�
 
 ## A szkíták nyelvének irániként való azonosítása
 
-[Ezen](https://hu.wikipedia.org/wiki/Szk%C3%ADta_nyelv) oldalon magyarul, [ezen](https://en.wikipedia.org/wiki/Scythian_languages) oldalon angolul is elérhető Wiki oldala. Sumér, hun, magyar nyelvről ott nem lesz szó, hiszen az indo-európaiak által kisajátított szkíta múlt és teljesítmény végett irániak kellett beállítani (hogy aztán az angolszászok már a geográfiai Iránt őshazának megjelölve megjelöljék magukat nemcsak örökösnek, hanem kultúraalapítónak).  
+[Ezen](https://hu.wikipedia.org/wiki/Szk%C3%ADta_nyelv) oldalon magyarul, [ezen](https://en.wikipedia.org/wiki/Scythian_languages) oldalon angolul is elérhető Wiki oldala. Sumér, hun, magyar nyelvről ott nem lesz szó, hiszen az indo-európaiak által kisajátított szkíta múlt és teljesítmény végett irániak kellett beállítani (hogy aztán az angolszászok már a geográfiai Iránt őshazának megjelölve megjelöljék magukat nemcsak örökösnek, hanem kultúra alapítónak).  
 
 #### Götz László Keleten kél a Nap...
 
 ...című könyvében elmeséli a szkíta nyelv iranizálásának történetét:  
 > Vessünk egy pillantást azokra az etimológiai és történelmi módszerekre, amelyek segítségével K. Zeuss (1837), W. Tomaschek (1887), K. Müllenhoff (1892) és követőik a szkiták irániságát megállapították.
 >
-> A szarmatákat pedig azért tartják(!) irániaknak, mert Herodotos szerint nyelvük hasonlított a szkíta nyelvhez. Jellemző azonban, hogy ugyanakkor a Herodotos által közölt szkíta közszavakat tévedésnek minősítik, mert nem egyeztethetők semmilyen iráni nyelvjárás megfelelő jelentésü szavaival.  
+> A szarmatákat pedig azért tartják(!) irániaknak, mert Herodotos szerint nyelvük hasonlított a szkíta nyelvhez. Jellemző azonban, hogy ugyanakkor a Herodotos által közölt szkíta közszavakat tévedésnek minősítik, mert nem egyeztethetők semmilyen iráni nyelvjárás megfelelő jelentésű szavaival.  
 
 Hérodotosz: "A szarmaták szkíta nyelvvel élnek, azonban azt régóta furcsán ejtik ki..."
 
@@ -65,6 +65,43 @@ A szkíta örökségre törő zsidók és indogermánok közös közvetlen (nyel
 
 ...című cikkében a korábbi (felfogás szerinti) sumér nyelv jön elő:  
 > Azt már a nyelvtudomány két óriása, Rawlinson \[melyik és tényleg az-e?\] és Lenormant bebizonyította, hogy a köztudatban szumernak nevezett nyelv a szkíták nyelve. A szkíták és az avarok kapcsolata a Folyamközzel és Egyiptommal közismert.  
+
+Lovasíjász népeink nyelvét és szavait örökölte (hanyatlott formában) mindenki és ezen ősnyelv a lovas és íjas szimbolikát az égre is helyezte (lásd például [[K/Kantár\|kantár]] szavunkat, [[K/Khamor\|Khamor]] alakú szavakat, stb.).  
+
+Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Cannabis/#2zaaap" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Nyilván nem véletlen, hogy a Történeti-etimológiai szótár szerint ótörök eredetű kendert más nyelvekben is a kány- gyökkel képezik; vö. gör. `kannabisz`, lat. `cannabis`, ném. `Hanf`, ang. `hemp`, fr. `chanvre`, or. `konolja`. Az orosz `kendir` ("kenderfajta növény") pedig valószínűleg a sztyeppei nyelvekből került az oroszba, s nem valamely török nyelvből. Általános elvként megfogalmazható, hogy a szláv nyelvek az ősszláv korszakban nem annyira török, mint inkább sztyeppei nyelvi befolyás alatt álltak. Ilyetén módon azok a szavak, amelyeket a nyelvtudomány a szláv nyelvekben török jövevényszavakként konstatál, mind a szláv, mind pedig a török nyelvekben sztyeppei eredetű jövevényszavak.  
+
+
+</div></div>
+
+- Amit Bognár Ferenc nem mond ki, hogy ezen sztyeppei népek (sokat mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Bognár Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.
+
+
+
+Az [alábbi](https://youtu.be/k1Jktk9Ioao) internet-szenzációt okozó videóban két vadász proto-indo-európai nyelven beszél egymással. A rengeteg hozzászólás ellenére senki sem hozza fel a szkíták nevét, illetve nyelvét, ami kissé furcsa.  
+Igaz, a nyelvészet semmit sem tud a [szkíták nyelvéről](https://en.wikipedia.org/wiki/Scythian_languages):  
+> Fragments of their speech known from inscriptions and words quoted in ancient authors as well as analysis of their names indicate that it was an Indo-European language, more specifically from the Iranian group of Indo-Iranian languages. Alexander Lubotsky summarizes the known linguistic landscape as follows:  
+> "Unfortunately, we know next to nothing about the Scythian of that period \[Old Iranian\] – we have only a couple of personal and tribal names in Greek and Persian sources at our disposal – and cannot even determine with any degree of certainty whether it was a single language."  
+> —  
+> Az ókori szerzők által idézett feliratokból és szavakból ismert beszédtöredékek, valamint nevük elemzése arra utal, hogy indoeurópai nyelvről van szó, pontosabban az indoiráni nyelvek iráni csoportjából. Alexander Lubotsky a következőképpen foglalja össze az ismert nyelvi tájat:  
+> "Sajnos szinte semmit sem tudunk az akkori \[régi iráni\] szkíta nyelvről – görög és perzsa forrásokból csak néhány személy- és törzsnév áll rendelkezésünkre –, és még azt sem tudjuk teljes bizonyossággal megállapítani, hogy egyetlen nyelv volt."  
+
+[[I/Indo-európai nyelvcsalád\|Indo-európai nyelvcsalád]] címnél szóba került egy bizonyos holland Van Boxhorn úr, aki már 1653-ban jól látta, hogy a szkíta az, amely a kiinduló nyelv kell legyen.  
+Edward Norris Memoir on the Scythic Version of the Behistun Inscription című könyvében például az 50. oldalon a magyar nyelv is szóba kerül és általában ugor nyelvvel is próbálja a többnyelvű [[B/Behisztuni felirat\|behisztuni felirat]] szkítának kezelt (nem tudom, itt nyilván az elámi?) nyelvet megfejteni.  
+A könyvet Érdy Miklós, A sumír, ural-altaji, magyar rokonság története; I. rész: a 19. század (1974) című k.-ben említi [ezen](http://www.magtudin.org/Szentkatolnai%20Balint.htm) oldal tanúsága szerint, ezért is figyeltem fel rá.  
+Lacza Tihamér Az ókor emlékezete című könyvének 33-34. oldalán is szó esik Behisztunról.  
+
+Fischer Károly Antal terjedelmes értekezést tett közzé a szkíta szavak összehasonlításának tárgyában. Meggyőződése szerint **a szkíták nyelve lényegét tekintve a magyarral azonos**.   
+
+#### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
+
+...című, [innen letölthető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw), több helyen idézett cikkében írja:  
+> Az elmúlt évtizedekben egyre több nyelvész vélekedik úgy, hogy az altaji, mongol és tunguz nyelvek hasonlóságának az az oka, hogy mindegyikre alapvető hatást gyakorolt a Hun Birodalom nyelve. Ezt a nyelvet mi szkíta-hun nyelvnek nevezzük. Hunnia fennállását ugyanebben a hatalmas eurázsiai körzetben megelőzte a szarmaták és a szkíták vezető szerepe. A szarmaták szkíta nyelvet beszéltek, de mindegyre csak hibásan, írta Hérodotosz (IV. könyv, 117.§.). Török "jövevényszavaink" jelentős része az alapszókincshez tartozik, és így nem átvételnek, hanem közös eredetnek tulajdonítható. A szkíta-hun nyelv az urál-altaji nyelvcsalád alapnyelvének tekinthető. Besorolható a finnugor vagy az altaji nyelvcsaládba, de csak egyik-egyik oldala, valójában bizonyos értelemben mindkettőt magában foglalja, illetve mindkettő belőle fakad, mindkettőnél szélesebb osztályt alkot. Mint ilyen, az urál-altaji nyelvcsalád alapnyelvének tekinthető. A könyvünkben ismertetett tények fényében a magyar nyelv önálló fejlődésének időszaka mintegy 10000 évre tehető.  
 
 ## Tökéletes bizonyíték a szkíták magyar nyelvűekként való bizonyítására
 
@@ -130,51 +167,18 @@ A fentieket [ezen](https://qr.ae/pvCvTx) Quora válaszba felírtam magyarul. A m
 >
 > Még mindig egy helyben toporgunk, mintha soha nem is léteztek volna sumérok vagy magyarok. Hogy miért? Mert a "kiválasztott nép" ugyanazt a sorsot választotta a magyaroknak, mint a suméroknak. Halál vagy szemitizálás. A Nyugatnak le kell vetnie szemita béklyóit, de nem a magyarság, hanem az emberiség érdekében.  
 
-Lovasíjász népeink nyelvét és szavait örökölte (hanyatlott formában) mindenki és ezen ősnyelv a lovas és íjas szimbolikát az égre is helyezte (lásd például [[K/Kantár\|kantár]] szavunkat, [[K/Khamor\|Khamor]] alakú szavakat, stb.).  
-
-Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt:  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Cannabis/#2zaaap" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-> Nyilván nem véletlen, hogy a Történeti-etimológiai szótár szerint ótörök eredetű kendert más nyelvekben is a kány- gyökkel képezik; vö. gör. `kannabisz`, lat. `cannabis`, ném. `Hanf`, ang. `hemp`, fr. `chanvre`, or. `konolja`. Az orosz `kendir` ("kenderfajta növény") pedig valószínűleg a sztyeppei nyelvekből került az oroszba, s nem valamely török nyelvből. Általános elvként megfogalmazható, hogy a szláv nyelvek az ősszláv korszakban nem annyira török, mint inkább sztyeppei nyelvi befolyás alatt álltak. Ilyetén módon azok a szavak, amelyeket a nyelvtudomány a szláv nyelvekben török jövevényszavakként konstatál, mind a szláv, mind pedig a török nyelvekben sztyeppei eredetű jövevényszavak.  
-
-
-</div></div>
-
-- Amit Bognár Ferenc nem mond ki, hogy ezen sztyeppei népek (sokat mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Bognár Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.
-
-
-
-Az [alábbi](https://youtu.be/k1Jktk9Ioao) internet-szenzációt okozó videóban két vadász proto-indo-európai nyelven beszél egymással. A rengeteg hozzászólás ellenére senki sem hozza fel a szkíták nevét, illetve nyelvét, ami kissé furcsa.  
-Igaz, a nyelvészet semmit sem tud a [szkíták nyelvéről](https://en.wikipedia.org/wiki/Scythian_languages):  
-> Fragments of their speech known from inscriptions and words quoted in ancient authors as well as analysis of their names indicate that it was an Indo-European language, more specifically from the Iranian group of Indo-Iranian languages. Alexander Lubotsky summarizes the known linguistic landscape as follows:  
-> "Unfortunately, we know next to nothing about the Scythian of that period \[Old Iranian\] – we have only a couple of personal and tribal names in Greek and Persian sources at our disposal – and cannot even determine with any degree of certainty whether it was a single language."  
-> —  
-> Az ókori szerzők által idézett feliratokból és szavakból ismert beszédtöredékek, valamint nevük elemzése arra utal, hogy indoeurópai nyelvről van szó, pontosabban az indoiráni nyelvek iráni csoportjából. Alexander Lubotsky a következőképpen foglalja össze az ismert nyelvi tájat:  
-> "Sajnos szinte semmit sem tudunk az akkori \[régi iráni\] szkíta nyelvről – görög és perzsa forrásokból csak néhány személy- és törzsnév áll rendelkezésünkre –, és még azt sem tudjuk teljes bizonyossággal megállapítani, hogy egyetlen nyelv volt."  
-
-[[I/Indo-európai nyelvcsalád\|Indo-európai nyelvcsalád]] címnél szóba került egy bizonyos holland Van Boxhorn úr, aki már 1653-ban jól látta, hogy a szkíta az, amely a kiinduló nyelv kell legyen.  
-Edward Norris Memoir on the Scythic Version of the Behistun Inscription című könyvében például az 50. oldalon a magyar nyelv is szóba kerül és általában ugor nyelvvel is próbálja a többnyelvű [[B/Behisztuni felirat\|behisztuni felirat]] szkítának kezelt (nem tudom, itt nyilván az elámi?) nyelvet megfejteni.  
-A könyvet Érdy Miklós, A sumír, ural-altaji, magyar rokonság története; I. rész: a 19. század (1974) című k.-ben említi [ezen](http://www.magtudin.org/Szentkatolnai%20Balint.htm) oldal tanúsága szerint, ezért is figyeltem fel rá.  
-Lacza Tihamér Az ókor emlékezete című könyvének 33-34. oldalán is szó esik Behisztunról.  
-
-Fischer Károly Antal terjedelmes értekezést tett közzé a szkíta szavak összehasonlításának tárgyában. Meggyőződése szerint **a szkíták nyelve lényegét tekintve a magyarral azonos**.   
-
-#### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
-
-...című, [innen letölthető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw), több helyen idézett cikkében írja:  
-> Az elmúlt évtizedekben egyre több nyelvész vélekedik úgy, hogy az altaji, mongol és tunguz nyelvek hasonlóságának az az oka, hogy mindegyikre alapvető hatást gyakorolt a Hun Birodalom nyelve. Ezt a nyelvet mi szkíta-hun nyelvnek nevezzük. Hunnia fennállását ugyanebben a hatalmas eurázsiai körzetben megelőzte a szarmaták és a szkíták vezető szerepe. A szarmaták szkíta nyelvet beszéltek, de mindegyre csak hibásan, írta Hérodotosz (IV. könyv, 117.§.). Török "jövevényszavaink" jelentős része az alapszókincshez tartozik, és így nem átvételnek, hanem közös eredetnek tulajdonítható. A szkíta-hun nyelv az urál-altaji nyelvcsalád alapnyelvének tekinthető. Besorolható a finnugor vagy az altaji nyelvcsaládba, de csak egyik-egyik oldala, valójában bizonyos értelemben mindkettőt magában foglalja, illetve mindkettő belőle fakad, mindkettőnél szélesebb osztályt alkot. Mint ilyen, az urál-altaji nyelvcsalád alapnyelvének tekinthető. A könyvünkben ismertetett tények fényében a magyar nyelv önálló fejlődésének időszaka mintegy 10000 évre tehető.  
-
 ## Szkíta szóalkotás
 
 A [[P/Pater\|pater]] név kapcsán már volt a témáról szó. Legutóbb pedig [[H/Hét\|hét]] és [[H/Heftalita\|heftalita]] címnél írtuk, hogy a szkíta időszakban a szavaink olyan változásokon mentek keresztül, melyek magyar belső fejlődést és már egy idegen nyelvek létrejötte felé való elhajlást mutatnak.  
 
+## Szkíta szavak
+
+[Ezen](http://s155239215.onlinehome.us/turkic/27_Scythians/ScythianWordListSourcesEn.htm) oldalon találunk szavakat, neveket.  
+
 ## Szkíta-hettita mint indo-európai nyelv
 
 Első körben tisztázzuk: a hettita az annyi mint szkíta.  
-[[B/Bedrich Hrozný\|Bedrich Hrozný]]-t magyar körökben lehúzzák, holott ki kell mondani, van igazsága. A folyamatosan specializálódó hettita-szkíta nyelv valóban képezheti a később indo-európainak nevezett nyelvek szókincsét.  
+[[B/Bedrich Hrozný\|Bedrich Hrozný]]-t magyar körökben lehúzzák, holott ki kell mondani, van igazsága (vak tyúk is talál szemet?). A folyamatosan specializálódó hettita-szkíta nyelv valóban képezheti a később indo-európainak nevezett nyelvek szókincsét.  
 Tudományos körökben Hrozny-nak[^2] köszönhetően terjedt el a hír, hogy a hettita nyelv az első indo-európai nyelv. Meg is kezdték a ferdítéseket azok az indogermán kutatók \[innen Péterfai János folytatja\]:  
 > ...akik észrevették ennek a területnek írását, majd megkezdték maguk irányába fordítani a feliratok jelentését, de nem vették figyelembe az írások alkotóinak valódi nyelvét.  
 
