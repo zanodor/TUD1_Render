@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-03-06T16:21"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-04-03T04:50"}
 ---
 
 
@@ -50,7 +50,7 @@ Tény, hogy...
 #### William F. Warren Paradise Found...
 
 ...című könyvében is említi a Bharata nevet:  
-> First, ![assets/Barát_image1.png|fix_dark fix_light right|240](/img/user/B/assets/Bar%C3%A1t_image1.png)of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
+> First, ![assets/Barát_image1.png\|fix_dark fix_light right\|240](/img/user/B/assets/Bar%C3%A1t_image1.png)of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
 > —  
 > Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.  { #rhwol}
 
@@ -108,7 +108,7 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > Van néhány nyelvészeti adatunk arra, hogy ezek az avar hunok – akik nem voltak mások, mint az úgynevezett kus nép, kik, mikor átálltak a Nap imádására, és lettek Egyiptomtól egészen Észak-Indiáig fő meghatározó ereje –, területük nevét szanszkritul **Bharatá**nak hívták, a Nap neve után, ami az avar hunoknál Bar-Ata (Nap-apa) volt.  
 > Nálunk ez a név a magyarban is megvan, `barát` néven. A Nap az egyetlen barátod, az egyetlen barát, aki soha nem hagy cserben (mármint a Földanya és lakói szempontjából): Ő mindig, anélkül, hogy bármit is kérne tőled, vagy bármit is elvinne cserébe, ránk szórja jóindulatú fényét és melegségét: ezt a melegséget akarod megtalálni egy igaz barátban, aki az igazságra is rávilágít (bármennyire nem tetszik is neked); a magyar barát tehát szimbolikus szó, mint még ezer más szó, a régi csillag- és napvallások termékei, amelyek az elmúlt évezredek során különböző rétegekből érkeztek be.  
 > A későbbi germán törzsek átvették ezt a nevet, és ebből fogalmazták meg legfontosabb szavaik egy részét, mint például a következőket:
-> - `bird` (Napmadár, tűzmadár, ezért a `fire` szó mássalhangzóilag hasonló alapú (vö. magyar `pír` szót is); `friend` is hasonló, valamint a `fair` és `first` szavak is; minden szó megérne egy alapos vizsgálatot, de itt nem);
+> - `bird` (Napmadár, tűzmadár, ezért hasonló mássalhangzóit tekintve a `fire` szó (vö. magyar `pír` szót is); `friend` is hasonló, valamint a `fair` és `first` szavak is; minden szó megérne egy alapos vizsgálatot, de itt nem);
 > - `bread` (a Nap melegével sütött, a Nap testeként is fogyasztották; később, a kereszténységben corpus Christi néven);
 > - `beard` (a haj a napsugarakat jelképezi);
 > - `burn` szintén B-R mássalhangzó alapja van;
