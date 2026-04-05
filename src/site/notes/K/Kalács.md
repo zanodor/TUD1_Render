@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2026-03-05T01:31"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2026-04-05T03:23"}
 ---
 
 
@@ -54,7 +54,7 @@ Tehát, még egyszer, Falvaynak fel sem tűnhet, hogy [[J/János\|János]] ([[J/
 > Óbecsén bort, fonott kalácsot (a női szüzesség jelét), almát (a tele-élet megidézőjét) szentelnek a templomban.  
 - Az alma is éppen a szüzesség jelképe, teszem hozzá.
 
-> \[...\]  
+Molnár V. József folytatja:  
 > Jászladányon a Szent János áldást az új ház fölszentelésekor énekelték, s aranylakodalomkor. A gyimesi csángók és a csíki székelyek a "tésztanemű virágokkal, tojásokkal, aranyozott ékítményekkel felcifrázott" nagy lakodalmi kalácsot Szent Jánosnak mondják. Az új pár az ajándékok elfogadása után a lakodalmi sokadalommal együtt Szent János áldásban részesül, ennek föladása a vőfély tiszte mindenütt. Az ország több vidékén szokásos, hogy esküvőre menet a vőfély tele palackot visz a templomba, a palack nyakán mintás, fonatos kalács, a "szerelemkalács" (János "jézusi" szerelmének jele). A bujáki új pár egy héttel az esküvő után bejárja és végigkínálgatja a falut, a díszes kendőbe fogott örömkaláccsal és borral: a kalács az asszony, a bor pedig az ember kezében van.  
 - [[K/Kenyér#Kenyér – cipó – kalács\|Kenyér – cipó – kalács]] cím/alcímnél is futólag tettünk arra megjegyzést, hogy ha eredetileg az istenanya testét fogyasztották, akkor ez felveti, hogy a nyújtott, elliptikus [[C/Cipó\|cipó]]-forma ([[C/Cipő\|cipő]] alakjához is hasonlóan) az Istennő testének alakja.
 
@@ -114,7 +114,7 @@ De a kaláccsal mondhatni egy alakúnak is mondható a [[H/Halak csillagkép\|Ha
 
 [Ezen](https://qr.ae/pNdLnA) válaszban a szlovák illető egy kereket és kerek alakú kalácsot mutat be (a lengyel Dorotheától kapott adat szerint: `kolacz` lengyelül kerek esküvői torta). A [[K/Kolos\|Kolos]] (mely a Küllős névvel is azonos) Napistennév a kiinduló. Abban valóban igaza van a szlovák válaszadónak, hogy kereknek kellene lennie a(z akár édes (mint a Nap cirógatása)) kenyérfélének. Sőt Kolos L>R Körös, ahol Kör = Nap. Az ugyan igaz, hogy eredetileg a Tejútanya testét fogyasztották, nem a Napistenét; a mi kalácsunk inkább a Tejútra utaló alakú. De hasonló témát boncolgattunk a Kör név kapcsán is: lehet a Tejút-galaxis köre is. Tehát az is elképzelhető, hogy a Nagy-Ős korábban a Tejútanya volt és a nevet megörökölte a Napisten. Így a magyar kalács formája a régi-eredeti forma maradt volna és a szláv a napvallás korához illeszkedően kerek.  
 Tulajdonképpen azt kell látni, hogy a magyar fonott kalács alakját tekintve egészen megegyezik a [[K/Kalász\|kalász]] alakjával, a szavak alakját tekintve is (lásd alant).  
-Az egyes fonott kalácsok képeit elnézegetve az interneten azt látjuk, hogy teljesen hasonló régi istennő-ábrázolásokhoz is ([[V/Venus\|Venus]], [[A/Artemisz\|Artemisz]]).  
+Az egyes fonott kalácsok képeit elnézegetve az interneten azt látjuk, hogy teljesen hasonló régi istennő-ábrázolásokhoz is ([[V/Vénusz\|Venus]], [[A/Artemisz\|Artemisz]]).  
 Nehéz tudni, hogy pontosan mi hogyan történhetett, de az biztos, hogy a Kolos/Kolozs név és változatai (Kalas, Kalász, stb.) mind megvannak a magyar nyelvben, de a szlávban nincsenek.  
 
 Egyébiránt a fentieket felírtam az idézett Quora-kérdésre [válaszként](https://qr.ae/pNLThv) is:  
