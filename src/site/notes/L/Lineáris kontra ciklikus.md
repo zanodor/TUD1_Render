@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lineáris kontra cirkuláris/","title":"Lineáris kontra cirkuláris","created":"2024-05-12T13:21","updated":"2025-09-28T21:31"}
+{"dg-publish":true,"permalink":"/L/Lineáris kontra ciklikus/","title":"Lineáris kontra ciklikus","created":"2024-05-12T13:21","updated":"2026-04-17T22:43"}
 ---
 
 
-# Lineáris kontra cirkuláris
+# Lineáris kontra ciklikus
 
 Hasonló téma szintén Bognár Ferenc tollából, Az Életfa csillag-gyökerei című cikkének bevezetőjéből szerepelt már [[B/Bal és jobb\|bal és jobb]] címnél.  
   

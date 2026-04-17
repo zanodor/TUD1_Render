@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-05T02:43"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-17T22:47"}
 ---
 
-á
+
 # Hsiung-nu
 
-Előfordul Hiung-nu és más formákban is.  
+Előfordul Hiung-nu és más formákban is. Alant a hsziungnu formát használtam.  
+
 Az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne az eredeti.  
 > [!details]- &nbsp;
 > **A nevek eredete és jelentése**  
@@ -65,7 +66,7 @@ Ami érdekes:
 ...című könyvében írja:  
 > A Zyongnunk (= hunnusok) chinai neve Tata ami idegent, barbarust, nemchinait jelent. ([Lásd 59. old.](zotero://open-pdf/library/items/DFI47XPY?page=59&annotation=2E5TPY4J))  
 
-## Hsziungnu mint szőke faj
+## A hsziungnuk mint szőke faj
 
 #### Zajti Ferenc Zsidó volt-e Jézus?...
 
@@ -74,7 +75,7 @@ Ami érdekes:
 > Korabeli ábrázolásokból tudjuk, hogy a szkíták mindig mint szép, hosszúkás fejű, sűrű szakállú nép ábrázoltattak. A szkíták azonosak az ékírásokban említett ashguzai vagy ishguzaival. Az eredeti név skuza, skhuza kellett hogy legyen és a görögök (Sküthai) theta-val írták, mig az asszírok z-vet ejtették. Szkítia semmi egyéb, mint Cythae (mint például Cushan, Kushan helyett). Szkíta semmi egyéb, mint Getae, kapcsolatba hozva nevüket a Saka, azaz Caka-val. **A hiungnuk ettől a szőke néptől származóknak vallják magukat**, úgy, hogy teljes joggal mondhatjuk, hogy a hiungnuk szőke faj voltak, mint ahogy a mai napig is azok összes utódaik."  { #t74ctc}
 
 
-## Hsziungnuk nyelvének iranizálása
+## A hsziungnuk nyelvének iranizálása
 
 #### Götz László Keleten kél a Nap...
 
@@ -85,14 +86,14 @@ Ami érdekes:
 > E gyanúnkat még különösen is megerősíti az a sokszorosan bizonyítható tény, hogy a különféle steppei és egyéb nyugat-ázsiai népek (szkiták, szarmaták, szakák, médek, pártusok, kusánok stb.) iráni nyelvűségének 19. századi eredetű feltételezését a második világháborút követő évtizedekben egyre több kutató igen nyomatékosan kétségbe vonja. Az ezirányú szakirodalmi adatok egy részét korábbi köteteinkben már bemutattuk olvasóinknak (l. pl. könyvünk. 57-59., 82-85., 224-236. és 262-265. old.). Különösen is figyelemreméltó e tekintetben K. Jettmar és szerzőtársai állásfoglalása a "Geschichte Mittelasiens" (Handbuch der Orientalistik, 1966.) című alapvető fontosságú kézikönyvben, amely szerint a perzsa peremvidékek állítólagos iráni nyelveinek tézise nagyon ingatag alapokon áll. Egyfelől ugyanis a néhány iráni nyelvűnek értelmezett (sic! vö. a cyrozny felirat Harmatta általi iráni értelmezésével kapcsolatban fentebb mondottakkal) írásos emlék még éppúgy nem etnikai vagy nyelvi bizonyíték, mint pl. a XII. századi európai krónikák latin nyelve sem az.. Másfelől pedig az arab források ismételten török nyelveknek mondják a chorezmi, a szogd, a szaka, a baktriai és a forgánai nyelvet (tehát azt a szaka nyelvet is, amelyiknek egyik nyelvjárását beszélték volna Harmatta szerint a yüch-chih-k és a hsiung-nu-k).  
 > Ugyanígy a [[S/Szkíta#^4lx1md\|szkiták, szarmaták iránisága]] sem biztos – folytatja Jettmar.  { #0v0rsh}
 
-- Kitér még ezután az [[A/Aveszta#Aveszta nyelv\|aveszta nyelv]]re is.
+- Kitér még ezután az [[A/Aveszta#Avesztai nyelv\|avesztai nyelv]]re is.
 
 Végül megengedi:  
 > E helyzet következtében magunk ebben a kérdésben inkább az óvatos várakozás álláspontjára helyezkedünk mindaddig, amikor biztosabb adatok állnak majd a kutatás rendelkezésére a yüeh-chih-k és a hsiung-nu-k nyelvi hovatartozásának végleges eldöntésére, mint egyes iranológusok azon véleménye, hogy e két nép nyelve esetében kelet-iráni nyelvekről lenne szó. Egyelőre csak annyi látszik valószínűnek, hogy e nyelvek is valamilyen módon összefüggésben állhattak az [[A/Andronovói kultúra\|andronovói]] és a [[K/Karasuk kultúra\|Karasuk műveltség]] areálisan kiegyenlítődött közlekedő nyelvének különféle irányokban továbbfejlődött utód-nyelveivel (l. fent), és ez esetben az is elképzelhető, hogy eredetileg **esetleg tényleg valamiféle törökös-iránias keveréknyelvek** lehettek.  
 
 Lásd még [ezen](https://prism.ucalgary.ca/server/api/core/bitstreams/0f570209-afee-4041-913d-afb541d76c2d/content) oldalon szereplő kínai-kanadai illető disszertációjának idevonatkozó anyagát.  
 
-## Hsziungnuk művészete
+## A hsziungnuk művészete
 
 
 Az [erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban](https://julianusbaratai.blog.hu/2024/06/08/erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban_470) című blogposztban nincsenek képek de utalnak a *Xiongnu Encyclopedia* c. elektronikus kiadvány oldalszámaira.  
