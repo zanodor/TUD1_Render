@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-04-24T09:35"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:34","updated":"2026-05-08T23:03"}
 ---
 
 
@@ -53,7 +53,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-ment
 
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vitetett át az őt szülő szörny illetve tengeri lény nevére.  
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a kakkab mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa (forrása alapján) megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).)  { #mkkhrr}
+Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a [[K/Kakkab\|kakkab]] mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa  ill. forrása alapján megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).  { #mkkhrr}
 
 - [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvében is történik utalás Brown adataira; lásd ott.
 
@@ -67,7 +67,7 @@ A Constellations oldal szerzője, az Richard H. Allen Star Names című könyvé
 > Gamma (γ Nashira) marked the 27th Babylonian ecliptic asterism, Mahar sha hi-na Shahu, the Western One in the Tail of the Goat.  
 —  
 > Gamma (γ Nashira) jelölte a 27. babiloni ekliptikai csillagképet, Mahar sha hi-na Shahu-t, a Nyugatit a Kecskefarokban.  
-- A Shahu név a [[S/Sah\|Sahu]]-nak megfelelő lehet: fej, fő jelentéssel.
+- A Shahu név a [[S/Sah\|Sahu]]nak megfelelő lehet: fej, fő jelentéssel.
 
 Másutt asszír-babiloni `mahar` = fiú (Son, azaz Sun) értelmet találtam, megint másutt `mahar` = (tanú) jelenlétében, ill. előtt. Ez hasonló a más nyelvekben talált, lentebb is említett 'újra', 'visszatér' fogalmaihoz, és visszavihető [[M/Magor\|Magor]] (újbóli) megszületésére, hol: a Bak Magur/Makar(a) nevével is fémjelzett téridőbeli helyen.  
 Másutt az asszír `mahar` = szemben állni, rivalizálni értelmét találom (honnan lehet [[N/Nimrud\|Nimrud]] nevet magyarázni akaró héber `marad` = lázad ige is akár), melyekhez hasonló, rettegést kifejező szavakat Hargita Csaba gyűjtött (lásd [[M/Magyar\|magyar]]) és akár az M-G-R vázú [[L/Lemniszkáta\|lemniszkáta]] kapcsán is taglalt, alant is sorolt finnugor szavak párja is lehet (Magor ellenpárja Hunor).  
@@ -160,7 +160,7 @@ De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeál
 > S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik.  { #hzurgv}
 
 
-Clarias **Magur** (lásd [itt](https://www.fishbase.se/summary/Clarias-magur.html)) egy harcsaféle neve.  
+Clarias **Magur** (lásd [itt](https://web.archive.org/web/20250118195233/https://www.fishbase.se/summary/Clarias-magur.html)) egy harcsaféle neve.  
 A Pallas Nagy Lexikona adataként egy [[M/Makár\|makár]] nevű halat is találunk.  
 
 [[H/Hunor és Magor#Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgáltata\|Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgáltata]] és [[H/Hunor és Magor#Hunor és Magor, azaz Magor és Hunor Makara és Kumara változatai\|Hunor és Magor, azaz Magor és Hunor Makara és Kumara változatai]] cím/alcímnél taglaljuk Makarát és a vele átellenben lévő Kumarát.  
