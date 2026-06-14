@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Keresztre feszített Nap/","title":"Keresztre feszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-03-05T01:38"}
+{"dg-publish":true,"permalink":"/K/Keresztrefeszített Nap/","title":"Keresztrefeszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-06-13T23:22"}
 ---
 
 
-# Keresztre feszített Nap
+# Keresztrefeszített Nap
 
-Számtalan helyen volt róla szó, másutt, [[N/Négy\|négy]] és [[C/Crucifixion\|crucifixion]] (valamint [[C/CSÁR\|CSÁR]]) címnél, és azóta egy [[J/Jézus#Jézus keresztrefeszítése\|Jézus keresztrefeszítése]] cím/alcímet is felvettünk. Legutóbb [[N/Négyszögletes Nap\|négyszögletes Nap]] címnél szerepelt Jankovics Marcell adata.  
+Számtalan helyen volt róla szó, másutt, [[N/Négy\|négy]] és [[C/Crucifixion\|crucifixion]] (valamint [[C/CSÁR\|CSÁR]]) címnél, és azóta egy [[J/Jézus#Jézus keresztre feszítése\|Jézus keresztre feszítése]] cím/alcímet is felvettünk. Legutóbb [[N/Négyszögletes Nap\|négyszögletes Nap]] címnél szerepelt Jankovics Marcell adata.  
 
 [[O/Orant\|Orant]] címnél is szerepeltek az alábbiak:  
 A kiterjesztett karú isten ábrázolása megjelenik a maja ábrázolásokban, szimbolikában is. A mellékelt anyag...
@@ -25,12 +25,12 @@ A kiterjesztett karú isten ábrázolása megjelenik a maja ábrázolásokban, s
 { #q4gb72}
 
 
-A kitárt kar a keresztre feszített Napot ábrázolja (mivel mayákról van szó, az azték [[Q/Quetzalcoatl\|Quetzalcoatl]] maja párja Itzamma, így hát gondolhatjuk, hogy őt ábrázolja, viszont [[H/Hunahpu\|Hunahpu]] címnél álló infók alapján az Első Atya Hun Hunahpu (Egy Hunahpu)); lényegében az indo-európai tudósok is hasonlóképpen értelmezik (lásd a képek alatti szöveget).  
+A kitárt kar a keresztrefeszített Napot ábrázolja (mivel majákról van szó, az azték [[Q/Quetzalcoatl\|Quetzalcoatl]] maja párja Itzamma, így hát gondolhatjuk, hogy őt ábrázolja, viszont [[H/Hunahpu\|Hunahpu]] címnél álló infók alapján az Első Atya Hun Hunahpu (Egy Hunahpu)); lényegében az indo-európai tudósok is hasonlóképpen értelmezik (lásd a képek alatti szöveget).  
 (A témáról bővebben lásd [[G/Galactic centre\|Tejútközpont]].)  
 
 Arról, hogy a négyes felbontás hogyan egyszerűsödik felezésre, lásd [[M/Missera\|missera]], de [[G/Gate\|gate]] címnél is írtuk:  
 A hun-germán `gate` (gát, gátor) szó K-T vázával, kapu jelentésével a két fontos égi kapura kell utaljon; annál is inkább, mert az eget két félgömbre osztó Tejút hun (alakú) neve megszemélyesítve is [[G/Göd\|Göd]] (a [[K/Köd\|köd]] pedig tejet jelent), továbbá [[K/Két\|két]] [[K/Kutya\|kutya]] áll a Tejút két felén. Ezek a fontos K-T vázú szavak egy [[K/Köt\|köt]]ött rendszerre utalnak: melyekhez csatlakozik még [[K/Kétu\|Kétu]] és az a [[C/Cata- prefixum\|cata- prefixum]] is, mely az alsó, vaskori kapura utal.  
-(Ezzel még nem biztos, hogy a gát, gátor utalás a két szavukra, de ahogy [[T/Tehén\|tehén]] és [[M/Missera\|missera]] címnél is szerepelt, a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] négy stációi közül leginkább kettő a fontos, és ez a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengelly]]el azonos két Tejút-kapu.  
+(Ezzel még nem biztos, hogy a gát, gátor utalás a két szavukra, de ahogy [[T/Tehén\|tehén]] és [[M/Missera\|missera]] címnél is szerepelt, a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] négy stációi közül leginkább kettő a fontos, és ez a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengelly]]el azonos két Tejút-kapu.  
 K-T vázúnak foghatók fel a [[H/HAT\|hat]] és a [[H/Hét\|hét]] is, mely számok utalnak a Tejút általi felezésre. Lásd ott.)  
 
 [[A/Aranykor és annak vége\|Aranykor és annak vége]] címnél szerepelt:  
@@ -48,7 +48,7 @@ A négyes tagolásra lehet egyszerűen úgy tekinteni, hogy a Tejút 25920 éven
 > A Dél keresztje (a Szűz csillagképtől északra) – vagy a Nyilas keresztet formáló, Skorpióhoz közeli része – a Nap mögött = "keresztre feszítés", az Orion övcsillagai = "háromkirályok", a Sirius (Egyiptomban Isis csillaga) = "Szűzanya" stb.  
 > Nos, valójában a Dél Keresztje csak egy utóbb felvett csillagkép, mert Jézust nem azért feszítették keresztre, mert ilyen csillagkép közelében tartózkodik a téli napfordulón a Nap. Széth furkájára is gondoljunk. Az efféle késői keresztény képzettársítás olyan, mint a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] címnél álló magyarázat arra nézve, hogy miért szűz Jézus anyja.  
 
-[[J/Jézus#Jézus keresztrefeszítése\|Jézus keresztrefeszítése]] cím/alcímnél is szerepeltek az alábbiak, melyben szépen leírják, hogy milyen égi pályák találkozásáról, keresztezéséről van szó.  
+[[J/Jézus#Jézus keresztre feszítése\|Jézus keresztre feszítése]] cím/alcímnél is szerepeltek az alábbiak, melyben szépen leírják, hogy milyen égi pályák találkozásáról, keresztezéséről van szó.  
 
 #### John G. Jackson Christianity before Christ...
 
