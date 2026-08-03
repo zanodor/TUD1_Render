@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-07-30T02:37"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-03T20:52"}
 ---
 
 
@@ -102,7 +102,7 @@ Hasonló eset lehet [[S/Single\|single]] > [[S/Simple\|simple]]. Egy új elméle
 Kolumbán Sándor írja lámpáról, lángról:  
 > A Baranya megyei Keszüben ha valami kigyulladt, azt régebben úgy is mondták, hogy "lampot vetött". Vagyis nem lángot vetett, hanem lampot! Ugyancsak Keszüben gyűjtötték a "lampával ég" kifejezést is, melynek jelentése: lánggal ég. Vagyis e két szó, a láng és a lámpa kezdetben teljesen azonos értelmű és egymással felcserélhető volt.  
 
-NG>MB változás a fentiek alapján (P=B) történhet. Egy ismert példa az oroszlán `singa` nevéből eredő szuahéli (és más nyelven is megtalálható) [[S/Simba\|Simba]], mely az Oroszlánkirály Simba karakterét is adja. Ide vehető e mellé a single > simple esete is.  
+NG>MB változás a fentiek alapján (P=B) történhet. Egy ismert példa az oroszlán szanszkrit `singa` nevéből eredő szuahéli (és más nyelven is megtalálható) [[S/Simba\|Simba]], mely az Oroszlánkirály Simba karakterét is adja. Ide vehető e mellé a single > simple esete is.  
 Egy másik a ginger > gyömbér (fordítva is lehetséges). De a hungár > [[C/Cumbria\|Cumbria]] is ilyen. A [[K/Kimmér\|kimmér]] névbe is bekerül egy b, ahogy g a hungárba? Cambria a walesi Cymru latin változata ugye. Itt is megjelenik a b.  
 
 A másik hasonló, de kevésbé ide illő eset ND>MP változás, vagy ennek fordítottja. Például `grandpa` > `gramp`.  
@@ -144,7 +144,7 @@ N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tünd
 #### A Czuczor-Fogarasi szótár...
 
 ...adata ondók címnél:  
-> Továbbá, az l átalakúl n-re, pl. balga banga, talál tanál, lám nám, dalol danol, stb. tehát e hasonlatra: öldők, öndők, ondók; ölték, önték, onték, ontok; öltöle öntöle, ontola; végre az l igen sokszor átalakul r-vé, mint: hetle hetre, nyetle nyetre, botolkál botorkál, botlánkozik botránkozik (a botlik törzstől), gúzsolodik guzsorodik, csuszkolál csuszkorál, stb. stb. és így ontola ontora.  
+> Továbbá, az l átalakúl n-re, pl. balga banga, talál tanál, lám nám, dalol danol, stb. tehát e hasonlatra: öldők, öndők, ondók; ölték, önték, onték, ontok; öltöle öntöle, ontola; végre az l igen sokszor átalakul r-vé, mint: hetle hetre, nyetle nyetre, botolkál botorkál, botlánkozik botránkozik (a botlik törzstől), gúzsolodik guzsorodik, csuszkolál csuszkorál, stb. stb. és így ontola ontora.  
 
 <!--section: 11-->
 ### F, V, B, P hangok gyakori cseréje
