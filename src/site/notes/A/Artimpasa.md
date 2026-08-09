@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Artimpasa/","title":"Artimpasa","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-20T11:20","updated":"2026-06-22T17:54"}
+{"dg-publish":true,"permalink":"/A/Artimpasa/","title":"Artimpasa","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-20T11:20","updated":"2026-08-09T18:48"}
 ---
 
 
@@ -19,12 +19,11 @@ Az [alábbi](https://www.encyclopedia.com/environment/encyclopedias-almanacs-tra
 > It is clear, however, that the pantheon was divided into three ranks. In the first rank was Tabiti (the Greek Hestia), in the second were Papaeus (Zeus) and Api (Gaia), and in the third were Oetosyrus or Goetosyrus (Apollo); Artimpasa, or Argimpasa (Aphrodite Ourania); and two gods whose Scythian names are not known but who have been identified with Herakles and Ares. It is possible that the first of these unnamed gods is identical with the primeval figure of Scythian mythology, Targitaus (Herodotus, 4.5-10), who was also identified in the classical tradition with Herakles.  
 > —  
 > Az alapvető szkíta panteon hét istenből állt. Funkciójukat, amely nem mindig világos, főleg Hérodotosz görög istenekkel való azonosításuk alapján (4.59) és néha szkíta nevük etimológiája alapján határozták meg.  
-> Az azonban egyértelmű, hogy a panteon három rangra oszlott. Az első rangsorban [[T/Tabiti\|Tabiti]] (a görög [[H/Hesztia\|Hestia]]), a másodikban Papaiosz (Zeusz) és Api (Gaia), a harmadikban pedig Oitoszürosz vagy Goitoszürosz (Apollón); [[A/Artimpasa\|Artimpasa]] vagy [[A/Artimpasa\|Argimpasa]] (Aphrodité Ourania); és két isten, akiknek szkíta neve nem ismert, de akiket [[H/Héraklész\|Hérakléssz]]el és [[A/Árész\|Áréssz]]el azonosítottak. Lehetséges, hogy a névtelen istenek közül az első azonos a szkíta mitológia ősi alakjával, [[T/Targitaosz\|Targitaossz]]al (Hérodotosz, 4.5-10), akit a klasszikus hagyomány szintén Héraklésszel azonosított.  
-
+> Az azonban egyértelmű, hogy a panteon három rangra oszlott. Az első rangsorban [[T/Tabiti\|Tabiti]] (a görög [[H/Hesztia\|Hestia]]), a másodikban Papaiosz (Zeusz) és Api (Gaia), a harmadikban pedig Oitoszürosz vagy Goitoszürosz (Apollón); [[A/Artimpasa\|Artimpasa]] vagy [[A/Artimpasa\|Argimpasa]] (Aphrodité Ourania); és két isten, akiknek szkíta neve nem ismert, de akiket [[H/Héraklész\|Hérakléssz]]el és [[A/Árész\|Áréssz]]el azonosítottak. Lehetséges, hogy a névtelen istenek közül az első azonos a szkíta mitológia ősi alakjával, [[T/Targitaosz\|Targitaossz]]al (Hérodotosz, 4.5-10), akit a klasszikus hagyomány szintén Héraklésszel azonosított. 
 
 </div></div>
 
-- [Ezen](https://skifska-etnika.com/brand/en/collections-en/the-ancient-scythia/) oldalon írottakat is lásd.  
+- [Ezen](https://web.archive.org/web/20211031172259/https://skifska-etnika.com/brand/en/collections-en/the-ancient-scythia/) oldalon írottakat is lásd.
 
 ORIGENES (i.sz. 185-254.) V. könyv Celsus ellen:  
 > 39\. Celsus állítja Herodot után, hogy a szó szoros értelmébenkíták Apollót Gongosirnak, Neptunt Thagimasádnak, Venust Argimpasának, Vestát Tabitinak nevezik.  

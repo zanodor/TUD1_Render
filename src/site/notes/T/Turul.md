@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-07-18T22:49"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-08-09T18:45"}
 ---
 
 
@@ -206,7 +206,8 @@ Az kétségtelen, hogy a madár feketével festett, és a [[H/Hét#Hét vár\|h�
 Ami fontos itt, hogy a [[M/Madár\|madár]]ság a magyarságot és azon belül is a [[M/Magyar\|Magyar]] istenanya testén körbemenő Napot jelképezi, azaz a fehér madár a feltámadás jelképe, a fekete a nyári napfordulós váltópontra utal. Hasonló eset tehát, mint amit a szarvas kapcsán megfogalmaztunk, az önmagába visszakísérés kapcsán, de a [[J/Jin és jang\|jin-jang]] jelben is ugyanezt az elvet látjuk.  
 Tehát nem annyira (csak) az őstudás romlását kell a madárábrázolások mögött feltételezni, ahogy Kubínyi Tamás mondja, hanem ismerni kell a csillagmitológiai hátteret, és azt is felismerni, hogy a képzetek jelentőségének illetve valódi értelmük feledés bemerülésével nemcsak a torzulás, hanem két hasonló indíték megléte esetén a konfláció, az összemosás esete is fennállhat.  
 > [!check] &nbsp;
-> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.{ #51m2cm}
+> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.
+{ #51m2cm}
 
 
 #### Dúcz László...
@@ -567,8 +568,7 @@ Tóth Gyula [[S/Szimurgh\|Szimurgh]] címnél álló passzusa:
 > Az egyik jegyzetemet lapozgatva a turul kutatás révén újra visszajutottam Irán és Pakisztán földjeire, és lássanak csodát, a [[T/Turul\|Turul]] eredetileg nem madár, hanem sárkány mégpedig tollas sárkány (amit archeológusok meg is találtak mint övcsatot a szabír-akkád-méd nemeseknél), ami **később turk hatásra lett csak madár**. Eredetileg a neve Simurgh volt, aminek olyan tulajdonságot is tulajdonítottak – hogy képes volt világok közt utaztatni felkapva az embert ha etetik. Az akkád méd kurd arab történetben birkahúsdarabokkal eteti a főhős...na most ha ez eredetileg sárkány, és megölni jönnek... vélemény?  
 > Lehet, hogy tévedek, de ezek a felsorolt tulajdonságok nem a sárkány tulajdonságai, hanem tipikusan a griff tulajdonságai. Hiszen a Fehérlófia mesénkben is a griff az, ami felkapja a főhőst és világok között utaztatja. A griffet Fehérlófia mesénkben is etetni kell: hol jobbról, hol balról kell a szájába dobni vagy kenyeret vagy szalonnát. A griffmadár félig oroszlán, félig sas. E tulajdonságai révén mindig a legfőbb istenségre, magára Krisztusra utal. A griffmadarat valóban lehet úgy ábrázolni, hogy a gyanútlan szemlélő azt hiszi sárkányt lát. De attól az még nem lesz sárkány. A griffet és a sárkányt összekeverni éppen olyan, mint összekeverni a legfőbb jót a legfőbb rosszal, mint összemosni Krisztust a Sátánnal.  
 > Lehet persze, hogy voltak olyan peremkultúrák, ahol ez a két jelképes alak a sárkány és a griff összekeveredett. De véleményem szerint ez a keveredés az eredeti tiszta jelképrendszer torzulását jelentette. Azt jelentette, hogy az a peremre szorult kultúra már kezdte elveszíteni a kapcsolatát az eredeti szerves műveltségével. Esetleg az a peremre szorult kultúra alsó-világi befolyás alá került, megfertőzte az alsó világ szellemisége, s a saját korábbi legfőbb szimbóluma olyan elemeket olvasztott magába, amely az alsó világ legfőbb szimbólumát, a sárkányt idézte. Én így látom.  
-> Úgy gondolom nekünk abból a tiszta és erőteljes szimbolikából kell kiindulnunk, ami Fehérlófia mesénkben megőrződött. Ahol a sárkány még sárkány, a griff pedig griff, s a kettő között semmiféle átfedés nincs.  
-
+> Úgy gondolom nekünk abból a tiszta és erőteljes szimbolikából kell kiindulnunk, ami Fehérlófia mesénkben megőrződött. Ahol a sárkány még sárkány, a griff pedig griff, s a kettő között semmiféle átfedés nincs. 
 
 </div></div>
   

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-07-03T23:11"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-08-09T17:53"}
 ---
 
 
@@ -9,7 +9,7 @@ Ami az alábbiakban megfogalmazásra kerül, abból kiderül, hogy az önazonos�
 > [!check] &nbsp;
 > Egyes nyelvek szavai mögött az önvaló, belső/isteni lényeg, én(ség), életerő, lélek, és annak lényegét, alapkiinduló fogalmát tekintve fény, tűz jelentésű alapszók kereshetők.
 
-Különösen a [[K/Khuda\|Khuda]] címnél taglalt perzsa `khod` = saját, önmaga szó kapcsán írottakat értelmezve érthető ez meg, de mint kiderül, a török nyelvben is hasonló esetet találunk: a nyilván [[I/Isten\|Isten]] szavunk csonkulásaként vehető török `üst` = ős, előd, felettes, szülő párjának tartható az alant említett `öz` = önmaga szócska.  
+Különösen a [[K/Khuda\|Khuda]] címnél taglalt perzsa `khod` = saját, önmaga szó kapcsán írottakat értelmezve érthető ez meg, de mint kiderül, a török nyelvben is hasonló esetet találunk: a nyilván [[I/Isten\|Isten]] szavunk csonkulásaként vehető török `üst` = ős, előd, felettes, szülő párjának tartható és az [[O/Ős\|ős]] szavunkkal megfeleltethető alant említett `öz` = önmaga szócska.  
 
 Az [[E/Ember – régi ember\|ember – régi ember]] magát nem a testével, hanem a [[S/Szellem\|szellem]]ével, fénytermészetével, fénnyel (Nappal) azonosította. (Ez megegyezik Grandpierre Atilla Lélek és a világegyetem című könyvében megfogalmazottakkal[^1].)  
 "Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. `Én` és `ön` is az [[A/AN, ÁN\|An]] = ég (egy, isten(anya)) változata (vö. sumér `AN` = ég, menny), felhangos párja.  
@@ -48,7 +48,8 @@ A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] sz
 > A német `ich` nem 'ish'. Ez egy h/k, mint a latin [[E/Ego\|ego]]-ban. Mindkettő a magyar [[E/Ég\|ég]], azaz Isten lakhelye szóból származik (az ősi emberek isteni szellemükkel/lelkükkel azonosították magukat, nem pedig testükkel és pénzükkel; vö. még a szkíta-iráni [[K/Khuda\|Khuda]] = Isten és a perzsa `khod` reflexív használata).  
 > Ennek az Istennek megvan a megfelelője, az Ördög/Sátán. **Vö. a barát és ellenség jelentésű perzsa szavakkal**. Ezekben a magyar `tűz` szó is benne van. Annak bizonyítására, hogy a zoroasztriánus [[D/Dualisztikus világkép\|dualisztikus világkép]] Irán előtti, és hogy a szavak valójában egy indoeurópai előtti rétegből származó európai szavakra épülnek, többre lenne szükség, mint néhány sor.  
 > Egy baráti tanács az irániaknak: ne fogadják el a nyugati szakértői véleményeket, mert 1) nem érdeklik őket az pre-indoeurópaiak és a pre-szemiták 2) *azok pénzén fizetik őket, akik a testükkel és a (piszkos, haszonszerzéssel szerzett) pénzükkel azonosítják magukat*.  
-> Egy barát (ellenség?) Magyarországról { #nko2h3}
+> Egy barát (ellenség?) Magyarországról
+{ #nko2h3}
 
 
 ...és az Isten jelentésű khoda ([[K/Khuda\|Khuda]]) is [[K/Kut\|kut]] és [[K/Kutya\|kutya]] szavunkkal látszik párhuzamot alkotni, ahogy [[G/God\|God]] címnél írottak alapján láttuk. A kutyáról ([[D/DUG\|DUG]] és [[D/DOG#Dog 2)\|dog]] szónál írottak alapján) tudjuk, hogy szent (hurri `kuta` = szent) állat, valamint [[K/Kutyahitű\|kutyahit]] címnél körüljártuk, hogy az [[E/Ember\|ember]] lelke kutyalélek (innen válik érthetővé a khod- visszaható névmás önvaló, lélek (ókínai, hun nyelvben [[K/Kut\|kut]] = életerő, lélek) értelemre való visszavezethetősége).  
