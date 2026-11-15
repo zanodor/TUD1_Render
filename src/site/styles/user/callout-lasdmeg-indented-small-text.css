@@ -15,7 +15,7 @@
     --callout-color: inherit;
     font-size: 90%;
     line-height: 1.6em;
-    margin: 4px 0 1em 15px;
+    margin: 0 0 0.5em 15px;
     
     /* MEGOLDÁS A HÁTTÉRRE ÉS KERETRE: Explicit nullázás a webes buildhez */
     background: transparent !important;
@@ -27,13 +27,6 @@
        A fenti/lenti paddingot levesszük 2px-re, így eltűnik a nagy üres tér, 
        de nem kap nullát, így a 80%-os betűméret sem fog elromlani! */
     padding: 2px 8px 2px 30px !important; 
-}
-
-/* Elrejtjük az ikont és az összecsukó nyilat */
-/* Hide only the housing lasdmeg callout type's icon and fold arrow */
-.callout[data-callout*=lasdmeg] > .callout-title > .callout-fold .svg-icon,
-.callout[data-callout*=lasdmeg] > .callout-title > .callout-icon {
-    display: none !important;
 }
 
 /* LEVEL 1: only the direct content of lasdmeg = 100% */
@@ -81,11 +74,25 @@
     font-size: 72% !important;
 }
 
-/* LEVEL 1 (lasdmeg saját) title layout */
-.callout[data-callout*=lasdmeg] > .callout-title {
-    display: flex !important;
-    align-items: center !important;
-    justify-content: flex-start !important;
+/* Bármilyen mélységű lasdmeg title teljes elrejtése (ikon, nyíl, nbsp sor).
+   Az ismételt attribútum-selector direkt a specificitás növelésére van, hogy
+   a LEVEL 2-4 title layout szabályokat (display:flex) is felülírja. */
+.callout[data-callout*=lasdmeg] > .callout-title,
+.callout[data-callout*=lasdmeg][data-callout*=lasdmeg][data-callout*=lasdmeg][data-callout*=lasdmeg][data-callout*=lasdmeg] > .callout-title {
+    display: none !important;
+}
+
+/* LEVEL 1: content padding nullázása + beágyazott callout margó nullázása */
+.callout[data-callout*=lasdmeg] > .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.callout[data-callout*=lasdmeg] > .callout-content > .callout {
+    margin: 0 !important;
+}
+/* Beágyazott lasdmeg: megtartja a bal behúzást (15px), de nincs alsó/felső margó */
+.callout[data-callout*=lasdmeg] > .callout-content > .callout[data-callout*=lasdmeg] {
+    margin: 0 0 0 15px !important;
 }
 
 /* LEVEL 2, 3, 4 icon & title layout */
